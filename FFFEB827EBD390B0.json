@@ -4,7 +4,7 @@
 		"servers": [ { "server_address": "croft.thethings.girovito.nl", "serv_port_up": 1700, "serv_port_down": 1701, "serv_enabled": true } ],
 		"ref_latitude": 0,
 		"ref_longitude": 0,
-		"ref_altitude": 0,
+		"ref_altitude": -1,
 		"contact_email": "gonzalocasas@gmail.com",
 		"description": "ttn-ic880a"
 	}
