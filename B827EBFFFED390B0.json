@@ -2,10 +2,10 @@
   "gateway_conf": {
 		"gateway_ID": "B827EBFFFED390B0",
 		"servers": [ { "server_address": "croft.thethings.girovito.nl", "serv_port_up": 1700, "serv_port_down": 1701, "serv_enabled": true } ],
-		"ref_latitude": 0,
-		"ref_longitude": 0,
-		"ref_altitude": -1,
-		"contact_email": "gonzalocasas@gmail.com",
+		"ref_latitude": 47.4300,
+		"ref_longitude": 8.5400,
+		"ref_altitude": 430,
+		"contact_email": "ursm@gmx.net",
 		"description": "ttn-ic880a"
 	}
 }
