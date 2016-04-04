@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 0,
-    "ref_longitude": 0,
-    "ref_altitude": 0,
-    "contact_email": "gonzalocasas@gmail.comnet",
+    "ref_latitude": 47.3650541,
+    "ref_longitude": 8.5504195,
+    "ref_altitude": 414,
+    "contact_email": "gonzalocasas@gmail.com",
     "description": "TTN @ EBP"
   }
 }
