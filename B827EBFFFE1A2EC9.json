@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE1A2EC9",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.3848807,
+    "ref_longitude": 8.4928903,
+    "ref_altitude": 405,
+    "contact_email": "mathiasvettiger@gmail.com",
+    "description": "Buck31 @ Zurich"
+  }
+}
