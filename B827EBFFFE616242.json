@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 0,
-    "ref_longitude": 0,
-    "ref_altitude": 0,
+    "ref_latitude": 47.102610696,
+    "ref_longitude": 9.063063727,
+    "ref_altitude": 434,
     "contact_email": "mike@mikezweifel.ch",
     "description": "TTN @ Glarus Nord"
   }
