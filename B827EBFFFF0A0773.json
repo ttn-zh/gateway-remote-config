@@ -1,0 +1,24 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFF0A0773",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }, 
+      {
+        "server_address": "api.loradb.org",
+        "serv_port_up": 1780,
+        "serv_port_down": 1780,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 46.5155057,
+    "ref_longitude": 6.5372456,
+    "ref_altitude": 440,
+    "contact_email": "info@loradb.org",
+    "description": "LP @ Denges"
+  }
+}
