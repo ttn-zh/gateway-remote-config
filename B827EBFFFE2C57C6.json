@@ -3,9 +3,9 @@
     "gateway_ID": "B827EBFFFE2C57C6",
     "servers": [
       {
-        "server_address": "croft.thethings.girovito.nl",
+        "server_address": "router.eu.thethings.network",
         "serv_port_up": 1700,
-        "serv_port_down": 1701,
+        "serv_port_down": 1700,
         "serv_enabled": true
       }
     ],
