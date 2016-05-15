@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEA00A83",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.4047687,
+    "ref_longitude": 8.4944458,
+    "ref_altitude": 483,
+    "contact_email": "funlab@bluewin.ch",
+    "description": "funlab.ch Gateway @ Zurich"
+  }
+}
