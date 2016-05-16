@@ -7,6 +7,11 @@
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
+      }, {
+        "server_address": "iot.semtech.com",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
       },
       {
         "server_address": "api.loradb.org",
