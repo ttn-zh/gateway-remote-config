@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 0,
-    "ref_longitude": 0,
-    "ref_altitude": 0,
-    "contact_email": "gonzalocasas@gmail.com",
-    "description": "TTN @ ZH Lab"
+    "ref_latitude": 47.437918,
+    "ref_longitude": 8.562533,
+    "ref_altitude": 432,
+    "contact_email": "development@sappari.com",
+    "description": "TTN @ R2"
   }
 }
