@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFECE11BF",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.2780843,
+    "ref_longitude": 8.6203826,
+    "ref_altitude": 430.9,
+    "contact_email": "kontakt@michaelpiel.ch",
+    "description": "Meilen @ Zurich"
+  }
+}
