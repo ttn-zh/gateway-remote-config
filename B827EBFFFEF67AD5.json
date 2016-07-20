@@ -1,0 +1,11 @@
+{
+	"gateway_conf": {
+		"gateway_ID": "B827EBFFFEF67AD5",
+		"servers": [ { "server_address": "router.eu.thethings.network", "serv_port_up": 1700, "serv_port_down": 1700, "serv_enabled": true } ],
+		"ref_latitude": 47.33605876768927,
+		"ref_longitude": 8.51474523425653,
+		"ref_altitude": 465,
+		"contact_email": "magnus.lubeck@gmail.com",
+		"description": "Luebeck Leimbach" 
+	}
+}
