@@ -1,0 +1,27 @@
+{
+/* Settings defined in global_conf will be overwritten by those in local_conf */
+        "gateway_conf": {
+                "gateway_ID": "B827EBFFFE6803C4",
+                "servers": [ {
+                    "server_address": "router.eu.thethings.network",
+                    "serv_port_up": 1700,
+                    "serv_port_down": 1700,
+                    "serv_enabled": true } ],
+
+          /* Enter VALID GPS coordinates below before enabling fake GPS */
+                "fake_gps": true,
+                "ref_latitude": 47.42942566,
+                "ref_longitude": 8.54080045,
+                "ref_altitude": 448,
+                "contact_email": "ursm@gmx.net",
+                "description": "zh-seebach",
+
+          /* For ic880A plate */
+          /* https://github.com/ch2i/iC880A-Raspberry-PI */
+                "led_heartbeat": 4,   /* GPIO4 Blue   */
+                "led_down": 18,       /* GPIO18 White */
+                "led_error": 23,      /* GPIO23 Red   */
+                "led_packet": 24      /* GPIO24 Green */
+
+        }
+}
