@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE116554",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.589423,
+    "ref_longitude":  7.614579,
+    "ref_altitude": 279,
+    "contact_email": "hg@hgraesslin.de",
+    "description": "TTN @ Weil am Rhein 01"
+  }
+}
