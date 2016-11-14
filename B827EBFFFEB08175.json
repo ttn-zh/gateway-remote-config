@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB08175",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+     "ref_latitude": 47.329091,
+     "ref_longitude": 8.655622,
+     "ref_altitude": 629,
+     "contact_email": "gonzalocasas@gmail.com",
+     "description": "gnz @ Zurich"
+  }
+}
