@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE44469F",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 41.39029492821629,
+    "ref_longitude": 2.148130535779806,
+    "ref_altitude": 97,
+    "contact_email": "ecabanas2@gmail.com",
+    "description": "Gateway_Making_Sense_1"
+  }
+}
