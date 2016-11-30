@@ -1,0 +1,11 @@
+{
+        "gateway_conf": {
+                "gateway_ID": "B827EBFFFEAD7BD9",
+                "servers": [ { "server_address": "router.eu.thethings.network", "serv_port_up": 1700, "serv_port_down": 1700, "serv_enabled": true } ],
+                "ref_latitude": 47.635297,
+                "ref_longitude": 7.396809,
+                "ref_altitude": 325,
+                "contact_email": "hg@hgraesslin.de",
+                "description": "ttn-gateway Martin K."
+        }
+}
