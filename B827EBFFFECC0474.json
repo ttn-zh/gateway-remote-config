@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFECC0474",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 51.542601,
+    "ref_longitude": 5.042798,
+    "ref_altitude": 14,
+    "contact_email": "roel82@gmail.com",
+    "description": "LoRa Gateway De Blaak Tilburg"
+  }
+}
