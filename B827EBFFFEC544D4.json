@@ -9,8 +9,8 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 44.411196,
-    "ref_longitude": 26.069725,
+    "ref_latitude": 44.4112,
+    "ref_longitude": 26.0697,
     "ref_altitude": 97,
     "contact_email": "mihaimiculescu@yahoo.com",
     "description": "Bucharest iC880A-SPI + RPi"
