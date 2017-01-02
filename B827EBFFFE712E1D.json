@@ -1,0 +1,19 @@
+{
+/* Settings defined in global_conf will be overwritten by those in local_conf */
+        "gateway_conf": {
+                "gateway_ID": "B827EBFFFE712E1D",
+                "servers": [ {
+                    "server_address": "router.eu.thethings.network",
+                    "serv_port_up": 1700,
+                    "serv_port_down": 1700,
+                    "serv_enabled": true } ],
+
+          /* Enter VALID GPS coordinates below before enabling fake GPS */
+                "fake_gps": true,
+                "ref_latitude": 59.955,
+                "ref_longitude": 11.0468,
+                "ref_altitude": 113,
+                "contact_email": "el@datek.no",
+                "description": "datek-lora-gw1",
+        }
+}
