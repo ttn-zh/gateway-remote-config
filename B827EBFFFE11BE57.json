@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE11BE57",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 47.029076,
+    "ref_longitude": 7.745633,
+    "ref_altitude": 97,
+    "contact_email": "philip.vandermeulen@students.bfh.ch",
+    "description": "bfh thesis: iC880A-SPI + Rpi 2"
+  }
+}
