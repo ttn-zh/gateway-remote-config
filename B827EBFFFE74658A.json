@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 50.119525,
-    "ref_longitude": 16.220486,
-    "ref_altitude": 260,
+    "ref_latitude": 50.053338,
+    "ref_longitude": 14.427724,
+    "ref_altitude": 248,
     "contact_email": "george12345698@gmail.com",
-    "description": "TTN - PI3"
+    "description": "PRG_PI3 TTN test"
   }
 }
