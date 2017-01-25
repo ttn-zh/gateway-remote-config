@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE4E7624",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 41.484566182568294,
+    "ref_longitude": 2.0662128925323486,
+    "ref_altitude": 173,
+    "contact_email": "ecabanas2@gmail.com",
+    "description": "Speaking Sensors 2"
+  }
+}
