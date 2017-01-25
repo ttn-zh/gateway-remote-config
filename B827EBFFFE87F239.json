@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE87F239",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 47.44239,
+    "ref_longitude": 8.636002,
+    "ref_altitude": 470,
+    "contact_email": "ttn-gateway@kinety.org",
+    "description": "kinety-ttn-gw Bassersdorf" 
+  }
+}
