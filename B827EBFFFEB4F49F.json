@@ -5,7 +5,7 @@
 		"fake_gps": true,
 		"ref_latitude": 51.85053, 
 		"ref_longitude": 5.43706,
-		"ref_altitude": 8,
+		"ref_altitude": 9,
 		"contact_email": "stephan.visser@iserve-it.nl",
 		"description": "iServe-IT TTN Rivierenland Gateway" 
 	}
