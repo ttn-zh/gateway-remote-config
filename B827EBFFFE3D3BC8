@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE3D3BC8",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 55.9013,
+    "ref_longitude": -3.3045,
+    "ref_altitude": 124,
+    "contact_email": "swdev@ajh.technology",
+    "description": "West Edinburgh"
+  }
+}
