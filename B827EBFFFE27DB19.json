@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE27DB19",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 53.1513,
+    "ref_longitude": 8.2173,
+    "ref_altitude": 7,
+    "contact_email": "pg@ktt-ol.de",
+    "description": "-"
+  }
+}
