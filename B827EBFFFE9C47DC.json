@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE9C47DC",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+     "ref_latitude": 47.168332,
+     "ref_longitude": 9.468706,
+     "ref_altitude": 448,
+     "contact_email": "k.ilkow@gmail.com",
+     "description": "ttn@krempel"
+  }
+}
