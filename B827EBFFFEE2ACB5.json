@@ -10,7 +10,7 @@
       }
     ],
     "ref_latitude": 48.95463,
-    "ref_longitude": 8.84745
+    "ref_longitude": 8.84745,
     "ref_altitude": 11,
     "contact_email": "sauerteig@dims.de",
     "description": "Testgateway upcoming ttn Group Karlsruhe"
