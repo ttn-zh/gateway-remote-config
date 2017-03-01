@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEF191B9",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+     "ref_latitude": 61.230710,
+     "ref_longitude": 7.084758,
+     "ref_altitude": 40,
+     "contact_email": "thomas@rocketfarm.no",
+     "description": "Rocketfarm TTN gateway"
+  }
+}
