@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE1B6FE5",
+    "servers": [
+      {
+        "server_address": "router.dev.thethings.network",
+        "serv_port_up": 1883,
+        "serv_port_down": 1883,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 35.7319,
+    "ref_longitude": 51.3911,
+    "ref_altitude": 124,
+    "contact_email": "ehsan.maiqani@gmail.com",
+    "description": "Ehsan Maiqani"
+  }
+}
