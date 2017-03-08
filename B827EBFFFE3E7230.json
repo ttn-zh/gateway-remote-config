@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE3E7230",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 38.7549798,
+    "ref_longitude": -9.1975827,
+    "ref_altitude": 90,
+    "contact_email": "samuel.balula@trigger.systems",
+    "description": "TTN Lisbon trigger.systems"
+  }
+}
