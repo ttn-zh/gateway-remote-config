@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE52ECDB",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 57.7832894,
+    "ref_longitude": 14.1556951,
+    "ref_altitude": 114,
+    "contact_email": "ttn-gateway@bergdahl.it",
+    "description": "TTN Gateway provided by Bergdahl IT AB" 
+  }
+}
