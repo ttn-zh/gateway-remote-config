@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE3C2C3C",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+     "ref_latitude": 46.993788,
+     "ref_longitude": 8.606188,
+     "ref_altitude": 439,
+     "contact_email": "ttn@inderbitzin.org",
+     "description": "ttn-brunnen01"
+  }
+}
