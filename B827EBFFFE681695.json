@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE681695",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+     "ref_latitude": 47.4792
+     "ref_longitude": 8.2132,
+     "ref_altitude": 345,
+     "contact_email": "simon.wyss2@students.fhnw.ch",
+     "description": "FHNW Test Gateway, Switzerland, 5200 Brugg"
+  }
+}
