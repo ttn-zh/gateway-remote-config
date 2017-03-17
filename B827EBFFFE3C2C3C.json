@@ -7,12 +7,19 @@
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
+      },
+      {
+        "server_address": "log.gatewaystats.org",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
       }
     ],
-     "ref_latitude": 46.993788,
-     "ref_longitude": 8.606188,
-     "ref_altitude": 439,
-     "contact_email": "ttn@inderbitzin.org",
-     "description": "ttn-brunnen01"
+    "fake_gps": true,
+    "ref_latitude": 46.993788,
+    "ref_longitude": 8.606188,
+    "ref_altitude": 439,
+    "contact_email": "ttn@inderbitzin.org",
+    "description": "ttn-brunnen01"
   }
 }
