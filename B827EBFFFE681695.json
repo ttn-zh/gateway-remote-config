@@ -9,9 +9,8 @@
         "serv_enabled": true
       }
     ],
-     "ref_latitude": 47.4792,
-     "ref_longitude": 8.2132,
-     "ref_altitude": 345,
+	 "gps": false,
+	 "fake_gps": false,
      "contact_email": "simon.wyss2@students.fhnw.ch",
      "description": "FHNW Test Gateway, Switzerland, 5200 Brugg"
   }
