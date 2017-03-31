@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE396A00",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 55.648085,
+    "ref_longitude": 12.135610,
+    "ref_altitude": 40,
+    "contact_email": "serritzlew@me.com",
+    "description": "ITS teknik, raspberry pi 3b + ic880a"
+  }
+}
