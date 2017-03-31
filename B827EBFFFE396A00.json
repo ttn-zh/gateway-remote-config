@@ -1,0 +1,18 @@
+{
+  "gateway.conf": {
+    "gateway_ID": "B827EBFFFE396A00",
+    "servers": [
+      {
+        "server_address": "212.40.22.34",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+     "ref_latitude": 55.64191,
+     "ref_longitude": 12.08785,
+     "ref_altitude": 41,
+     "contact_email": "serritzlew@me.com",
+     "description": "ITS teknik Gateway1"
+  }
+}
