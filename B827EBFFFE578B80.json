@@ -1,0 +1,24 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE578B80",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      },
+      {
+        "server_address": "log.gatewaystats.org", 
+        "serv_port_up": 1700, 
+        "serv_port_down": 1700, 
+        "serv_enabled": true
+      }
+    ],
+     "ref_latitude": 50.933191,
+     "ref_longitude": 3.786149,
+     "ref_altitude": 0,
+     "contact_email": "koenvds@live.nl",
+     "description": "LPWAN schnitzels"
+  }
+}
