@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE37994F",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 50.404866,
+    "ref_longitude": 30.614488,
+    "ref_altitude": 80,
+    "contact_email": "ut9uf@ukr.net",
+    "description": "TTN Kiev"
+  }
+}
