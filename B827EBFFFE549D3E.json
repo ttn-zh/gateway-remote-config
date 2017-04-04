@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE549D3E",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 52.0620837,
+    "ref_longitude": 0.1919669,
+    "ref_altitude": 18.97,
+    "contact_email": "richard.emmerson@plextek.com",
+    "description": "TTN Great Chesterford Plextek.com"
+  }
+}
