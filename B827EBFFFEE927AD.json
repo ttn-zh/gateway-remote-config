@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEE927AD",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 38.9774,
+    "ref_longitude": -1.8567,
+    "ref_altitude": 40,
+    "contact_email": "celia.gh@hotmail.com",
+    "description": "ECOSENSE's LoRaWAN"
+  }
+}
