@@ -3,9 +3,9 @@
     "gateway_ID": "B827EBFFFEE927AD",
     "servers": [
       {
-        "server_address": "router.eu.thethings.network",
-        "serv_port_up": 1700,
-        "serv_port_down": 1700,
+        "server_address": "bridge.eu.thethings.network",
+        "serv_port_up": 1883,
+        "serv_port_down": 1883,
         "serv_enabled": true
       }
     ],
