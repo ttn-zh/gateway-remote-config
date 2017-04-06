@@ -1,0 +1,36 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "AA555ADECDEDEDEE",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      },
+      {
+        "server_address": "iot.semtech.com",
+        "serv_port_up": 1680,
+        "serv_port_down": 1680,
+        "serv_enabled": true 
+      },
+      {
+        "server_address": "192.168.3.92",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true 
+      },
+      {
+        "server_address": "bs.net868.ru",
+        "serv_port_up": 11100,
+        "serv_port_down": 11100,
+        "serv_enabled": true 
+      }
+    ],
+    "ref_latitude": 53.520908,
+    "ref_longitude": 49.281355,
+    "ref_altitude": 80,
+    "contact_email": "dencorp@newmail.ru",
+    "description": "TTN Dencorp"
+  }
+}
