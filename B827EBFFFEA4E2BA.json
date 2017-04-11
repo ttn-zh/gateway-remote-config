@@ -1,1 +1,17 @@
-{  "gateway_conf": {    "gateway_ID": "B827EBFFFEA4E2BA",    "servers": [      {        "server_address": "router.eu.thethings.network",        "serv_port_up": 1700,        "serv_port_down": 1700,        "serv_enabled": true      }    ],    "ref_latitude": 47.549612, 7.784795,    "ref_longitude": 7.784795,    "ref_altitude": 20,    "contact_email": "marek.rabe@rabenet.com",    "description": "TTN Fricktal Rheinfelden-West rabenet.com"  }}
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE681695",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+	 "gps": false,
+	 "fake_gps": false,
+     "contact_email": "marek.rabe@rabenet.com",
+     "description": "@rabenet.com, Rheinfelden-West, Switzerland, 4310 Rheinfelden"
+  }
+}
