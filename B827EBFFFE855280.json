@@ -1,0 +1,17 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE855280",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+	 "gps": false,
+	 "fake_gps": false,
+   "contact_email": "phil@mandrel.com",
+   "description": "Mandrel Systems, Cambridge, UK. CB23 7UY"
+  }
+}
