@@ -21,9 +21,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 47.228455,
-    "ref_longitude": 8.829239,
-    "ref_altitude": 409,
+    "ref_latitude": 47.2276,
+    "ref_longitude": 8.8209,
+    "ref_altitude": 419,
     "contact_email": "danilo@coredump.ch",
     "description": "Rapperswil Gateway by coredump.ch"
   }
