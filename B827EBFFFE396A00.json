@@ -1,5 +1,5 @@
 {
-  "gateway.conf": {
+  "gateway_conf": {
     "gateway_ID": "B827EBFFFE396A00",
     "servers": [
       {
@@ -9,10 +9,11 @@
         "serv_enabled": true
       }
     ],
-     "ref_latitude": 55.64191,
-     "ref_longitude": 12.08785,
-     "ref_altitude": 41,
-     "contact_email": "serritzlew@me.com",
-     "description": "ITS teknik Gateway1"
+    "fake_gps": true,
+    "ref_latitude": 55.64191,
+    "ref_longitude": 12.08785,
+    "ref_altitude": 41,
+    "contact_email": "serritzlew@me.com",
+    "description": "ITS teknik Gateway1"
   }
 }
