@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE3A9D6B",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 58.395611,
+    "ref_longitude": 15.566912,
+    "ref_altitude": 0,
+    "contact_email": "magnus.skog@indentive.se",
+    "description": "TTN Gateway 3 at Indentive AB, Linköping, Sweden"
+  }
+}
