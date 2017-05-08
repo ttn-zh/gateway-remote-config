@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 58.395611,
-    "ref_longitude": 15.566912,
+    "ref_latitude": 58.411098,
+    "ref_longitude": 15.605049,
     "ref_altitude": 0,
-    "contact_email": "magnus.skog@indentive.se",
+    "contact_email": "jro@indentive.se",
     "description": "TTN Gateway 3 at Indentive AB, Linköping, Sweden"
   }
 }
