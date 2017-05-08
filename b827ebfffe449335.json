@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "b827ebfffe449335",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 1.3403,
+    "ref_longitude": 103.9632,
+    "ref_altitude": 40,
+    "contact_email": "namduong_nguyen@sutd.edu.sg",
+    "description": "WNDS_GW1"
+  }
+}
