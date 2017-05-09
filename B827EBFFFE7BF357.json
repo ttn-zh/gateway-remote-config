@@ -1,0 +1,19 @@
+
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE7BF357",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 46.9044,
+    "ref_longitude": 8.2548,
+    "ref_altitude": 466,
+    "contact_email": "info@egger-enertech.ch",
+    "description": "ene-ttn-gateway01"
+  }
+}
