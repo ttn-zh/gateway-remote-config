@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 52.5453327,
-    "ref_longitude": 13.3551443,
-    "ref_altitude": 40,
+    "ref_latitude": 52.521625,
+    "ref_longitude": 13.352905,
+    "ref_altitude": 45,
     "contact_email": "fette.kartoffel@gmx.de",
     "description": "TTN Beuth Hochschule Berlin"
   }
