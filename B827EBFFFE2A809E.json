@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE681695",
+    "gateway_ID": "B827EBFFFE2A809E",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -9,9 +9,10 @@
         "serv_enabled": true
       }
     ],
-	 "gps": false,
-	 "fake_gps": false,
-     "contact_email": "simon.wyss2@students.fhnw.ch",
-     "description": "FHNW Test Gateway, Switzerland, 5200 Brugg"
+    "ref_latitude": 51.652,
+    "ref_longitude": -0.08,
+    "ref_altitude": 40,
+    "contact_email": "lorawan.enfield@gmail.com",
+    "description": "Enfield, UK"
   }
 }

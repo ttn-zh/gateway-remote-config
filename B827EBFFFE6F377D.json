@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE6F377D",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 48.184039,
+    "ref_longitude": 16.376904,
+    "ref_altitude": 0,
+    "contact_email": "stefan@schultheis.at",
+    "description": "Test Gateway Vienna Hauptbahnhof"
+  }
+}

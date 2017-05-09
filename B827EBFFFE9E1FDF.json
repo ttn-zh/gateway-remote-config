@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE4A5213",
+    "gateway_ID": "B827EBFFFE9E1FDF",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -13,18 +13,13 @@
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
-      },
-      {
-        "server_address": "ttn.crdmp.ch",
-        "serv_port_up": 1700,
-        "serv_port_down": 1700,
-        "serv_enabled": true
       }
     ],
-    "ref_latitude": 47.2276,
-    "ref_longitude": 8.8209,
-    "ref_altitude": 419,
-    "contact_email": "danilo@coredump.ch",
-    "description": "Rapperswil Gateway by coredump.ch"
+    "fake_gps": true,
+    "ref_latitude": 45.208,
+    "ref_longitude": 5.782,
+    "ref_altitude": 243,
+    "contact_email": "contact@hidnseek.fr",
+    "description": "ttn-hidnseek1"
   }
 }
