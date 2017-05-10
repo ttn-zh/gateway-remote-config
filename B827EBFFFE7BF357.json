@@ -10,9 +10,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 46.9044,
-    "ref_longitude": 8.2548,
-    "ref_altitude": 466,
+    "ref_latitude": 46.736896,
+    "ref_longitude": 8.167452,
+    "ref_altitude": 595,
     "contact_email": "info@egger-enertech.ch",
     "description": "ene-ttn-gateway01"
   }
