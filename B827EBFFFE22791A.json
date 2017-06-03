@@ -9,8 +9,8 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 59.3613827,
-    "ref_longitude": 17.9485453,
+    "ref_latitude": 59.3652291,
+    "ref_longitude": 17.9473484,
     "ref_altitude": 20,
     "contact_email": "martin.dahlstedt@outlook.com",
     "description": "Eniga TTN #1 iC880A-SPI + Rpi 2"
