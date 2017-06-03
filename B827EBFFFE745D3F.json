@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE745D3F",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 55.4801871,
+    "ref_longitude": 12.1766695,
+    "ref_altitude": 5,
+    "contact_email": "yndal84@gmail.com",
+    "description": "Yndal_Køge_DK"
+  }
+}
