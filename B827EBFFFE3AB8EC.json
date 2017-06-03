@@ -1,0 +1,18 @@
+{   "gateway_conf": {                       
+    "gateway_ID": "B827EBFFFE3AB8EC",                       
+    "servers": [                       
+      {                       
+        "server_address": "router.eu.thethings.network",                       
+        "serv_port_up": 1700,                       
+        "serv_port_down": 1700,                       
+        "serv_enabled": true                       
+      }                       
+    ],                       
+    "fake_gps": true,                       
+    "ref_latitude": 47.86227802,                       
+    "ref_longitude": 11.94110675,                       
+    "ref_altitude": 500,                       
+    "contact_email": "sven@guitarsite.de",                       
+    "description": "guitarsite_de LoRa Gateway #1 (Raspi & iC880a)"                       
+  }                       
+}
