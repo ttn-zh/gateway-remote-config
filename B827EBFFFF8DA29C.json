@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 46.7783303,
-    "ref_longitude": 6.6644891,
-    "ref_altitude": 450,
-    "contact_email": "guillaume.volery@heig-vd.ch",
-    "description": "TTN Suisse HEIG-VD"
+    "ref_latitude": 0.0,
+    "ref_longitude": 0.0,
+    "ref_altitude": 0,
+    "contact_email": "op@test.com",
+    "description": "TTN"
   }
 }
