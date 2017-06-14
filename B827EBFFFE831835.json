@@ -1,0 +1,19 @@
+{
+        "gateway_conf": {
+                "gateway_ID": "B827EBFFFE831835",
+                "servers": [ 
+                     { 
+                    "server_address": "router.us-west.thethings.network", 
+                    "serv_port_up": 1700, 
+                    "serv_port_down": 1700, 
+                    "serv_enabled": true 
+                    } 
+                 ],
+                "ref_latitude": 29.54924267,
+                "ref_longitude": -95.09373025,
+                "ref_altitude": 10,
+                "gps": false,
+                "contact_email": "amador.adulfo@gmail.com",
+                "description": "ttn-ic880a"
+        }
+}
