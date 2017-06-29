@@ -1,0 +1,19 @@
+
+{
+ "gateway_conf": {
+   "gateway_ID": "B827EBFFFE27A73E",
+   "servers": [
+     {
+       "server_address": "router.eu.thethings.network",
+       "serv_port_up": 1700,
+       "serv_port_down": 1700,
+       "serv_enabled": true
+     }
+   ],
+   "ref_latitude": 53.769992,
+   "ref_longitude": -0.371330,
+   "ref_altitude": 12,
+   "contact_email": "a.fairburn@2013.hull.ac.uk",
+   "description": "Logistics Institute Gateway"
+ }
+}
