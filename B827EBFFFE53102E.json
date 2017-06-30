@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE53102E",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 51.8872395367444,
+    "ref_longitude": 6.0013255617241,
+    "ref_altitude": 13,
+    "contact_email": "gerardvantklooster@gmail.com",
+    "description": "Doornenburg TTN gateway"
+  }
+}
