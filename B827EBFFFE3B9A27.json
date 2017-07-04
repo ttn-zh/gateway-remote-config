@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE3B9A27",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 52.21096106,
+    "ref_longitude": -0.01890694,
+    "ref_altitude": 94,
+    "contact_email": "erkut.uygun@gmail.com",
+    "description": "CAMBS_Highfields_Caldecote_CMBHIC01"
+  }
+}
