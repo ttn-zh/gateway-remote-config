@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE879A5A",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 52.11792759,
+    "ref_longitude": 0.05673993,
+    "ref_altitude": 30,
+    "contact_email": "erkut.uygun@gmail.com",
+    "description": "CAMBS_Foxton_Station_Road_CMBFOS01"
+   }
+ }
