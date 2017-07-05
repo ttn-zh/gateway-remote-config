@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEA12B37",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 48.0822850,
+    "ref_longitude": 2.1702592,
+    "ref_altitude": 40,
+    "contact_email": "loic.lemoel@eveler.fr",
+    "description": "ttn-eveler"
+  }
+}
