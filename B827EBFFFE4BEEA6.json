@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE4BEEA6",
+    "gateway_ID": "b827ebfffe4beea6",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -9,10 +9,11 @@
         "serv_enabled": true
       }
     ],
+    "fake gps": true,
     "ref_latitude": 56.97380900,
     "ref_longitude": 24.10873400,
     "ref_altitude": 4,
     "contact_email": "martinligotnis@gmail.com",
-    "description": "IC880A-SPI + RPI2 Riga"
+    "description": "Ganibu Dambis"
   }
 }
