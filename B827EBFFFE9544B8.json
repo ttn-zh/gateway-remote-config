@@ -10,9 +10,9 @@
       }
     ],
     "fake_gps": true,
-    "ref_latitude": 47.16095190,
-    "ref_longitude": 9.82179480,
-    "ref_altitude": 587,
+    "ref_latitude": 47.152097,
+    "ref_longitude": 9.820886,
+    "ref_altitude": 561,
     "contact_email": "sebastian.malin@gmx.net",
     "description": "IMST ic880a + rpi"
   }
