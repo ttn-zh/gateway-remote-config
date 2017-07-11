@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEE5257A",
+    "servers": [
+      {
+        "server_address": "router.asia-se.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 23.81730091,
+    "ref_longitude": 86.44158787,
+    "ref_altitude": 212,
+    "contact_email": "amalkrishna.saha@yahoo.com",
+    "description": "IIT_ISM"
+  }
+}
