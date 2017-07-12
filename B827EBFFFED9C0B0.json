@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFED9C0B0",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+	  "fake_gps": true,
+    "ref_latitude": 51.34749763,
+    "ref_longitude": 5.47429232,
+    "ref_altitude": 17,
+    "contact_email": "alex@alexdavidsmith.com",
+    "description": "ttn gateway for 2m engineering"
+  }
+}
