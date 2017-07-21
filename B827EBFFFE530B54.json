@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE530B54",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 45.55110684,
+    "ref_longitude": 18.68641385,
+    "ref_altitude": 88,
+    "contact_email": "marin.stevic@gmail.com",
+    "description": "TTN Otvorena Mreža"
+  }
+}
