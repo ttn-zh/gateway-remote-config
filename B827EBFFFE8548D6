@@ -1,0 +1,19 @@
+{
+   "gateway_conf": {
+     "gateway_ID": "B827EBFFFE8548D6",
+     "servers": [
+       {
+         "server_address": "router.eu.thethings.network",
+         "serv_port_up": 1700,
+         "serv_port_down": 1700,
+         "serv_enabled": true
+       }
+     ],
+ 	  "fake_gps": true,
+     "ref_latitude": 51.52234946,
+     "ref_longitude": -0.04159833,
+     "ref_altitude": 17,
+     "contact_email": "zhangxingjianqm@gmail.com",
+     "description": "livequest"
+   }
+ }
