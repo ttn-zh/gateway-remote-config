@@ -1,0 +1,16 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE6AAB3D",
+    "servers": [
+      {
+        "server_address": "asia-se.thethings.network",
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 12.985142,
+    "ref_longitude": 77.672470,
+    "ref_altitude": 40,
+    "contact_email": "narioinc89@gmail.com",
+    "description": "rak 831 module gateway narioinc bangalore"
+  }
+}
