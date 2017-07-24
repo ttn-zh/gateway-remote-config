@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE91492B",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 43.326841,
+    "ref_longitude": 21.937988,
+    "ref_altitude": 215,
+    "contact_email": "zivko992@gmail.com",
+    "description": "TTN Nis, Serbia"
+  }
+}
