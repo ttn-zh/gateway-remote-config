@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "eui-b827ebfffefb5174",
+    "gateway_ID": "B827EBFFFEFB5174",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
