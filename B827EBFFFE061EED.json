@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE061EED",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 48.1906,
+    "ref_longitude": 16.3867,
+    "ref_altitude": 200,
+    "contact_email": "stefan@schultheis.at",
+    "description": "ttn vienna hwg imst"
+  }
+}
