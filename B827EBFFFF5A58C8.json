@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFF5A58C8",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+     "ref_latitude": 53.238297,
+     "ref_longitude": -1.443534,
+     "ref_altitude": 100,
+     "contact_email": "works@monkeypark.org.uk",
+     "description": "Monkey Park Pilot Gateway 1"
+  }
+}
