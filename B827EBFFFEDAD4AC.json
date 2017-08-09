@@ -1,0 +1,11 @@
+{
+	"gateway_conf": {
+		"gateway_ID": "B827EBFFFEDAD4AC",
+		"servers": [ { "server_address": "router.us.thethings.network", "serv_port_up": 1700, "serv_port_down": 1700, "serv_enabled": true } ],
+		"ref_latitude": -25.435537,
+		"ref_longitude": -49.306193,
+		"ref_altitude": 920,
+		"contact_email": "devlware@gmail.com",
+		"description": "Radek_North" 
+	}
+}
