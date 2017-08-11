@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEBE1704",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 15.35079240,
+    "ref_longitude": 75.14579338,
+    "ref_altitude": 40,
+    "contact_email": "social_blog@armtronix.net",
+    "description": "Armtronix Hubli LoraWAN Gateway 865-867"
+  }
+}
