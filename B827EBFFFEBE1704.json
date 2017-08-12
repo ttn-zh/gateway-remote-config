@@ -13,6 +13,8 @@
     "ref_longitude": 75.14579338,
     "ref_altitude": 40,
     "contact_email": "social_blog@armtronix.net",
-    "description": "Armtronix Hubli LoraWAN Gateway 865-867"
+    "description": "Armtronix Hubli LoraWAN Gateway 865-867",
+    "stat_format":"semtech",
+    "fake_gps":true
   }
 }
