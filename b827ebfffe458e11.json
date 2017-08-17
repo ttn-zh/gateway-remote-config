@@ -9,6 +9,7 @@
         "serv_enabled": true
       },
     ],
+    "fake_gps": true,
     "ref_latitude": 43.33034052,
     "ref_longitude": 5.11087081,
     "ref_altitude": 5,
