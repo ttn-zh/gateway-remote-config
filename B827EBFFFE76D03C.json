@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE76D03C",
+    "gateway_ID": "oberstr_connect",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
