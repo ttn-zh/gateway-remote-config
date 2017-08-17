@@ -1,6 +1,6 @@
-{
+
   "gateway_conf": {
-    "gateway_ID": "b827ebfffe458e11",
+    "gateway_ID": "B827EBFFFE458E11",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -13,7 +13,7 @@
     "ref_latitude": 43.33034052,
     "ref_longitude": 5.11087081,
     "ref_altitude": 5,
-    "contact_email": "maurice@markezana.orgn",
+    "contact_email": "maurice@markezana.org",
     "description": "TTN GATEWAY - MMA SAUSSET"
   }
 }
