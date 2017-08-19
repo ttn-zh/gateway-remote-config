@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE7B2148",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 25.26950,
+    "ref_longitude": 55.30880,
+    "ref_altitude": 40,
+    "contact_email": "snowhilldxb@hotmail.com",
+    "description": "TTN Home"
+  }
+}
