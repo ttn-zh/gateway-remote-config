@@ -1,0 +1,19 @@
+
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE9881D1",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 52.540017,
+    "ref_longitude": 17.605341,
+    "ref_altitude": 100,
+    "contact_email": "bartosz.kolodziej@enlyse.com",
+    "description": "Enlyse TTN Gniezno"
+  }
+}
