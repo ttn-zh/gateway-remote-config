@@ -9,8 +9,8 @@
 				"serv_enabled": true 
 			} 
 		], 
-		"ref_latitude": 51,76168350, 
-		"ref_longitude": 5,52609445, 
+		"ref_latitude": 51.76168350, 
+		"ref_longitude": 5.52609445, 
 		"ref_altitude":  5, 
 		"contact_email": "f.ruijs@gmail.com", 
 		"description": "Gateway Oss, Nl, RAK831" 
