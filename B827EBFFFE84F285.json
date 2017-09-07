@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "og_lora_gateway_citycenter",
+    "gateway_ID": "B827EBFFFE84F285",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
