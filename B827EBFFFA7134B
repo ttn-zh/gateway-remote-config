@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFA7134B",
+    "servers": [
+      {
+        "server_address": "router.US.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 53.50705154 ,
+    "ref_longitude": -113.44977302,
+    "ref_altitude": 1661,
+    "contact_email": "HANSONM01@HOTMAIL.COM",
+    "description": "TTN EDMONTON"
+  }
+}
