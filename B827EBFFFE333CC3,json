@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE333CC3",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 50.8503,
+    "ref_longitude": 4.3517,
+    "ref_altitude": 100,
+    "contact_email": "felixsys@gmail.com",
+    "description": "Bxl Testing"
+  }
+}
