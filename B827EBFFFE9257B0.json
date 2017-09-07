@@ -3,21 +3,16 @@
     "gateway_ID": "B827EBFFFE9257B0",
     "servers": [
       {
-        "server_address": "router.eu.thethings.network",
-        "serv_port_up": 1700,
-        "serv_port_down": 1700,
-        "serv_enabled": true
-      }, 
-      {
-        "server_address": "iot.semtech.com",
-        "serv_port_up": 1680,
-        "serv_port_down": 1680,
-        "serv_enabled": true
-      },
-      {
         "server_address": "88.99.175.85",
         "serv_port_up": 1680,
         "serv_port_down": 1680,
+        "serv_enabled": true
+      }
+      , 
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
         "serv_enabled": true
       }
     ],
