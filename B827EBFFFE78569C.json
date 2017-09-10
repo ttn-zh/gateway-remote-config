@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE78569C",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 46.21943524,
+    "ref_longitude": 6.14135640,
+    "ref_altitude": 460,
+    "contact_email": "pierrot@hello-web.net",
+    "description": "iC880A-SPI + Raspeberry Pi3"
+  }
+}
