@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE35057F",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+              "serv_port_up": 1700,
+              "serv_port_down": 1700,
+              "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.356341,
+    "ref_longitude": 8.5608637,
+    "ref_altitude": 420,
+    "contact_email": "dsandovalv@gmail.com",
+    "description": "BS2"
+  }
+}
