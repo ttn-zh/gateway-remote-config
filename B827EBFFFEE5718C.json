@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFEE5718C", 
+		"servers": [ 
+			{ 
+				"server_address": "ttn-router-asia-se", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 33.81965406, 
+		"ref_longitude": 35.55291776, 
+		"ref_altitude": 250, 
+		"contact_email": "jeanhindy@hotmail.com", 
+		"description": "ttn Lebanon" 
+	} 
+} 
