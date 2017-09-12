@@ -1,0 +1,19 @@
+
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE4E4528",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -34.902399,
+    "ref_longitude": 138.550990,
+    "ref_altitude": 13.68,
+    "contact_email": "sabooh@gmail.com",
+    "description": "TTN Beverley, South Australia"
+  }
+}
