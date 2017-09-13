@@ -3,7 +3,7 @@
 		"gateway_ID": "B827EBFFFEE5718C", 
 		"servers": [ 
 			{ 
-				"server_address": "ttn-router-asia-se", 
+				"server_address": "ttn-router-eu", 
 				"serv_port_up": 1700, 
 				"serv_port_down": 1700, 
 				"serv_enabled": true 
