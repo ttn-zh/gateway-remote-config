@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE3AE420",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 50.42381139,
+    "ref_longitude": 30.37484053,
+    "ref_altitude": 41,
+    "contact_email": "alex_house@ukr.net",
+    "description": "Free LoRa Kyiv"
+  }
+}
