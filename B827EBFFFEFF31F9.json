@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEFF31F9",
+    "servers": [
+      {
+        "server_address": "router.au.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -36.686043,
+    "ref_longitude": 143.580322,
+    "ref_altitude": 254,
+    "contact_email": "millersam6@gmail.com",
+    "description": "My first LoRa gateway"
+  }
+}
