@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEA21DB7",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 48.1800923,
+    "ref_longitude": 11.5497532,
+    "ref_altitude": 544,
+    "contact_email": "ibtisam117@gmail.com",
+    "description": "TTN Hawa Dawa"
+  }
+}
