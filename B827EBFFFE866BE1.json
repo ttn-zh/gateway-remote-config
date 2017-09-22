@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE866BE1",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.513420,
+    "ref_longitude": 8.680669,
+    "ref_altitude": 400,
+    "contact_email": "gerth@hallihallo.ch",
+    "description": "Germbedded GmbH Gateway"
+  }
+}
