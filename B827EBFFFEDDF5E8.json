@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFEDDF5E8", 
+		"servers": [ 
+			{ 
+				"server_address": "router.as2.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 25.01172985, 
+		"ref_longitude": 121.54126441, 
+		"ref_altitude": 40, 
+		"contact_email": "harwahyu@gmail.com", 
+		"description": "NTUST (Taiwan) and UI (Indonesia)" 
+	} 
+} 
