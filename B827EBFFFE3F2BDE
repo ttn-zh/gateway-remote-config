@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE3F2BDE",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 45.76862,
+    "ref_longitude": 3.0967572,
+    "ref_altitude": 450,
+    "contact_email": "capt-connect@orange.fr",
+    "description": "Capt-Connect_Gateway"
+  }
+}
