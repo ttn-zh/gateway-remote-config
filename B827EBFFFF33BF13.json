@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFF33BF13",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 44.42091015,
+    "ref_longitude": 26.09494252,
+    "ref_altitude": 70,
+    "contact_email": "vlad.arsene@gmail.com",
+    "description": "Bucharest Test Node"
+  }
+}
