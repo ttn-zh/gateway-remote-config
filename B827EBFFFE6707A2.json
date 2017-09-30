@@ -1,0 +1,17 @@
+{
+	"gateway_conf":{
+		"gateway_ID":"B827EBFFFE6707A2",
+		"servers":[
+			{
+				"server_address":"router.eu.thethings.network",
+				"serv_port_up":1700,
+				"serv_port_down":1700,
+				"serv_enabled":true
+			}
+		],
+		"ref_latitude":40,
+		"ref_longitude":45,
+		"contact_email":"yldzmuhammed@gmail.com",
+		"description":"test gateway sakapam"
+	}
+}
