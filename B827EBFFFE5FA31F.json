@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE5FA31F",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+     "ref_latitude": -33.928364,
+     "ref_longitude": 18.866037,
+     "ref_altitude": 115,
+     "contact_email": "17554497@sun.ac.za",
+     "description": "us-gateway"
+  }
+}
