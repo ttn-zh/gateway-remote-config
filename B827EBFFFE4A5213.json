@@ -9,12 +9,6 @@
         "serv_enabled": true
       },
       {
-        "server_address": "log.gatewaystats.org",
-        "serv_port_up": 1700,
-        "serv_port_down": 1700,
-        "serv_enabled": true
-      },
-      {
         "server_address": "ttn.crdmp.ch",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
