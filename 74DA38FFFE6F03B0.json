@@ -7,12 +7,6 @@
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
-      },
-      {
-        "server_address": "log.gatewaystats.org", 
-        "serv_port_up": 1700, 
-        "serv_port_down": 1700, 
-        "serv_enabled": true
       }
     ],
      "ref_latitude": 47.329091,
