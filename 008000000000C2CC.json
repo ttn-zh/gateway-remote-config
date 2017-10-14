@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "008000000000C2CC",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 41.306637,
+    "ref_longitude": 19.811785,
+    "ref_altitude": 115,
+    "contact_email": "mirsadcurri1@gmail.com",
+    "description": "ESDP_CONDUIT"
+  }
+}
