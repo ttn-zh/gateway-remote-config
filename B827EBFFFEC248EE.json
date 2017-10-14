@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEC248EE",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude":  47.5566613,
+    "ref_longitude": 7.5731289,
+    "ref_altitude": 254,
+    "contact_email": "mytsai2007@gmail.com",
+    "description": "atlas ttn lora test"
+  }
+}
