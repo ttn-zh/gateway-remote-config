@@ -1,6 +1,6 @@
 { 
 	"gateway_conf": { 
-		"gateway_ID": "appsaloon_rak831_gateway", 
+		"gateway_ID": "B827EBFFFEE15631", 
 		"servers": [ 
 			{ 
 				"server_address": "router.eu.thethings.network", 
