@@ -3,7 +3,7 @@
 		"gateway_ID": "appsaloon_rak831_gateway", 
 		"servers": [ 
 			{ 
-				"server_address": "ttn-router-eu", 
+				"server_address": "router.eu.thethings.network", 
 				"serv_port_up": 1700, 
 				"serv_port_down": 1700, 
 				"serv_enabled": true 
