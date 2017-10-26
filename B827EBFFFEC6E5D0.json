@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 49.20407570,
-    "ref_longitude": 16.59436505,
-    "ref_altitude": 245,
+    "ref_latitude": 49.19936100,
+    "ref_longitude": 16.57974700,
+    "ref_altitude": 320,
     "contact_email": "ttn@base48.cz",
     "description": "Brno TTN gateway run by https://base48.cz"
   }
