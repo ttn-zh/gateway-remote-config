@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE7979EE",
+    "servers": [
+      {
+        "server_address": "router.us.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 43.1348548,
+    "ref_longitude": -79.3916043,
+    "ref_altitude": 154,
+    "contact_email": "ttn@cayugalake.net",
+    "description": "RAK831 TTN gateway"
+  }
+}
