@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEBE6D12",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 48.1771350,
+    "ref_longitude": 9.7862480,
+    "ref_altitude": 546,
+    "contact_email": "willoughby.kater@gmail.com",
+    "description": "TTN Schemmerhofen"
+  }
+}
