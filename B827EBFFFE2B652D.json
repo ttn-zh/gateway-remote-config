@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE2B652D",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 9.84832057,
+    "ref_longitude": 78.34465039,
+    "ref_altitude": 10,
+    "contact_email": "rahamath1986@gmail.com",
+    "description": "TamilNadu, IN"
+  }
+}
