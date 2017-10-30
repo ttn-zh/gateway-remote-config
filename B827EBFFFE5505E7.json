@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE5505E7",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 52.02700961,
+    "ref_longitude": 4.71482669,
+    "ref_altitude": 0,
+    "contact_email": "1029985@idcollege.nl",
+    "description": "TTN mboRijnland, LoRaWAN-Gateway, Gouda"
+  }
+}
