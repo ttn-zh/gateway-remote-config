@@ -9,8 +9,8 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 51,22638770,
-    "ref_longitude": 4,41766677,
+    "ref_latitude": 51.22638770,
+    "ref_longitude": 4.41766677,
     "ref_altitude": 40,
     "contact_email": "maarten.wachters@student.ap.be",
     "description": "Internet of things project"
