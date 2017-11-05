@@ -1,6 +1,6 @@
 {
 	"gateway_conf": {
-		"gateway_ID": "B827EBFFFE127860", 
+		"gateway_ID": "B827EBFFFE127860",
 		"servers": [
 			{
 				"server_address": "router.as2.thethings.network",
@@ -9,10 +9,10 @@
 				"serv_enabled": true
 			}
 		],
-		"ref_latitude": the lat of the rak 831 gateway,
-		"ref_longitude": the long of the rak 831 gateway,
+		"ref_latitude": 13.7150154,
+		"ref_longitude": 100.5944643,
 		"ref_altitude": 40,
-		"contact_email": "contact email of the gateway   owner",
-		"description": "a short desciption"
+		"contact_email": "kkanedaa@gmail.com",
+		"description": "Tinkbit.io - TTN LoRa Gateway"
 	}
 }
