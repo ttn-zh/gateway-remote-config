@@ -15,6 +15,9 @@
         "serv_enabled": true
       }
     ],
+    "ref_latitude": 48.7537,
+    "ref_longitude": 16.6035,
+    "ref_altitude": 180,
     "contact_email": "1200gs.win@gmail.com",
     "description": "LGW_City1"
   }
