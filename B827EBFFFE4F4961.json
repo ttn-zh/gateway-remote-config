@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE4F4961",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 48.890542237226114,
+    "ref_longitude": 2.2672929174220147,
+    "ref_altitude": 31,
+    "contact_email": "stan@netsunset.com",
+    "description": "Stan Gateway"
+  }
+}
