@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFEF7DE39", 
+		"servers": [ 
+			{ 
+				"server_address": "router.us.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 43.761335, 
+		"ref_longitude": -79.264339, 
+		"ref_altitude": 157, 
+		"contact_email": "cybizhelp@gmail.com", 
+		"description": "Visit www.lorawan.ca  or www.lpwan.ca" 
+	} 
+} 
