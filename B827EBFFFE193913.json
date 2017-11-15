@@ -9,8 +9,8 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 48,30899574,
-    "ref_longitude": 16,32085032,
+    "ref_latitude": 48.30899574,
+    "ref_longitude": 16.32085032,
     "ref_altitude": 192,
     "contact_email": "brenner.genius@gmail.com",
     "description": "Internet of things project"
