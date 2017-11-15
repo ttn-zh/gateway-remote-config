@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFEBBF413", 
+		"servers": [ 
+			{ 
+				"server_address": "eu.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 25.5413, 
+		"ref_longitude": 121.6732, 
+		"ref_altitude": 40, 
+		"contact_email": "kochingchang@gmail.com", 
+		"description": "KCC for RAK831 GW test" 
+	} 
+} 
