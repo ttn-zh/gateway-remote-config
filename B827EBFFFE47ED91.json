@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE47ED91",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 41.02029775,
+    "ref_longitude": 28.89022149,
+    "ref_altitude": 73,
+    "contact_email": "erenak1996@gmail.com",
+    "description": "TTN Try"
+  }
+}
