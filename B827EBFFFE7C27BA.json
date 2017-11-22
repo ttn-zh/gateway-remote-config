@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE7C27BA",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 55.862247,
+    "ref_longitude": -4.238533,
+    "ref_altitude": 100,
+    "contact_email": "romain.jegat.2017@uni.strath.ac.uk",
+    "description": "LoRa Project Strathclyde"
+  }
+}
