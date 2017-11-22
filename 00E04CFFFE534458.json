@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "00E04CFFFE534458",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 46.519587,
+    "ref_longitude": 6.566946,
+    "ref_altitude": 410,
+    "contact_email": "raffael@octanis.org",
+    "description": "TTN octanis.org, Lausanne"
+  }
+}
