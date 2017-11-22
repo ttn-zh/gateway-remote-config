@@ -9,8 +9,8 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 10.0000000,
-    "ref_longitude": 20.00000,
+    "ref_latitude": 2231.7996,
+    "ref_longitude": 11403.1098,
     "ref_altitude": 40,
     "contact_email": "vernon@noa-labs.com",
     "description": "TTN"
