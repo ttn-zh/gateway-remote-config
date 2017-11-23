@@ -9,8 +9,8 @@
 				"serv_enabled": true 
 			} 
 		], 
-		"ref_latitude": 113.32451, 
-		"ref_longitude": 23.01826, 
+		"ref_latitude": 23.01826, 
+		"ref_longitude": 113.32451, 
 		"ref_altitude": 6, 
 		"contact_email": "cmh@hugeinventions.com", 
 		"description": "huge" 
