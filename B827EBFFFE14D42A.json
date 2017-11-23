@@ -9,9 +9,9 @@
 				"serv_enabled": true 
 			} 
 		], 
-		"ref_latitude": the lat of the rak 831 gateway, 
-		"ref_longitude": the long of the rak 831 gateway, 
-		"ref_altitude": 40, 
+		"ref_latitude": 113.32451, 
+		"ref_longitude": 23.01826, 
+		"ref_altitude": 6, 
 		"contact_email": "cmh@hugeinventions.com", 
 		"description": "huge" 
 	} 
