@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE9CD681",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 22.0,
+    "ref_longitude": 114.0,
+    "ref_altitude": 40,
+    "contact_email": "vernon@noa-labs.com",
+    "description": "TTN"
+  }
+}
