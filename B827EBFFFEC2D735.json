@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEC2D735",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 50.830493,
+    "ref_longitude": 4.464993,
+    "ref_altitude": 71,
+    "contact_email": "frederic@vanvolsem.com",
+    "description": "TTN Brussels East"
+  }
+}
