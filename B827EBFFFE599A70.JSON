@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE599A70", 
+		"servers": [ 
+			{ 
+				"server_address": "router.as2.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 13.72905496, 
+		"ref_longitude": 100.77577363, 
+		"ref_altitude": 20, 
+		"contact_email": "si.wachirawich@gmail.com", 
+		"description": "Gateway" 
+	} 
+}
