@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB1EAE0",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 113.79730678,
+    "ref_longitude": 22.682082358,
+    "ref_altitude": 17,
+    "contact_email": "farce.chen@rakwireless.com",
+    "description": "RAK831 GW"
+  }
+}
