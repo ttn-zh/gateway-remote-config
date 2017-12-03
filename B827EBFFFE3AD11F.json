@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE3AD11F",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 41.116062,
+    "ref_longitude": 16.874494,
+    "ref_altitude": 20,
+    "contact_email": "info@alfacentauri.tech",
+    "description": "Alfa Centauri Technology S.r.l.S. alfacentauri.tech"
+  }
+}
