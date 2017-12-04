@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFEE2DD4A9",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 113.69730578,
+    "ref_longitude": 22.582082458,
+    "ref_altitude": 11,
+    "contact_email": "sh282404472@aliyun.com",
+    "description": "Cathedral_Road"
+  }
+}
