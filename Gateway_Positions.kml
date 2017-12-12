@@ -813,5 +813,12 @@
 		<coordinates>14.4502592,50.0822850</coordinates>
 		</Point>
   </Placemark>
+  <Placemark>
+	<name>B827EBFFFF81EA3F</name>
+	<description>GW</description>
+		<Point>
+		<coordinates>10.78286167,106.63127730</coordinates>
+		</Point>
+  </Placemark>
 </Document>
 </kml>

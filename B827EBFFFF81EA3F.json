@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFF81EA3F",
+    "servers": [
+      {
+        "server_address": "52.178.215.58",
+        "serv_port_up": 1900,
+        "serv_port_down": 1900,
+        "serv_enabled": true
+      }
+    ],
+     "ref_latitude": 10.78286167,
+     "ref_longitude": 106.63127730,
+     "ref_altitude": 399,
+     "contact_email": "hainguyen.8y@gmail.com",
+     "description": "LoRa @Hai Nguyen"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE0EE998",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 59.930043,
+    "ref_longitude": 10.763093,
+    "ref_altitude": 60,
+    "contact_email": "eirik.staff@gmail.com",
+    "description": "TTN Gronerlokka Oslo"
+  }
+}

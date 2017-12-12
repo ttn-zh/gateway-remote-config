@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEC45F6E",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 38.86657065,
+    "ref_longitude": 117.44996348,
+    "ref_altitude": 10,
+    "contact_email": "valentin.wyss@ekz.ch",
+    "description": "TTN"
+  }
+}

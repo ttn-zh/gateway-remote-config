@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude":  47.49588,
-    "ref_longitude": 7.61524,
-    "ref_altitude": 330,
+    "ref_latitude":  47.549274,
+    "ref_longitude": 7.587885,
+    "ref_altitude": 280,
     "contact_email": "ttn-arlesheim@gmail.com",
-    "description": "Ein erstes (?) Gateway fürs Birseck"
+    "description": "Energie Zukunft Schweiz Basel"
   }
 }

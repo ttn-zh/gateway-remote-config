@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB30746",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 49.181646,
+    "ref_longitude": 16.692134,
+    "ref_altitude": 0,
+    "contact_email": "info@networksecresearch.org",
+    "description": "BUT-IOT"
+  }
+}

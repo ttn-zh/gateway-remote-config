@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE9AD38C",
+    "servers": [
+      {
+        "server_address": "router.as2.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 25.0266532,
+    "ref_longitude": 121.54274699999996,
+    "ref_altitude": 21,
+    "contact_email": "danielpard30@gmail.com",
+    "description": "TTN Taipei - Lora campus"
+  }
+}

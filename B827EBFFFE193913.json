@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE193913",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 48.30899574,
+    "ref_longitude": 16.32085032,
+    "ref_altitude": 192,
+    "contact_email": "brenner.genius@gmail.com",
+    "description": "Internet of things project"
+  }
+}
