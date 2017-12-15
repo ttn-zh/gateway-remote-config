@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB9D15C",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 31.27350054,
+    "ref_longitude": 121.07855951,
+    "ref_altitude": 100,
+    "contact_email": "ljsongh@qq.com",
+    "description": "limei wireless sensor"
+  }
+}
