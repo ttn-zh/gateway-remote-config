@@ -1,0 +1,18 @@
+{
+	"gateway_conf": {
+		"gateway_ID": "B827EBFFFE6CC78D",
+		"servers": [
+			{
+				"server_address": "router.eu.thethings.network",
+				"serv_port_up": 1700,
+				"serv_port_down": 1700,
+				"serv_enabled": true
+			}
+		],
+		"ref_latitude": 46.16816822,
+		"ref_longitude": -1.11524716,
+		"ref_altitude": 1,
+		"contact_email": "ed@getlarge.eu",
+		"description": "Aloes LR Gateway"
+	}
+}
