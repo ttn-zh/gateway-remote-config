@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE02257F",
+    "servers": [
+      {
+        "server_address": "router.au.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": -33.83150930,
+    "ref_longitude": 151.20424058,
+    "ref_altitude": 2,
+    "contact_email": "info@crowdconvergence.com",
+    "description": "Crowd Convergence"
+  }
+}
