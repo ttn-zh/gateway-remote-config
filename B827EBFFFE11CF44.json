@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE1657BF",
+    "gateway_ID": "B827EBFFFE11CF44",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 45.24862031,
-    "ref_longitude": 19.84971309,
+    "ref_latitude": 45.25232152,
+    "ref_longitude": 19.76153961,
     "ref_altitude": 100,
     "contact_email": "office@maker.rs",
-    "description": "TTN maker.rs - makers-ns-01"
+    "description": "TTN maker.rs - makers-ns-02"
   }
 }
