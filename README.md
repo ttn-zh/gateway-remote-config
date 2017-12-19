@@ -6,7 +6,7 @@ TTN gateways using [this setup](https://github.com/ttn-zh/ic880a-gateway/tree/sp
 
 Adding your remote configuration file here is easy:
 - Create one JSON file with your gateway's EUI **in uppercase** as the name. So, if you gateway EUI is `B827EBFFFE4E743F`,  the file should be called `B827EBFFFE4E743F.json`
-- The content of the file should be your `local_conf.json`, if you're unusure, use [this file as template](https://github.com/ttn-zh/gateway-remote-config/blob/master/template.json) and update the following fields:
+- The content of the file should be your `local_conf.json`, if you're unusure, copy [this file as template](https://github.com/ttn-zh/gateway-remote-config/blob/master/template.json) and update the following fields:
   - Gateway EUI
   - Email
   - Description
