@@ -9,8 +9,8 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 46.07,
-    "ref_longitude": 11.12,
+    "ref_latitude": 46.080423,
+    "ref_longitude":  11.102507,
     "ref_altitude": 200,
     "contact_email": "pisoni.silvano@gmail.com",
     "description": "Gateway posizionato a Vela di Trento"
