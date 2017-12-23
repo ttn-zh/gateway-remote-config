@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB87E1D",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 43.552604,
+    "ref_longitude":  7.13343,
+    "ref_altitude": 10,
+    "contact_email": "fabien.ferrero@gmail.com",
+    "description": "Gateway Cap Antibes"
+  }
+}
