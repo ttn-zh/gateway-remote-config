@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE741501",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 48.34017108,
+    "ref_longitude": 18.07741874,
+    "ref_altitude": 215,
+    "contact_email": "martin.trakovicky@gmail.com",
+    "description": "TTN GATEWAY - TRAKO"
+  }
+}
