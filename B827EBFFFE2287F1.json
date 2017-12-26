@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE2287F1",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 54.99188362,
+    "ref_longitude": 82.91261405,
+    "ref_altitude": 130,
+    "contact_email": "lxa@intmash.ru",
+    "description": "INTMASH LLC: RAK831 gateway"
+  }
+}
