@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-     "ref_latitude": 51.8763,
-     "ref_longitude": 5.8367,
-     "ref_altitude": 50,
+    "ref_latitude": 55.55914983,
+     "ref_longitude": 12.91329129,
+     "ref_altitude": 2,
      "contact_email": "ohotbar@gmail.com",
      "description": "RAK831 with RPI gateway"
   }
