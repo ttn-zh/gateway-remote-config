@@ -1,15 +1,17 @@
- "gateway_ID": "B827EBFFFE481662",
- "servers": [
-   {
-       "server_address": "router.eu.thethings.network",
-       "serv_port_up": 1700,
-       "serv_port_down": 1700,
-       "serv_enabled": true
-   }
-  ],
-    "ref_latitude": 22.5876396409,
-    "ref_longitude": 113.8446029810,,
-    "ref_altitude": 40,
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE481662",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 22.587639,
+    "ref_longitude":  113.844602,
+    "ref_altitude": 279,
     "contact_email": "crejias@126.com",
     "description": "RAK831"
   }
