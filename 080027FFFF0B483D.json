@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "080027ffff0b483d",
+    "gateway_ID": "080027FFFF0B483D",
     "servers": [
       {
         "server_address": "router.as2.thethings.network",
