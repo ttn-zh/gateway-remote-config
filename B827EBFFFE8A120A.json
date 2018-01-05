@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE8A120A",
+    "servers": [
+      {
+        "server_address": "router.us.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 40.859040,
+    "ref_longitude": -98.064444,
+    "ref_altitude": 555,
+    "contact_email": "philip_christenson@hotmail.com",
+    "description": "Christenson Farms 1"
+  }
+}
