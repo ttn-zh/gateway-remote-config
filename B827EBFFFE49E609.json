@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE49E609",
+    "servers": [
+      {
+        "server_address": "router.as.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -6.983017,
+    "ref_longitude": 107.637484,
+    "ref_altitude": 40,
+    "contact_email": "fadli.m.m@gmail.com",
+    "description": "Gateway RAK831 at Bojongsoang, Bandung"
+  }
+}
