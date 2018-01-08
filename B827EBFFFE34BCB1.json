@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE34BCB1",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 53.28159960,
+    "ref_longitude": -3.29563420,
+    "ref_altitude": 300,
+    "contact_email": "iot@verfacil.co.uk",
+    "description": "TTN Gateway in Flintshire North Wales"
+  }
+ }
