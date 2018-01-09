@@ -1,0 +1,18 @@
+{
+    "gateway_conf" : {
+         "gateway_ID" : "0013EFFFFE6A4A7E",
+         "servers" : [
+              {
+                   "server_address" : "router.us.thethings.network",
+                   "serv_port_up" : 1700,
+                   "serv_port_down" : 1700,
+                   "serv_enabled" : true
+              }
+         ],
+         "ref_latitude" : 32.888149,
+         "ref_longitude" : -96.803637,
+         "ref_altitude" : 183,
+         "contact_email" : "rcdonado@gmail.com",
+         "description" : "AmpBridgeCorp LORA Test"
+    }
+}
