@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE28DC7F",
+    "servers": [
+      {
+        "server_address": "router.au.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -33.653048,
+    "ref_longitude": 151.131615,
+    "ref_altitude": 205,
+    "contact_email": "dirk.eisner@gmail.com",
+    "description": "LoRawGateway"
+  }
+}
