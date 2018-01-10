@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEA60EDA",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude":  	21.62884,
+    "ref_longitude": 39.18427,
+    "ref_altitude": 0,
+    "contact_email": "eng.aljohania@gmail.com",
+    "description": "TTN AljohaniAJ"
+  }
+}
