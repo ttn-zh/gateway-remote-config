@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "14ABC5FFFEF21796", 
+		"servers": [ 
+			{ 
+				"server_address": "router.eu.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 43.6194002, 
+		"ref_longitude": 7.0825769, 
+		"ref_altitude": 21, 
+		"contact_email": "quangkhai1349@gmail.com", 
+		"description": "First gateway in University Cote d'Azur" 
+	} 
+}
