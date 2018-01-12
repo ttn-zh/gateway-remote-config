@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE08EE6B",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 50.959058,
+    "ref_longitude": -3.206660,
+    "ref_altitude": 120,
+    "contact_email": "ttn@dominicvarley.com",
+    "description": "TTN Wellington, Somerset, UK"
+  }
+}
