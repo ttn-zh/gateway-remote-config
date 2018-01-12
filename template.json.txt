@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE8A7935",
+    "servers": [
+      {
+        "server_address": "router.au.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -36.725854,
+    "ref_longitude": 174.694864,
+    "ref_altitude": 18.70,
+    "contact_email": "darrynwells@gmail.com",
+    "description": "LoRa Gateway Massey"
+  }
+}
