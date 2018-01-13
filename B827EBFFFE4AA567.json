@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE4AA567",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 50.77193513,
+    "ref_longitude": 3.39983055,
+    "ref_altitude": 20,
+    "contact_email": "digiteyezer67@gmail.com",
+    "description": "LoRa @ digiteyezer"
+  }
+}
