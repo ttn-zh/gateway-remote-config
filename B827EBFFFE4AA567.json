@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 0,
-    "ref_longitude": 0,
-    "ref_altitude": 0,
+    "ref_latitude": 50.77193513,
+    "ref_longitude": 3.39983055,
+    "ref_altitude": 20,
     "contact_email": "digiteyezer67@gmail.com",
     "description": "LoRa @ digiteyezer"
   }
