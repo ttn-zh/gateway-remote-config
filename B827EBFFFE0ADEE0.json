@@ -3,13 +3,13 @@
                  "gateway_ID": "B827EBFFFE0ADEE0",
                  "servers": [
                          {
-                                 "server_address":  "router.au.thethings.network",
-                                 "serv_port_up": 1700,
-                                 "serv_port_down": 1700,
+                                 "server_address":  "thethings.meshed.com.au",
+                                 "serv_port_up": 1901,
+                                 "serv_port_down": 1901,
                                  "serv_enabled": true
                          }
                  ],
-                "fake_gps": true,
+                "gps": false,
                  "ref_latitude": -27.617259,
                  "ref_longitude": 153.215568,
                  "ref_altitude": 255,
