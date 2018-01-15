@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE1F08E6", 
+		"servers": [ 
+			{ 
+				"server_address": "router.eu.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 52.17185240243, 
+		"ref_longitude": 5.2675422560, 
+		"ref_altitude": 11, 
+		"contact_email": "andre@jongtiem.nl", 
+		"description": "Soest" 
+	} 
+} 
