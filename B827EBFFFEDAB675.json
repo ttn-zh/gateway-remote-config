@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEDAB675",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 59.33831547,
+    "ref_longitude": 18.01383567,
+    "ref_altitude": 32,
+    "contact_email": "nadie.nadish@gmail.com",
+    "description": "lora gateway for skanska"
+  }
+}
