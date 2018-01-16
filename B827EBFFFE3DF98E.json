@@ -1,0 +1,18 @@
+{
+    "gateway_conf" : {
+         "gateway_ID" : "B827EBFFFE3DF98E",
+         "servers" : [
+              {
+                   "server_address" : "router.as.thethings.network",
+                   "serv_port_up" : 1700,
+                   "serv_port_down" : 1700,
+                   "serv_enabled" : true
+              }
+         ],
+         "ref_latitude" : 12.89301897,
+         "ref_longitude" : 77.70637903,
+         "ref_altitude" : 950,
+         "contact_email" : "gopal@coqube.com",
+         "description" : "CoQube LORA Test"
+    }
+}
