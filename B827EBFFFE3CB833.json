@@ -3,7 +3,7 @@
     "gateway_ID": "B827EBFFFE3CB833",
     "servers": [
       {
-        "server_address": "router.eu.thethings.network",
+        "server_address": "thethings.meshed.com.au",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
