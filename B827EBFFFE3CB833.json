@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE3CB833",
+    "servers": [
+      {
+        "server_address": "thethings.meshed.com.au",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -36.8600388,
+    "ref_longitude": 174.6322154,
+    "ref_altitude": 15,
+    "contact_email": "jake.spb@gmail.com",
+    "description": "Here a human readable description of it"
+  }
+}
