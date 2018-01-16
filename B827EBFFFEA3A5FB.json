@@ -1,0 +1,18 @@
+{
+    "gateway_conf": {
+        "gateway_ID": "B827EBFFFEA3A5FB",
+        "servers": [
+            {
+                "server_address": "router.au.thethings.network",
+                "serv_port_up": 1700,
+                "serv_port_down": 1700,
+                "serv_enabled": true
+            }
+        ],
+        "ref_latitude": 5.70737374,
+        "ref_longitude": -72.93047061,
+        "ref_altitude": 3,
+        "contact_email": "direccion@siot-ingenieria.com.co",
+        "description": "Boyacá Gateway #2"
+    }
+}
