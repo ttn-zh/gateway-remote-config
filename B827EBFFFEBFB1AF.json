@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEBFB1AF",
+    "servers": [
+      {
+        "server_address": "router.us.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 37.9890167,
+    "ref_longitude": -1.114053,
+    "ref_altitude": 43,
+    "contact_email": "angel.sandoval@activeit.es",
+    "description": "LoraWAN Test Gateway in Murcia"
+  }
+}
