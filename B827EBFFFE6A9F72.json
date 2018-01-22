@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE6A9F72",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 52.40682200,
+    "ref_longitude": -1.51969300,
+    "ref_altitude": 84.79,
+    "contact_email": "andruszd@gmail.com",
+    "description": "Coventry England LORA Gateway"
+  }
+}
