@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB154CE",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 53.36645011,
+    "ref_longitude": -2.72077680,
+    "ref_altitude": 0,
+    "contact_email": "jonathon.provost@haltonhousing.org",
+    "description": "WP BMS"
+  }
+}
