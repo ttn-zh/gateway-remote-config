@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEC6F1D1",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 59.83437180,
+    "ref_longitude": 10.43400621,
+    "ref_altitude":27,
+    "contact_email": "nail@enxense.com",
+    "description": "Spordata GW 1"
+  }
+}
