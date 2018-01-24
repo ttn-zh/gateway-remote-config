@@ -1,0 +1,18 @@
+{
+	"gateway_conf":{
+		"gateway_ID": "B827EBFFFEB892A3",
+		"servers":[
+		{
+			"server_address": "router.eu.thethings.network",
+			"server_port_up":1700,
+			"server_port_down":1700,
+			"server_enabled":true
+		}
+		],
+		"ref_latitude": 21.027764,
+		"ref_longitude": 105.834160,
+		"ref_altitude":40,
+		"contact_email": "tuanca@saovietgroup.com.vn",
+		"description": "Saoviet test gateway 01"
+	}
+}
