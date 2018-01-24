@@ -1,0 +1,17 @@
+{
+	"gateway_conf": {
+	 	"gateway_ID": "B827EBFFFE80BC45",
+		"servers": [ 
+			{ "server_address": "router.eu.thethings.network",
+				"serv_port_up": 1700,
+				"serv_port_down": 1700,
+				"serv_enabled": true 
+			}
+			],
+			"ref_latitude": 47.49880,
+			"ref_longitude": 8.72370,
+			"ref_altitude": 410,
+			"contact_email": "argussli@gmail.com",
+			"description": "ry1" 
+	}
+}
