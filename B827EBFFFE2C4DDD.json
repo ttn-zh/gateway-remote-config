@@ -3,7 +3,7 @@
 		"gateway_ID": "B827EBFFFE2C4DDD", 
 		"servers": [ 
 			{ 
-				"server_address": "router.us-west.thethings.network", 
+				"server_address": "router.eu.thethings.network", 
 				"serv_port_up": 1700, 
 				"serv_port_down": 1700, 
 				"serv_enabled": true 
