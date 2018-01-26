@@ -1,0 +1,18 @@
+{
+        "gateway_conf": {
+                "gateway_ID": "B827EBFFFE401C75",
+                "servers": [ 
+				{ 
+					"server_address": "router.eu.thethings.network", 
+					"serv_port_up": 1700, 
+					"serv_port_down": 1700, 
+					"serv_enabled": true 
+				} 
+			],
+                "ref_latitude": 43.6144687,
+                "ref_longitude": 7.0706636,
+                "ref_altitude": 129,
+                "contact_email": "mdubois@arcsis.org",
+                "description": "PF Conception RAK 831 433Mhz" 
+        }
+}
