@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 44.549008,
-    "ref_longitude": 10.900258,
-    "ref_altitude": 50,
+    "ref_latitude": 44.619550,
+    "ref_longitude": 10.922990,
+    "ref_altitude": 25,
     "contact_email": "matteovillani@ymail.com",
     "description": "iC880a + Rpi 3 TTN gateway in Modena"
   }
