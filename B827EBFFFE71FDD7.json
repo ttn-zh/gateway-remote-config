@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE71FDD7",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 48.89452726,
+    "ref_longitude": 2.33673961,
+    "ref_altitude": 70,
+    "contact_email": "couin3@laposte.net",
+    "description": "TTN RAK831"
+  }
+}
