@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 48.35482884,
-    "ref_longitude": 10.90587252,
-    "ref_altitude": 483,
-    "contact_email": "paul.imgrund@hs-augsburg.de",
+    "ref_latitude": 48.35476379,
+    "ref_longitude": 10.90473043,
+    "ref_altitude": 520,
+    "contact_email": "hubert.hoegl@hs-augsburg.de",
     "description": "hsa-lora-gateway"
   }
 }
