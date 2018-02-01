@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE6052B1",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+     "ref_latitude": 54.553506,
+     "ref_longitude": -6.005651,
+     "ref_altitude": 35.93,
+     "contact_email": "smaguire@iottech.co.uk",
+     "description": "iottech dunmurry"
+  }
+}
