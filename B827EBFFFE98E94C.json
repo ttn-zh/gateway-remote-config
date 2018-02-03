@@ -1,6 +1,6 @@
 { 
 	"gateway_conf": { 
-		"gateway_ID": "lorahomegw", 
+		"gateway_ID": "eui-b827ebfffe98e94c", 
 		"servers": [ 
 			{ 
 				"server_address": "ttn-router-eu", 
