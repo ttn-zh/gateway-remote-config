@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE24770F",     
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 56.90697,
+    "ref_longitude": 14.86371,
+    "ref_altitude": 170,
+    "contact_email": "henrik@ect-sweden.se",
+    "description": "TTN Växjö"
+  }
+}
