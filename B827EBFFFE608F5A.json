@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE608F5A",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 40.581017,
+    "ref_longitude": -3.935251,
+    "ref_altitude": 844,
+    "contact_email": "antonioazcona@hotmail.com",
+    "description": "Azcona GateWay in Torrelodones"
+  }
+}
