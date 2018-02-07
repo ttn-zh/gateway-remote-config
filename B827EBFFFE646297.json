@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE646297",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 57.707219,
+    "ref_longitude": 11.940276,
+    "ref_altitude": 20,
+    "contact_email": "maxwell.carr@berge.io",
+    "description": "Berge Gateway 01"
+  }
+}
