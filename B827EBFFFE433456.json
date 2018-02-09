@@ -1,0 +1,24 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE433456",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      },
+      {
+        "server_address": "log.gatewaystats.org",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 42.42668034,
+    "ref_longitude": 25.62528103,
+    "ref_altitude": 260,
+    "contact_email": "info@zaralab.org",
+    "description": "zaralab.org Gateway 2 @ Stara Zagora"
+  }
+}
