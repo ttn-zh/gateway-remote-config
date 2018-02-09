@@ -15,10 +15,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 42.422295,
-    "ref_longitude": 25.600974,
+    "ref_latitude": 42.42833423,
+    "ref_longitude": 25.61557244,
     "ref_altitude": 483,
     "contact_email": "info@zaralab.org",
-    "description": "zaralab.org Gateway @ Stara Zagora"
+    "description": "zaralab.org Gateway 1 @ Stara Zagora"
   }
 }
