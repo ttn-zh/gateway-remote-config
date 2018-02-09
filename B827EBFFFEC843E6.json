@@ -1,0 +1,18 @@
+{
+   "gateway_conf": {
+     "gateway_ID": "B827EBFFFEC843E6",
+     "servers": [
+       {
+         "server_address": "router.eu.thethings.network",
+         "serv_port_up": 1700,
+         "serv_port_down": 1700,
+         "serv_enabled": true
+       }
+     ],
+     "ref_latitude": 8.1485242,
+     "ref_longitude": 123.8467942,
+     "ref_altitude": 30,
+     "contact_email": "christian.resma@lsu.edu.ph",
+     "description": "Thesis"
+   }
+ }
