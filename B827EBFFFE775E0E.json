@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE775E0E",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 48.99153513,
+    "ref_longitude": 2.31217104,
+    "ref_altitude": 86,
+    "contact_email": "richard@perez-mail.fr",
+    "description": "TTN ripleyXLR8 Montmorency France"
+  }
+}
