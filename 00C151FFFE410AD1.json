@@ -1,0 +1,17 @@
+{
+	"gateway_conf": {
+	 	"gateway_ID": "00C151FFFE410AD1",
+		"servers": [ 
+			{ "server_address": "router.eu.thethings.network",
+				"serv_port_up": 1700,
+				"serv_port_down": 1700,
+				"serv_enabled": true 
+			}
+			],
+			"ref_latitude": 47.3834856,
+			"ref_longitude": 11.7845482,
+			"ref_altitude": 580,
+			"contact_email": "georg.kirchmair@gmx.com",
+			"description": "Gs LoRaWAN Gateway Buch in Tirol" 
+	}
+}
