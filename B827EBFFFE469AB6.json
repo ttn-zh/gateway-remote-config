@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE469AB6",
+    "servers": [
+      {
+        "server_address": "router.au.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -37.813628,
+    "ref_longitude": 144.963058,
+    "ref_altitude": 31,
+    "contact_email": "hanjialuo@live.com",
+    "description": "TTN TaylorHan"
+  }
+}

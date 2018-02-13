@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE5286E0",
+    "gateway_ID": "B827EBFFFE7CB189",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": ,
-    "ref_longitude": ,
-    "ref_altitude": 280,
-    "contact_email": "ttn-arlesheim@gmail.com",
-    "description": "ad hoc gateway John Dickinson"
+    "ref_latitude": 53.5666308,
+    "ref_longitude": -1.5329785,
+    "ref_altitude": 115,
+    "contact_email": "safurniss@blueyonder.co.uk",
+    "description": "TTN Barnsley"
   }
 }

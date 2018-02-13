@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE0A45DF",
+    "gateway_ID": "B827EBFFFE292C95",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -15,10 +15,11 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 42.42833423,
-    "ref_longitude": 25.61557244,
-    "ref_altitude": 483,
-    "contact_email": "info@zaralab.org",
-    "description": "zaralab.org Gateway 1 @ Stara Zagora"
+    "fake_gps": true,
+    "ref_latitude": 45.1545,
+    "ref_longitude": 5.8423,
+    "ref_altitude": 624,
+    "contact_email": "contact@hidnseek.fr",
+    "description": "ttn-hidnseek4"
   }
 }

@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE5286E0",
+    "gateway_ID": "B827EBFFFE7A981E",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": ,
-    "ref_longitude": ,
-    "ref_altitude": 280,
-    "contact_email": "ttn-arlesheim@gmail.com",
-    "description": "ad hoc gateway John Dickinson"
+    "ref_latitude": 53.532525,
+    "ref_longitude": -1.478353,
+    "ref_altitude": 97,
+    "contact_email": "steve.jubb@sheffield.ac.uk",
+    "description": "UflO_TUoS_Wboro_OP"
   }
 }

@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE5286E0",
+    "gateway_ID": "B827EBFFFE24770F",     
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": ,
-    "ref_longitude": ,
-    "ref_altitude": 280,
-    "contact_email": "ttn-arlesheim@gmail.com",
-    "description": "ad hoc gateway John Dickinson"
+    "ref_latitude": 56.90697,
+    "ref_longitude": 14.86371,
+    "ref_altitude": 170,
+    "contact_email": "henrik@ect-sweden.se",
+    "description": "TTN Växjö"
   }
 }

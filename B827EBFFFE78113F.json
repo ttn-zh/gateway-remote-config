@@ -1,6 +1,8 @@
 {
 	  "gateway_conf": {
 	    "gateway_ID": "B827EBFFFE78113F",
+   	    "gps": false,
+	    "fake_gps": false,
 	    "servers": [
 	      {
 	        "server_address": "router.au.thethings.network",
@@ -9,9 +11,6 @@
 	        "serv_enabled": true
 	      }
 	    ],
-	     "ref_latitude": -37.1902832,
-	     "ref_longitude": 174.896132,
-	     "ref_altitude": 17,
 	     "contact_email": "adamson.delacruz@gmail.com",
 	     "description": "Cruzer Test Gateway 02"
 	  }

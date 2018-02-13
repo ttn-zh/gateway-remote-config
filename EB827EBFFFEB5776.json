@@ -1,0 +1,16 @@
+  {
+	"gateway_conf": {
+		"gateway_ID": "EB827EBFFFEB5776",
+		"servers": [ { 
+			"server_address": "router.eu.thethings.network", 
+			"serv_port_up": 1700, 
+			"serv_port_down": 1700, 
+			"serv_enabled": true 
+		} ],
+		"ref_latitude": 0.0,
+		"ref_longitude": 0.0,
+		"ref_altitude": 0,
+		"contact_email": "lora.friuli@gmail.com",
+		"description": "Fri-Gateway" 
+	}
+}
