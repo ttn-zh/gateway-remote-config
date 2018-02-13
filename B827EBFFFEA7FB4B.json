@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEA7FB4B",
+    "servers": [
+      {
+        "server_address": "router.au.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+	"ref_latitude": 37.3784201,
+	"ref_longitude": 127.11280750000003,
+	"ref_altitude": 600,
+	"contact_email": "kaizen8501@gmail.com",
+	"description": "wiznet_lora_gateway2" 
+  }
+}
