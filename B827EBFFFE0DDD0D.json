@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE7CB189",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 53.56596407,
+    "ref_longitude": -1.53098901,
+    "ref_altitude": 115,
+    "contact_email": "safurniss@blueyonder.co.uk",
+    "description": "SAF_TTNGW_001"
+  }
+}
