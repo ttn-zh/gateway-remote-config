@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEE56D6D",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 50.86920856258646,
+    "ref_longitude": 2.8886223054769884,
+    "ref_altitude": 39,
+    "contact_email": "kristof@tecnova.be",
+    "description": "Iotdepot Lora Gateway"
+  }
+}
