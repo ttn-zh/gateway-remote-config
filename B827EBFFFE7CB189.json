@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 53.5666308,
-    "ref_longitude": -1.5329785,
-    "ref_altitude": 10,
+    "ref_latitude": 53.56596640,
+    "ref_longitude": -1.53099323,
+    "ref_altitude": 120,
     "contact_email": "safurniss@blueyonder.co.uk",
-    "description": "SAF_TTNGW_001"
+    "description": "saf_ttngw_002"
   }
 }
