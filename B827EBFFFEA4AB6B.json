@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEA4AB6B",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 44.353080,
+    "ref_longitude": 4.41143,
+    "ref_altitude": 280,
+    "contact_email": "nt@speleo.tv",
+    "description": "Nature-Temoin TTN GW1 RAK831 Condamine"
+  }
+}
