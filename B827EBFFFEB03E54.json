@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB03E54",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 44.16848056,
+    "ref_longitude": 28.63722222,
+    "ref_altitude": 130,
+    "contact_email": "cristian.perdutu@gmail.com",
+    "description": "iMST iC880a"
+  }
+}
