@@ -1,0 +1,24 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "DC4F22FFFF1C1249",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      },
+      {
+        "server_address": "log.gatewaystats.org",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.19536500,
+    "ref_longitude": 8.72441538,
+    "ref_altitude": 500,
+    "contact_email": "asbjorn.riedel@gmail.com",
+    "description": "Single Channel Wollerau"
+  }
+}
