@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE584662",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 51.45239110,
+    "ref_longitude": 5.48222638,
+    "ref_altitude": 0,
+    "contact_email": "d.vanbussel@student.fontys.nl",
+    "description": "Be Creative LoRa WAN Gateway"
+  }
+}
