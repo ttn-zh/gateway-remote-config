@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEF6E917",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 40.66308125,
+    "ref_longitude": 22.98997767,
+    "ref_altitude": 300,
+    "contact_email": "oratios@orytel.com",
+    "description": "TTN Pi Zero test"
+  }
+}
