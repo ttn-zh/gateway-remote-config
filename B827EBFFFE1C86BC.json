@@ -16,10 +16,10 @@
       }
     ],
     "fake_gps": true,
-    "ref_latitude": 45.2147,
-    "ref_longitude": 5.7948,
-    "ref_altitude": 250,
+    "ref_latitude": 52.813408,
+    "ref_longitude": -8.443030,
+    "ref_altitude": 37,
     "contact_email": "contact@hidnseek.fr",
-    "description": "ttn-hidnseek3"
+    "description": "ttn-hidnseek Ireland"
   }
 }
