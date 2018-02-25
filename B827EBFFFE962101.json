@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE962101",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 43.615230,
+    "ref_longitude":  7.072742,
+    "ref_altitude": 113,
+    "contact_email": "fabien.ferrero@gmail.com",
+    "description": "Gateway room S-219"
+  }
+}
