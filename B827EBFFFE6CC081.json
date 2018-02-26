@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE6CC081",     
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.24981674,
+    "ref_longitude": -1.54731371,
+    "ref_altitude": 30,
+    "contact_email": "remi@invirtus.io",
+    "description": "invirtus-lora-gateway"
+  }
+}
