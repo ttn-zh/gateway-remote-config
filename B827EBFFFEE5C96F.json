@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEE5C96F",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.4667,
+    "ref_longitude": 9.4,
+    "ref_altitude": 680,
+    "contact_email": "admin@loracamp.com",
+    "description": "TTN St. Gallen loracamp"
+  }
+}
