@@ -1,0 +1,25 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE5E798E",
+    "servers": [
+      { 
+        "server_address": "router.eu.thethings.network", 
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      },
+      {
+        "server_address": "130.255.185.100",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 46.28309179,
+    "ref_longitude": 7.53793625,
+    "ref_altitude": 11,
+    "contact_email": "info@in-terra.ch",
+    "description": "Interra-Gateway_RAK @ Sierre"
+  }
+}
