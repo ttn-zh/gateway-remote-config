@@ -9,9 +9,13 @@
         "serv_enabled": true
       }
     ],
+    /* GPS configuration */
+    "gps_enabled": true,
+    "gps_tty_path": "/dev/ttyS0",
+    /* GPS reference coordinates */
     "ref_latitude": -33.353559799,
     "ref_longitude": 138.19590182,
-    "ref_altitude": 100,
+    "ref_altitude": 0,
     "contact_email": "asarge@westnet.com.au",
     "description": "Brook Park Gateway"
   }
