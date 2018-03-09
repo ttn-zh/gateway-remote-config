@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE17D801",
+    "servers": [
+      {
+        "server_address": "thethings.meshed.com.au",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -33.353559799,
+    "ref_longitude": 138.19590182,
+    "ref_altitude": 100,
+    "contact_email": "asarge@westnet.com.au",
+    "description": "Brook Park Gateway"
+  }
+}
