@@ -1,0 +1,18 @@
+{
+    "gateway_conf": {
+        "gateway_ID": "B827EBFFFE84C1B8",
+	 "servers": [
+      {
+        "server_address": "router.us.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+        "ref_latitude": 47.8552232,  
+        "ref_longitude": 11.487174699999969, 
+        "ref_altitude": 613,   
+        "contact_email": "fredjahmed.fredj@ensi-uma.tn", 
+        "description": "Pelka's gateway"  
+    }
+}
