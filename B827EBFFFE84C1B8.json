@@ -1,0 +1,20 @@
+{
+/* Put there parameters that are different for each gateway (eg. pointing one gateway to a test server while the others stay in production) */
+/* Settings defined in global_conf will be overwritten by those in local_conf */
+    "gateway_conf": {
+        "gateway_ID": "B827EBFFFE84C1B8", /* pick an unique 8 byte number */
+	 "servers": [
+      {
+        "server_address": "router.us.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+        "ref_latitude": 47.8552232,   /* put your latitude here */
+        "ref_longitude": 11.487174699999969,  /* put your longitude here */
+        "ref_altitude": 613 m,   /* put your altitude here */
+        "contact_email": "fredjahmed.fredj@ensi-uma.tn", /* Email of gateway operator, max 40 chars*/
+        "description": "Pelka's gateway"    /* Public description of this device, max 64 chars */
+    }
+}
