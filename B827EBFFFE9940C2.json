@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE9940C2",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 48.180118,
+    "ref_longitude": 17.126531,
+    "ref_altitude": 145,
+    "contact_email": "dalibor.drgon@tind.sk",
+    "description": "TindGateway"
+  }
+}
