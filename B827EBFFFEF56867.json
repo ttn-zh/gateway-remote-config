@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEF56867",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 45.7796600,
+    "ref_longitude": 3.0862800,
+    "ref_altitude": 406,
+    "contact_email": "yacine.escalante-morgado@michelin.com",
+    "description": "LoRa gateway for industrial purpose"
+  }
+}
