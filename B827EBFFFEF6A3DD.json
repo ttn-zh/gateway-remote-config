@@ -1,0 +1,18 @@
+{
+    "gateway_conf" : {
+         "gateway_ID" : "B827EBFFFEF6A3DD",
+         "servers" : [
+              {
+                   "server_address" : "router.eu.thethings.network",
+                   "serv_port_up" : 1700,
+                   "serv_port_down" : 1700,
+                   "serv_enabled" : true
+              }
+         ],
+         "ref_latitude" : 28.46240704,
+         "ref_longitude" : -16.27524130,
+         "ref_altitude" : 154,
+         "contact_email" : "lora@itccanarias.org",
+         "description" : "LoRa Gateway ITC Sixto Machado #2"
+    }
+}
