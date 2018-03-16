@@ -1,0 +1,18 @@
+{
+    "gateway_conf" : {
+         "gateway_ID" : "B827EBFFFEFAAFB3",
+         "servers" : [
+              {
+                   "server_address" : "router.cn.thethings.network",
+                   "serv_port_up" : 1700,
+                   "serv_port_down" : 1700,
+                   "serv_enabled" : true
+              }
+         ],
+         "ref_latitude" : 40.888149,
+         "ref_longitude" : 116.803637,
+         "ref_altitude" : 60,
+         "contact_email" : "dongling1222@hotmail.com",
+         "description" : "LORA Test"
+    }
+}
