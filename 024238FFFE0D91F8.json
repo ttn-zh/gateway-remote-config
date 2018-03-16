@@ -1,0 +1,19 @@
+{
+      "gateway_conf": {
+              "gateway_ID": "024238FFFE0D91F8",
+              "servers": [
+                        {
+                                    "server_address": "router.eu.thethings.network",
+                                    "serv_port_up": 1700,
+                                    "serv_port_down": 1700,
+                                    "serv_enabled": true
+                                  }
+                      ],
+               "ref_latitude": 39.950000,
+               "ref_longitude": 116.30000,
+               "ref_altitude": 43,
+               "contact_email": "distantsky.s@foxmail.com",
+               "description": "test-gateway"
+            }
+}
+
