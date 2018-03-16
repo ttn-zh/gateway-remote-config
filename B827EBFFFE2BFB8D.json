@@ -1,0 +1,16 @@
+{
+    "gateway_conf": {
+        "gateway_ID": "B827EBFFFE2BFB8D",
+        "servers": [{
+            "server_address": "router.us.thethings.network",
+            "serv_port_up": 1700,
+            "serv_port_down": 1700,
+            "serv_enabled": true
+        }],
+        "ref_latitude": 30.15199198,
+        "ref_longitude": -95.40714363,
+        "ref_altitude": 35.42,
+        "contact_email": "tteague@centrexsolutions.com",
+        "description": "Nightjar Gateway 001"
+    }
+}
