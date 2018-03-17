@@ -1,1 +1,18 @@
-
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEE39353",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 43.9791215,
+    "ref_longitude": 4.681572299999971,
+    "ref_altitude": 139,
+    "contact_email": "pierre.lecointre@sitembe.net",
+    "description": "FR30650_01_GWY"
+  }
+}
