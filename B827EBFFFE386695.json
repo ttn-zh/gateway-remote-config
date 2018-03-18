@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE386695",
+    "servers": [
+      {
+        "server_address": "router.us.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 30.28897142,
+    "ref_longitude": -97.73537572,
+    "ref_altitude": 180,
+    "contact_email": "sepehr.bastami@utexas.edu",
+    "description": "UT Austin research LoRa"
+  }
+}
