@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE0E71A7", 
+		"servers": [ 
+			{ 
+				"server_address": "router.eu.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 51.81715955, 
+		"ref_longitude": 4.77202941, 
+		"ref_altitude": 13, 
+		"contact_email": "johnnyvisser@outlook.com", 
+		"description": "RAK831 multichannel gateway" 
+	} 
+} 
