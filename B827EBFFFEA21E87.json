@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEA21E87",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 40.136940,
+    "ref_longitude": -7.501878,
+    "ref_altitude": 509,
+    "contact_email": "ftsluis@gmail.com",
+    "description": "RPI 3B + ic880a"
+  }
+}
