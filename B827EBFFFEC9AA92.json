@@ -1,0 +1,17 @@
+{
+    "gateway_conf" : {
+         "gateway_ID" : "B827EBFFFEC9AA92",
+         "servers" : [
+              {
+                   "server_address" : "router.eu.thethings.network",
+                   "serv_port_up" : 1700,
+                   "serv_port_down" : 1700,
+                   "serv_enabled" : true
+              }
+         ],
+         "ref_latitude" : 41.3373600,
+         "ref_longitude" : 19.7880130,
+         "ref_altitude" : 55,
+         "contact_email" : "tahiragaares@yahoo.com",
+         "description" : "Comm Prog Student LORA Test"
+    }
