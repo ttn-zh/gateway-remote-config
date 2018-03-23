@@ -1,0 +1,19 @@
+{ 
+    "gateway_conf": { 
+        "gateway_ID": "B827EBFFFE5E11C5", 
+        "servers": [ 
+            { 
+                "server_address": "ttn-router-us-west", 
+                "serv_port_up": 1700, 
+                "serv_port_down": 1700, 
+                "serv_enabled": true 
+            } 
+        ], 
+        "ref_latitude": 45.51006604,
+        "ref_longitude": -122.26571778,
+        "ref_altitude": 765, 
+        "contact_email": "berkholtz@gmail.com", 
+        "description": "Hidden in the foothills east of Portland Oregon" 
+    } 
+} 
+
