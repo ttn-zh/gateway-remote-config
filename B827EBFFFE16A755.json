@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE16A755",
+    "servers": [
+      {
+        "server_address": "thethings.meshed.com.au",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -34.09288173,
+    "ref_longitude": 150.78439534,
+    "ref_altitude": 150,
+    "contact_email": "jgrrule@gmail.com",
+    "description": "A Rak831 Gateway connected to a Raspberry Pi B+. Located inside."
+  }
+}
