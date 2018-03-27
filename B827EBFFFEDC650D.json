@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEDC650D",     
+    "servers": [
+      {
+        "server_address": "router.as.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 1.329344,
+    "ref_longitude": 103.819077,
+    "ref_altitude": 421,
+    "contact_email": "iothingsg@gmail.com",
+    "description": "ttn-iothingsg"
+  }
+}
