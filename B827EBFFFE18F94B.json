@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE18F94B",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 8.55705741,
+    "ref_longitude": 76.88218872,
+    "ref_altitude": 100,
+    "contact_email": "akshai.m@icfoss.in",
+    "description": "ICFOSS LoRaWAN Gateway - RAK 831"
+  }
+}
+
