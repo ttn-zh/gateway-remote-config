@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE8D3CA3",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 45.3068682,
+    "ref_longitude": 5.954149599999937,
+    "ref_altitude": 245,
+    "contact_email": "nopmicrowave@nopmicrowave.io",
+    "description": "RAK831 RP3 LoRaWan Gateway"
+  }
+}
