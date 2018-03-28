@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE93A0BC",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 48.814303,
+    "ref_longitude": 2.394831,
+    "ref_altitude": 30,
+    "contact_email": "haokun.yang@esme.fr",
+    "description": "ic880a-spi+rpi 3"
+  }
+}
