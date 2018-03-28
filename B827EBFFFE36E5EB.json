@@ -1,0 +1,18 @@
+{
+	  "gateway_conf": {
+	    "gateway_ID": "B827EBFFFE36E5EB",
+	    "servers": [
+	      {
+	        "server_address": "router.as1.thethings.network ",
+	        "serv_port_up": 1700,
+	        "serv_port_down": 1700,
+	        "serv_enabled": true
+	      }
+	    ],
+	    "ref_latitude": -6.32020322,
+	    "ref_longitude": 106.68269119,
+	    "ref_altitude": 18,
+	    "contact_email": "lufti.eid@gmail.com",
+	    "description": "TTN Serpong GW Lufti-1"
+	  }
+	}
