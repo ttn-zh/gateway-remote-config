@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE165275",
+    "servers": [
+      {
+        "server_address": "thethings.meshed.com.au",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -31.93661000,
+    "ref_longitude": 115.80332947,
+    "ref_altitude": 10,
+    "contact_email": "philwilkinson40@gmail.com",
+    "description": "FloreatForwarder4"
+  }
+}
