@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE44F397",
+    "servers": [
+      {
+        "server_address": "router.asia-se.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 25.0622731,
+    "ref_longitude": 121.579059,
+    "ref_altitude": 19,
+    "contact_email": "kevin.lai@sivann.com.tw",
+    "description": "use for test"
+  }
+}
