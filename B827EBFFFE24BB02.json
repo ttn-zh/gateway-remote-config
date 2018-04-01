@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE24BB02",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 45.6842,
+    "ref_longitude": 11.3770,
+    "ref_altitude": 160,
+    "contact_email": "ft.sanvito@gmail.com",
+    "description": "ftest_LoRa_gateway_in_San_Vito_di_Leguzzano_VI_Italy"
+  }
+}
