@@ -3,15 +3,15 @@
     "gateway_ID": "B827EBFFFE00F9D7",
     "servers": [
       {
-        "server_address": "http://us-west.thethings.network/",
+        "server_address": "us-west.thethings.network",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 0,
-    "ref_longitude": 0,
-    "ref_altitude": 0,
+    "ref_latitude": 33.114967,
+    "ref_longitude": -87.562716,
+    "ref_altitude": 206,
     "contact_email": "ohheyalan@icloud.com",
     "description": "Here a human readable description of it"
   }
