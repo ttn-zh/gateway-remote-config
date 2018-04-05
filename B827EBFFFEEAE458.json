@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 17.46511257,
-    "ref_longitude":78.44709289,
-    "ref_altitude": 554,
-    "contact_email":"ashok.quantum007@gmail.com",
-    "description": "sensor data"
+    "ref_latitude": 17.46639800,
+    "ref_longitude":78.57814600,
+    "ref_altitude": 494,
+    "contact_email":"manti_madhu@ecil.co.in",
+    "description": "Temparature Sensor Data"
   }
 }
