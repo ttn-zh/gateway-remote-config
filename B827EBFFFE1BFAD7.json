@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE1BFAD7",
+    "servers": [
+      {
+        "server_address": "router.as.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 10.756234,
+    "ref_longitude": 106.627994,
+    "ref_altitude": 19,
+    "contact_email": "hoangtuan.nguyen.hvp@gmail.com",
+    "description": "Lora gatewaygateway ITITIU14123"
+  }
+}
