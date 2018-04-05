@@ -1,0 +1,17 @@
+{ "gateway_conf": {
+  "gateway_ID": "B827EBFFFE045E64",
+  "servers": [
+    {
+      "server_address": "router.us.thethings.network",
+      "serv_port_up": 1700,
+      "serv_port_down": 1700,
+      "serv_enabled": true
+    }
+  ],
+  "ref_latitude": 46.8439372,
+  "ref_longitude": -71.3264165,
+  "ref_altitude": 71,
+  "contact_email": "tneltar@gmail.com",
+  "description": "LoraGo Port RAK831"
+  }
+}
