@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "001f1ffffec794c7",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 53.10842742,
+    "ref_longitude": 8.14116212,
+    "ref_altitude": 5,
+    "contact_email": "sascha97@googlemail.com",
+    "description": "Test Gateway with GPS"
+  }
+}
