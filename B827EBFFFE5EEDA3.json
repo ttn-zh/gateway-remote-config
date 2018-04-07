@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE5EEDA3",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 59.38133913,
+    "ref_longitude": 18.02435554,
+    "ref_altitude": 7,
+    "contact_email": "fazersblue12@gmail.com",
+    "description": "Fazers gateway"
+  }
+}
