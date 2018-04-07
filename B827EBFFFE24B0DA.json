@@ -13,6 +13,8 @@
     "ref_longitude": 8.72178280,
     "ref_altitude": 425,
     "contact_email": "marco.menti77@gmail.com",
-    "description": "RAK831 TTN Gateway by Marco Menti"
+    "description": "RAK831 TTN Gateway by Marco Menti",
+    "gps_tty_path": "/dev/ttyS0",
+    "fake_gps": false
   }
 }
