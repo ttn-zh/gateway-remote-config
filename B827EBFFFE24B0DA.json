@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE24B0DA",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.24260608,
+    "ref_longitude": 8.72178280,
+    "ref_altitude": 425,
+    "contact_email": "marco.menti77@gmail.com",
+    "description": "RAK831 TTN Gateway by Marco Menti"
+  }
+}
