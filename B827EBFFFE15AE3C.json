@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE15AE3C",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 56.290172,
+    "ref_longitude": 38.524319,
+    "ref_altitude": 200,
+    "contact_email": "director@rosscont.ru",
+    "description": "LOZ-341 LoRa GW Raspberry Pi 3 + RAK831"
+  }
+}
