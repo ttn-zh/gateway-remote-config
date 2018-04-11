@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEC785E7",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 39.89867917,
+    "ref_longitude": 32.77604473,
+    "ref_altitude": 0,
+    "contact_email": "yyesilata@sensgreen.com",
+    "description": "The gateway of Sensgreen"
+  }
+}
