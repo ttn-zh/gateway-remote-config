@@ -1,0 +1,18 @@
+{
+   "gateway_conf": {
+    "gateway_ID": "B827EBFFFEBFD631 ",
+     "servers": [
+       {
+         "server_address": "47.106.114.200",
+         "serv_port_up": 1700,
+         "serv_port_down": 1700,
+         "serv_enabled": true
+       }
+     ],
+     "ref_latitude":  30.756035,
+     "ref_longitude": 103.937404,
+     "ref_altitude": 500,
+     "contact_email": "971882721@qq.com",
+     "description": "wcy lora test"
+   }
+ }
