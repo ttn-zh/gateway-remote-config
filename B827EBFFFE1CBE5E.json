@@ -3,11 +3,17 @@
     "gateway_ID": "B827EBFFFE1CBE5E",
     "servers": [
       {
-        "server_address": "router.eu.thethings.network",
+        "server_address": "router.asia-se.thethings.network",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
-      }
+      },
+        {
+        "server_address": "192.168.1.10",
+        "serv_port_up": 1680,
+        "serv_port_down": 1680,
+        "serv_enabled": true
+        }
     ],
     "ref_latitude": 22.30659972,
     "ref_longitude": 114.18467329,
