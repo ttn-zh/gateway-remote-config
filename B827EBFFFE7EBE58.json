@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE7EBE58",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 46.1368843,
+    "ref_longitude": 14.5913881,
+    "ref_altitude": 330,
+    "contact_email": "isteiner067@gmailcom",
+    "description": "STI-lora-gw"
+  }
+}
