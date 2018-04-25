@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 0,
-    "ref_longitude": 0,
-    "ref_altitude": 0,
+    "ref_latitude": -27.376789,
+    "ref_longitude": 151.777852,
+    "ref_altitude": 520,
     "contact_email": "ajw@kelvinhaugh.com.au",
     "description": "Kelvinhaugh QLD RAK LoRa Pi Gateway"
   }
