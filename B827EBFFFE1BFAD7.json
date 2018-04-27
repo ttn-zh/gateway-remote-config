@@ -3,7 +3,7 @@
     "gateway_ID": "B827EBFFFE1BFAD7",
     "servers": [
       {
-        "server_address": "testest_wifi",
+        "server_address": "router.as.thethings.network",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
