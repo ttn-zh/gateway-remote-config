@@ -1,0 +1,15 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFEE58835", 
+		"servers": [ 
+			{ 
+				"server_address": "127.0.0.1", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"contact_email": "doskid@hanyang.ac.kr", 
+		"description": "a short desciption" 
+	} 
+} 
