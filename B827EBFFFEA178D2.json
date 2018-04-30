@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEA178D2",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 51.08466041,
+    "ref_longitude": 17.03737383,
+    "ref_altitude": 20,
+    "contact_email": "jbetiuk@gmail.com",
+    "description": "SiiLab LoRa test gateway Nr. A1 "
+  }
+}
+
