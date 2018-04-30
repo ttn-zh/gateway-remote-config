@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 38.86657065,
-    "ref_longitude": 117.44996348,
-    "ref_altitude": 10,
+    "ref_latitude": 47.410382,
+    "ref_longitude": 8.408920,
+    "ref_altitude": 388,
     "contact_email": "valentin.wyss@ekz.ch",
     "description": "TTN"
   }
