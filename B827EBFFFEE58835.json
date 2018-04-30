@@ -3,13 +3,13 @@
 		"gateway_ID": "B827EBFFFEE58835", 
 		"servers": [ 
 			{ 
-				"server_address": "127.0.0.1", 
+				"server_address": "router.kr.thethings.network", 
 				"serv_port_up": 1700, 
 				"serv_port_down": 1700, 
 				"serv_enabled": true 
 			} 
 		], 
 		"contact_email": "doskid@hanyang.ac.kr", 
-		"description": "a short desciption" 
+		"description": "kim jin hee ttn-korea rak831" 
 	} 
 } 
