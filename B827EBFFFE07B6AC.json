@@ -1,0 +1,19 @@
+
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE07B6AC",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 40.950,
+    "ref_longitude": 29.125,
+    "ref_altitude": 61,
+    "contact_email": "yunuskoktas@gmail.com",
+    "description": "LoRa Gateway"
+  }
+}
