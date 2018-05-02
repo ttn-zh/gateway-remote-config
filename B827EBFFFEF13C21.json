@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEF13C21",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 46.03064,
+    "ref_longitude": 13.35565,
+    "ref_altitude": 1000,
+    "contact_email": "titi.tinta1@gmail.com",
+    "description": "My first Lora WAN Gateway"
+  }
+}
