@@ -1,0 +1,11 @@
+{
+	"gateway_conf": {
+		"gateway_ID": "B827EBFFFEE2C34C",
+		"servers": [ { "server_address": "router.eu.thethings.network", "serv_port_up": 1700, "serv_port_down": 1700, "serv_enabled": true } ],
+		"ref_latitude": 28.46240754,
+		"ref_longitude": -16.27524132,
+		"ref_altitude": 154,
+		"contact_email": "lora@itccanarias.org",
+		"description": "ttn-ic880a" 
+	}
+}
