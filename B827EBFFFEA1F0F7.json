@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 0,
-    "ref_longitude": 0,
-    "ref_altitude": 0,
+    "ref_latitude": 47.5690922,
+    "ref_longitude": -122.3955838,
+    "ref_altitude": 120,
     "contact_email": "lucas.thompson@gmail.com",
     "description": "West Seattle Genesee"
   }
