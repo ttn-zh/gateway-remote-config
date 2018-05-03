@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEA1F0F7",
+    "servers": [
+      {
+        "server_address": "router.us.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.5690922,
+    "ref_longitude": -122.3955838,
+    "ref_altitude": 120,
+    "contact_email": "lucas.thompson@gmail.com",
+    "description": "West Seattle Genesee"
+  }
+}
