@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE8DF0AA",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 43.618719,
+    "ref_longitude": 3.914791,
+    "ref_altitude": 30,
+    "contact_email": "david.olivari@gmail.com",
+    "description": "Sengsing Labs test gateway"
+  }
+}
