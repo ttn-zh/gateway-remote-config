@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE9D9136",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -43.96685556,
+    "ref_longitude":  -19.96816667,
+    "ref_altitude": 966,
+    "contact_email": "joaollr86@gmail.com",
+    "description": "HAP_test1"
+  }
+}
