@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB20B40",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 22.53939,
+    "ref_longitude": 113.95572 ,
+    "ref_altitude": 40,
+    "contact_email": "outmanzhao@icloud.com",
+    "description": "OutMan-Lora-Test"
+  }
+}
