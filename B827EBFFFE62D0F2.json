@@ -1,0 +1,35 @@
+{
+
+	"gateway_conf": {
+
+		"gateway_ID": "B827EBFFFE62D0F2",  
+
+		"servers": [ 
+
+			{ 
+
+				"server_address": "router.eu.thethings.network", 
+
+				"serv_port_up": 1700, 
+
+				"serv_port_down": 1700, 
+
+				"serv_enabled": true 
+
+			} 
+
+		], 
+
+		"ref_latitude": 39.2690135, 
+
+		"ref_longitude":115.25844658, 
+
+		"ref_altitude": 4, 
+
+		"contact_email": "terrychen2000@163.com", 
+
+		"description": "lora_gateway_cg" 
+
+	} 
+
+}     
