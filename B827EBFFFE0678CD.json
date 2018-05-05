@@ -1,0 +1,19 @@
+
+	{
++   " gateway_conf " : {
++     " gateway_ID " : " B827EBFFFE0678CD " ,
++     " servidores " : [
++ {
++         " server_address " : " ttn-router-us-west " ,
++         " serv_port_up " : 1700 ,
++         " serv_port_down " : 1700 ,
++         " serv_enabled " : true
++}
++],
++     " ref_latitude " : 4.733425 ,
++     " ref_longitude " : -74.044313 ,
++     " ref_altitude " : 2500 ,
++     " contact_email " : " arcontrol.soporte@gmail.com " ,
++     " descripción " : " Pruebas app 2520-01 "
++}
++}
