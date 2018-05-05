@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 0,
-    "ref_longitude": 0,
-    "ref_altitude": 0,
+    "ref_latitude": 22.53939,
+    "ref_longitude": 113.95572 ,
+    "ref_altitude": 40,
     "contact_email": "outmanzhao@icloud.com",
     "description": "OutMan-Lora-Test"
   }
