@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEF9DA67"
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude":  52.512255,
+    "ref_longitude": -2.081112,
+    "ref_altitude": 200,
+    "contact_email": "picman@blueyonder.co.uk",
+    "description": "TTN Dudley UK"
+  }
+}
