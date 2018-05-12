@@ -1,19 +1,19 @@
-+{
-+      "gateway_conf": {
-+              "gateway_ID": "B827EBFFFEE51011",
-+              "servers": [
-+                        {
-+                                    "server_address": "router.eu.thethings.network",
-+                                    "serv_port_up": 1700,
-+                                    "serv_port_down": 1700,
-+                                    "serv_enabled": true
-+                                  }
-+                      ],
-+               "ref_latitude": 44.89229100,
-+               "ref_longitude": 4.84447200,
-+               "ref_altitude": 210,
-+               "contact_email": "thibaut.lemouel@gmail.com",
-+               "description": "8 Channel Gatay based on RPi3B+ and an IC880A from IMST"
-+            }
-+}
-+
+{
+      "gateway_conf": {
+              "gateway_ID": "B827EBFFFEE51011",
+              "servers": [
+                        {
+                                    "server_address": "router.eu.thethings.network",
+                                    "serv_port_up": 1700,
+                                    "serv_port_down": 1700,
+                                    "serv_enabled": true
+                                  }
+                      ],
+               "ref_latitude": 44.89229100,
+               "ref_longitude": 4.84447200,
+               "ref_altitude": 210,
+               "contact_email": "thibaut.lemouel@gmail.com",
+               "description": "8 Channel Gatay based on RPi3B+ and an IC880A from IMST"
+            }
+}
+
