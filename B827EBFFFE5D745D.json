@@ -11,6 +11,8 @@
       ],
       "ref_latitude": 39.98220500,
       "ref_longitude": -75.10913046,
-      "ref_altitude": 0
+      "ref_altitude": 0,
+      "contact_email": "tom@knabelabs.com",
+      "description": "klab gw 01"
     }
   }
