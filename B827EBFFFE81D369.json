@@ -1,0 +1,18 @@
+{
+    "gateway_conf" : {
+         "gateway_ID" : "B827EBFFFE81D369",
+         "servers" : [
+              {
+                   "server_address" : "ttn-router-brazil",
+                   "serv_port_up" : 1700,
+                   "serv_port_down" : 1700,
+                   "serv_enabled" : true
+              }
+         ],
+         "ref_latitude" : -19.96818679,
+         "ref_longitude" : -43.96687566,
+         "ref_altitude" : 965,
+         "contact_email" : "joaollr86@gmail.com",
+         "description" : "Roadbuild Gateway #1"
+    }
+}
