@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE9C714B",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 50,43767234,
+    "ref_longitude": 30,52908983,
+    "ref_altitude": 500,
+    "contact_email": "tsuprick@gmail.com",
+    "description": "RAK31 Kiev Mechnik3"
+  }
+}
