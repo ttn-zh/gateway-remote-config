@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 50,43767234,
-    "ref_longitude": 30,52908983,
-    "ref_altitude": 500,
+    "ref_latitude": 50.43767234,
+    "ref_longitude": 30.52908983,
+    "ref_altitude": 50,
     "contact_email": "tsuprick@gmail.com",
     "description": "RAK31 Kiev Mechnik3"
   }
