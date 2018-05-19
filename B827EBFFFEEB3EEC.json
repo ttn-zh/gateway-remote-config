@@ -1,0 +1,19 @@
+
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEEB3EEC",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 30.8908849,
+    "ref_longitude": 121.9371955,
+    "ref_altitude": 21,
+    "contact_email": "taiyu.mit@gmail.com",
+    "description": "Andorra demo test"
+  }
+}
