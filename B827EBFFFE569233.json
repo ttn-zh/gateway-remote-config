@@ -1,0 +1,19 @@
+{ 
+	"gateway_conf": 
+  { 
+		"gateway_ID": "B827EBFFFE569233", 
+		"servers": [ 
+			{ 
+				"server_address": "https://console.thethingsnetwork.org/gateways/b827ebfffe569233", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 11.04513000, 
+		"ref_longitude": 77.03559600, 
+		"ref_altitude": 407, 
+		"contact_email": "jagadeshjk7"gmail.com", 
+		"description": "test_gateway" 
+	} 
+} 
