@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "HERE_ENTER_YOUR_EUI",
+    "gateway_ID": "B827EBFFFE16EF92",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 0,
-    "ref_longitude": 0,
-    "ref_altitude": 0,
-    "contact_email": "HERE_YOUR_EMAIL",
-    "description": "Here a human readable description of it"
+    "ref_latitude": 43.347566,
+    "ref_longitude": -3.007499,
+    "ref_altitude": 40,
+    "contact_email": "javialvar@gmail.com",
+    "description": "RAK831 + RPI3"
   }
 }
