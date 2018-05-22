@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 40,49164107
-    "ref_longitude": -3,66506630
-    "ref_altitude": 700
+    "ref_latitude": 40.49164107
+    "ref_longitude": -3.66506630
+    "ref_altitude": 700,
     "contact_email": "vmayoralb@gmail.com",
     "description": "Vitogateway"
   }
