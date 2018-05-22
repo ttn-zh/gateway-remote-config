@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B8 27 EB FF FE 51 10 3A",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 40,49164107
+    "ref_longitude": -3,66506630
+    "ref_altitude": 700
+    "contact_email": "vmayoralb@gmail.com",
+    "description": "Vitogateway"
+  }
+}
