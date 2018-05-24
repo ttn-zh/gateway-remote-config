@@ -3,16 +3,15 @@
 		"gateway_ID": "B827EBFFFE494323", 
 		"servers": [ 
 			{ 
-				"server_address": "ttn-router-brazil", 
+				"server_address": "router.us.thethings.network", 
 				"serv_port_up": 1700, 
 				"serv_port_down": 1700, 
 				"serv_enabled": true 
 			} 
 		], 
-		"ref_latitude": the lat of the rak 831 gateway, 
-		"ref_longitude": the long of the rak 831 gateway, 
-		"ref_altitude": 40, 
+		"gps": true,
+    		"gps_tty_path": "/dev/ttyAMA0", 
 		"contact_email": "viniaero@yahoo.com.br", 
-		"description": "Teste GateWay Lora" 
+		"description": "GateWay Lora Viniaero RAK811" 
 	} 
 } 
