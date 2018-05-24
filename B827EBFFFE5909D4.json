@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE5909D4", 
+		"servers": [ 
+			{ 
+				"server_address": "router.eu.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": the lat of the rak 831 gateway, 
+		"ref_longitude": the long of the rak 831 gateway, 
+		"ref_altitude": 40, 
+		"contact_email": "vigneshesan@gmail.com", 
+		"description": "forge factory ttn gateway" 
+	} 
+} 
