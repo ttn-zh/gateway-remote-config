@@ -1,0 +1,17 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE494323", 
+		"servers": [ 
+			{ 
+				"server_address": "router.us.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"gps": true,
+    		"gps_tty_path": "/dev/ttyAMA0", 
+		"contact_email": "viniaero@yahoo.com.br", 
+		"description": "GateWay Lora Viniaero RAK811" 
+	} 
+} 
