@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEDD1B81",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 12.914654,
+    "ref_longitude": 77.632759,
+    "ref_altitude": 0,
+    "contact_email": "darshan.ny@hyperthings.in",
+    "description": "Here a human readable description of it"
+  }
+}
