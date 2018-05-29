@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE062AE8",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 123.4573,
+    "ref_longitude": 41.6581,
+    "ref_altitude": 54,
+    "contact_email": "mabiao@huizhuyun.com",
+    "description": "A gateway for HUIZHUYUN"
+  }
+}
