@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "b827ebfffea4ef47",
+    "servers": [
+      {
+        "server_address": "thethings.meshed.com.au",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -37.71724980,
+    "ref_longitude": 145.1404519,
+    "ref_altitude": 37,
+    "contact_email": "jiahowjian@gmail.com",
+    "description": "Eltham Lora GW No.1
+    "
+  }
+}
