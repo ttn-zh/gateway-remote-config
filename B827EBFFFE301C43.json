@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE301C43",
+    "servers": [
+      {
+        "server_address": "router.us.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 42.79747932,
+    "ref_longitude": -83.71153759,
+    "ref_altitude": 5,
+    "contact_email": "fred@moses.bz",
+    "description": "W8FSM DEV GW 1"
+  }
+}
