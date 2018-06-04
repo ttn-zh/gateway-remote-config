@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "b827ebfffe457ed5",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.369145,
+    "ref_longitude": 8.494087,
+    "ref_altitude": 442,
+    "contact_email": "pakupf@gmail.com",
+    "description": "LoraWAN Test Gateway 2 Triemli"
+  }
+}
