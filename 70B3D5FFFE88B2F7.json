@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "70B3D5FFFE88B2F7",
+    "servers": [
+      {
+        "server_address": "router.cn.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 30.507819,
+    "ref_longitude": 114.421655,
+    "ref_altitude": 37.22,
+    "contact_email": "sauditronix@gmail.com",
+    "description": "Wuhan LoRa Gateway #1 (LORUN)"
+  }
+}
