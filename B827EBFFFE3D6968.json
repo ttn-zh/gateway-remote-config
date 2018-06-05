@@ -3,16 +3,16 @@
     "gateway_ID": "B827EBFFFE3D6968",
     "servers": [
       {
-        "server_address": "router.eu.thethings.network",
+        "server_address": "ttn.opennetworkinfrastructure.org",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 47.343558,
-    "ref_longitude": 8.5358291,
-    "ref_altitude": 410,
+    "ref_latitude": 0,
+    "ref_longitude": 0,
+    "ref_altitude": 0,
     "contact_email": "gonzalocasas@gmail.com",
-    "description": "Rote Fabrik @ Zurich"
+    "description": "UZH #1"
   }
 }
