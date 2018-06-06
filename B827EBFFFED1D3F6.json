@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFED1D3F6",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 37.526057,
+    "ref_longitude": 15.080208,
+    "ref_altitude": 96,
+    "contact_email": "alessandro.acqua@gmail.com",
+    "description": "TTN AlCat"
+  }
+}
