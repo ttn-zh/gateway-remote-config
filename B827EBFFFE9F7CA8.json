@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE9F7CA8", 
+		"servers": [ 
+			{ 
+				"server_address": "router.us.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 10.99698943, 
+		"ref_longitude": -74.79558603, 
+		"ref_altitude": 40, 
+		"contact_email": "jtcp27031@gmail.com", 
+		"description": "gateway rak831" 
+	} 
+} 
