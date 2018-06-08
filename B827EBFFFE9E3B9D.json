@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE9E3B9D",
+    "servers": [
+      {
+        "server_address": "localhost",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 34.0487,
+    "ref_longitude": 103.8584,
+    "ref_altitude": 1535,
+    "contact_email": "zhwang2017@lzu.edu.cn",
+    "description": "lab wants to build lorawan"
+  }
+}
