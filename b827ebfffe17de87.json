@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "b827ebfffe17de87", 
+		"servers": [ 
+			{ 
+				"server_address": "router.as2.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 18.812013, 
+		"ref_longitude": 98.954269, 
+		"ref_altitude": 30, 
+		"contact_email": "worrajak@gmail.com", 
+		"description": "myGateway for IoT" 
+	} 
+} 
