@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE2F09A5", 
+		"servers": [ 
+			{ 
+				"server_address": "router.as1.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 1.3579, 
+		"ref_longitude": 103.9318, 
+		"ref_altitude": 8, 
+		"contact_email": "info@sl2square.org", 
+		"description": "Sustainable Living Lab LORA router" 
+	} 
+} 
