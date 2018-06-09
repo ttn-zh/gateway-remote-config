@@ -1,0 +1,22 @@
+
+{
+        "gateway_conf":{
+                "gateway_ID": "B827EBFFFE2F01AE",
+                "servers": [
+                        {
+                                "server_address": "router.eu.thethings.network",
+                                "server_port_up": 1700,
+                                "server_port_down": 1700,
+                                "server_enabled": true
+                        }
+                        ],
+                "ref_latitude": 37.98756584,
+                "ref_longitude": -1.13961219,
+                "ref_altitude": 12,
+                "contact_email": "m607933290@gmail.com",
+                "description": "taderus gateway"
+        }
+}
+
+
+
