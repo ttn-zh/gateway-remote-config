@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEF1FF26",
+    "servers": [
+      {
+        "server_address": "ttn.opennetworkinfrastructure.org",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.00089060,
+    "ref_longitude": 9.55588298,
+    "ref_altitude": 645,
+    "contact_email": "simonflepp@hotmail.com",
+    "description": "iC880a-gateway on RPi3"
+  }
+}
