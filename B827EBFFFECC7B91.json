@@ -1,0 +1,18 @@
+{
+	"gateway_conf": {
+		"gateway_ID": "B827EBFFFECC7B91",
+		"servers": [ { 
+			"server_address": "router.eu.thethings.network", 
+			"serv_port_up": 1700, 
+			"serv_port_down": 1700, 
+			"serv_enabled": true } ],
+		"ref_latitude": 20.58503705,
+		"ref_longitude": -100.37957135,
+		"ref_altitude": 1838,
+		"contact_email": "r.tamayo@vivitec.com.mx",
+		"description": "LoRaWAN Test",
+		"gps_tty_path": "/dev/ttyS0",
+		"gps": true,
+		"fake_gps": false 
+	}
+}
