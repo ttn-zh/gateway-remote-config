@@ -222,10 +222,10 @@
         		"serv_port_down": 1700,
         		"serv_enabled": true
       		}],
+		"ref_latitude": 13.81224916,
+     		"ref_longitude": 100.56465722,
+     		"ref_altitude": 30,
      		"contact_email": "pornpol.w@gmail.com",
-     		"description": "ENRES's RAK831 Multi-Channel LoRaWAN Gateway",
-        "gps_tty_path": "/dev/ttyS0",
-        "gps":true,
-        "fake_gps": false 
+     		"description": "ENRES's RAK831 Multi-Channel LoRaWAN Gateway"
   	}
 }
