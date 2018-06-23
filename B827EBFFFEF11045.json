@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEF11045",
+    "servers": [
+      {
+        "server_address": "router.us.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 45.0466,
+    "ref_longitude": -93.4747,
+    "ref_altitude": 277,
+    "contact_email": "michael@nootropicdesign.com",
+    "description": "nootropic design lab RAK831 LoRa  gateway"
+  }
+}
