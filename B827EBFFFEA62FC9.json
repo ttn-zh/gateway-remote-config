@@ -1,0 +1,17 @@
+{
+  	"gateway_conf": {
+    		"gateway_ID": "B827EBFFFEA62FC9",
+    		"servers": [
+      		{
+        		"server_address": "router.as2.thethings.network",
+        		"serv_port_up": 1700,
+        		"serv_port_down": 1700,
+        		"serv_enabled": true
+      		}],
+		    "ref_latitude": 13.81224916,
+     		"ref_longitude": 100.56465722,
+     		"ref_altitude": 30,
+     		"contact_email": "pornpol.w@gmail.com",
+     		"description": "ENRES's RAK831 Multi-Channel LoRaWAN Gateway"
+  	}
+}
