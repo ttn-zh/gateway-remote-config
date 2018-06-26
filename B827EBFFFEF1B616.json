@@ -1,0 +1,18 @@
+{
+        "gateway_conf": {
+                "gateway_ID": "B827EBFFFEF1B616",
+                "servers": [
+                        {
+                                "server_address": "router.eu.thethings.network",
+                                "serv_port_up": 1700,
+                                "serv_port_down": 1700,
+                                "serv_enabled": true
+                        }
+                ],
+                "ref_latitude": 48.204137,
+                "ref_longitude": 16.518454,
+                "ref_altitude": 155,
+                "contact_email": "walter@esberger.name",
+                "description": "walters lora gateway 1"
+        }
+}
