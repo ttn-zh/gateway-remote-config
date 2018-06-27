@@ -1,0 +1,18 @@
+{
+    "gateway_conf" : {
+         "gateway_ID" : "B827EBFFFE04D12D",
+         "servers" : [
+              {
+                   "server_address" : "ttn-router-us-west",
+                   "serv_port_up" : 1700,
+                   "serv_port_down" : 1700,
+                   "serv_enabled" : true
+              }
+         ],
+         "ref_latitude" : 46.39209069,
+         "ref_longitude" : 30.72194885,
+         "ref_altitude" : 183,
+         "contact_email" : "maxim.hunko@rowebots.net",
+         "description" : "RAK LORA Test"
+    }
+}
