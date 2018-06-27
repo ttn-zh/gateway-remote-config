@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "0004A30B0023308F",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 46.56883855,
+    "ref_longitude": 6.56614940,
+    "ref_altitude": 509,
+    "contact_email": "rwhittaker@ieee.org",
+    "description": "TTN Gateway Villars-Ste-Croix, Switzerland"
+  }
+}
