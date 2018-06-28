@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE10C642",
+    "servers": [
+      {
+        "server_address": "thethings.meshed.com.au",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -27.56015233,
+    "ref_longitude": 151.91433539,
+    "ref_altitude": 638,
+    "contact_email": "Joolz2k1@gmail.com",
+    "description": "ttn-glenvale"
+  }
+}
