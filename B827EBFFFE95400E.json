@@ -1,0 +1,18 @@
+{
+	"gateway_conf": {
+		"gateway_ID": "B827EBFFFE95400E",
+		"servers": [
+				{
+					"server_address": "router.as1.thethings.network",
+					"serv_port_up": 1700,
+					"serv_port_down": 1700,
+					"serv_enabled": true
+				}
+		],
+		"ref_latitude": 1.37931,
+		"ref_longitude": 103.8497956,
+		"ref_altitude": 40,
+		"contact_email": "nypwtc447@gmal.com",
+		"description": "A public gateway from NYP"
+	}
+}
