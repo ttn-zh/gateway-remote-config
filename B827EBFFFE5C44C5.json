@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE5C44C5",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 61.520159,
+    "ref_longitude": 28.181204,
+    "ref_altitude": 100,
+    "contact_email": "petri@nuuttila.com",
+    "description": "konu_gw1"
+  }
+}
