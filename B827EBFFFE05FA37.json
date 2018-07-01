@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 0,
-    "ref_longitude": 0,
-    "ref_altitude": 0,
+    "ref_latitude": 55.83876011,
+    "ref_longitude": 49.02163698,
+    "ref_altitude": 100,
     "contact_email": "evkup@mail.ru",
     "description": "Zarnitza LoRa Gateway"
   }
