@@ -9,8 +9,8 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 48.551512, 
-    "ref_longitude": 15.965275,
+    "ref_latitude": 48.385501, 
+    "ref_longitude": 16.205636,
     "ref_altitude": 300,
     "contact_email": "thomas.jamboeck@gmail.com",
     "description": "Test Gateway, Sensornetzwerk, HTL-Hollabrunn"
