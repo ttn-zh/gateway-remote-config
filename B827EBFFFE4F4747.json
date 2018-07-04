@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE4F4747",
+    "servers": [
+      {
+        "server_address": "router.us.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 13.64989297,
+    "ref_longitude": 100.49169877,
+    "ref_altitude": 7,
+    "contact_email": "nokchon@live.com",
+    "description": "KMUTT LoRaWAN Gateway"
+  }
+}
