@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE41A7DD",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 45.21759005,
+    "ref_longitude": 5.81536971,
+    "ref_altitude": 4,
+    "contact_email": "etienne.schouber@iotize.com",
+    "description": "The gateway of IoTize"
+  }
+}
