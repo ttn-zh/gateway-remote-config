@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 47.369145,
-    "ref_longitude": 8.494087,
+    "ref_latitude": 47.217730,
+    "ref_longitude": 8.680826,
     "ref_altitude": 442,
-    "contact_email": "pakupf@gmail.com",
-    "description": "LoraWAN Test Gateway 2 Triemli"
+    "contact_email": "loralsfm@gmail.com",
+    "description": "LoraWAN Gateway ZHAW Grüental"
   }
 }
