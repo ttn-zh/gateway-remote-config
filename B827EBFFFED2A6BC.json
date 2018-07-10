@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFED2A6BC",
+    "servers": [
+      {
+        "server_address": "router.au.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 35.6856000,
+    "ref_longitude": 139.729100,
+    "ref_altitude": 11,
+    "contact_email": "ymiura@takachiho-kk.co.jp",
+    "description": "GW1"
+  }
+}
