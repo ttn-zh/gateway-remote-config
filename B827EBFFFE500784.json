@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 47.361350,
-    "ref_longitude": 7.911411,
-    "ref_altitude": 0,
+    "ref_latitude": 47.51022475,
+    "ref_longitude": 7.53368101,
+    "ref_altitude": 320,
     "contact_email": "valbuz@gmx.net",
     "description": "ic880a + Rpi3"
   }
