@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE2E7A09",
+    "servers": [
+      {
+        "server_address": "router.cn.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 24.9632,
+    "ref_longitude": 121.4249,
+    "ref_altitude": 3,
+    "contact_email": "andersonkuan@gmail.com",
+    "description": "Academic research"
+  }
+}
