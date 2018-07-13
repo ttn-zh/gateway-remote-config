@@ -9,9 +9,9 @@
 				"serv_enabled": true 
 			} 
 		], 
-		"ref_latitude": the lat of the rak 831 gateway, 
-		"ref_longitude": the long of the rak 831 gateway, 
-		"ref_altitude": 40, 
+		"ref_latitude": 40.08384, 
+		"ref_longitude": 21.42739, 
+		"ref_altitude": 580, 
 		"contact_email": "john_kedros@hotmail.com", 
 		"description": "Raspberry Pi 3+ + RAK831 Gateway located in Grevena Greece" 
 	} 
