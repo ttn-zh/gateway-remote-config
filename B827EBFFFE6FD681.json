@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE6FD681", 
+		"servers": [ 
+			{ 
+				"server_address": "router.eu.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 40.08384, 
+		"ref_longitude": 21.42739, 
+		"ref_altitude": 580, 
+		"contact_email": "john_kedros@hotmail.com", 
+		"description": "Raspberry Pi 3+ + RAK831 Gateway located in Grevena Greece" 
+	} 
+}
