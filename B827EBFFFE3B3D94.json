@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 55.6575497,
-    "ref_longitude": 12.5895863,
-    "ref_altitude": 20,
+    "ref_latitude": 58.95332189,
+    "ref_longitude": -3.29825002,
+    "ref_altitude": 1,
     "contact_email": "sebastian@itu.dk",
-    "description": "pitlab-imst-ic880a-201807-orkney https://pitlab.itu.dk"
+    "description": "pitlab-imst-ic880a-201807-deployed-stromness-orkney"
   }
 }
