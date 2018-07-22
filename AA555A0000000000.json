@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "AA555A0000000000",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 46.0806864,
+    "ref_longitude": 11.1173666,
+    "ref_altitude": 21,
+    "contact_email": "leolizzi@gmail.com",
+    "description": "TTN Test Leo"
+  }
+}
