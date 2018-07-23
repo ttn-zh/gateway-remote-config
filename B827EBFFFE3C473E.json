@@ -1,0 +1,19 @@
+
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE3C473E",
+    "servers": [
+      {
+        "server_address": "thethings.meshed.com.au",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 39.869915,
+    "ref_longitude": 32.7444588,
+    "ref_altitude": 891,
+    "contact_email": "sb.iotnode@gmail.com",
+    "description": "JEOIT ANKARA TURKEY"
+  }
+}
