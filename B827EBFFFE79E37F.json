@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "Samarcande",
+    "gateway_ID": "B827EBFFFE79E37F",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
