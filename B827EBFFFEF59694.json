@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEF59694",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 30.59312044,
+    "ref_longitude": 8.29224456,
+    "ref_altitude": 40,
+    "contact_email": "12016768877@mailinator.com",
+    "description": "TTN test"
+  }
+}
