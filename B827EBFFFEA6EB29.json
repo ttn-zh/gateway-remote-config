@@ -1,0 +1,17 @@
+{
+	"gateway_conf": {
+	 	"gateway_ID": "B827EBFFFEA6EB29",
+		"servers": [ 
+			{ "server_address": "router.as2.thethings.network",
+				"serv_port_up": 1700,
+				"serv_port_down": 1700,
+				"serv_enabled": true 
+			}
+			],
+			"ref_latitude": 23.94769,
+			"ref_longitude": 120.93461,
+			"ref_altitude": 565,
+			"contact_email": "ywkuo@ncnu.edu.tw",
+			"description": "EE, NCNU, Puli, Nan-Tou, Taiwan" 
+	}
+}
