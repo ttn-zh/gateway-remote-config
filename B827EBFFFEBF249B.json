@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEBF249B",
+    "servers": [
+      {
+        "server_address": "thethings.meshed.com.au",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],   
+    "ref_latitude": -8.058265,
+    "ref_longitude": -34.872054,
+    "ref_altitude": 10,
+    "contact_email": "efsn@cesar.org.br",
+    "description": "Gateway LoRaWAN - CESAR"
+  }
+}
