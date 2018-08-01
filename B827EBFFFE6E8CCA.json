@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "HERE_ENTER_YOUR_EUI",
+    "gateway_ID": "B827EBFFFE6E8CCA",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -12,7 +12,7 @@
     "ref_latitude": 0,
     "ref_longitude": 0,
     "ref_altitude": 0,
-    "contact_email": "HERE_YOUR_EMAIL",
-    "description": "Here a human readable description of it"
+    "contact_email": "will_huang@goodwill.com.tw",
+    "description": "LoRa gateway test project"
   }
 }
