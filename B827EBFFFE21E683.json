@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE21E683",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 54.69344,
+    "ref_longitude": 11.391069,
+    "ref_altitude": 4,
+    "contact_email": "bolbroe@gmail.com",
+    "description": "The first LoRa Gateway in Rødby"
+  }
+}
