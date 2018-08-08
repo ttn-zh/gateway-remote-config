@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE7FD04F",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.518167,
+    "ref_longitude": 7.611833,
+    "ref_altitude": 7,
+    "contact_email": "pi@hb9frm.ch",
+    "description": "TTN Muenchenstein CH"
+  }
+}
