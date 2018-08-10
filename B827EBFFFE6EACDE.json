@@ -1,0 +1,35 @@
+{
+
+  "gateway_conf": {
+
+    "gateway_ID": "B827EBFFFE6EACDE",
+
+    "servers": [
+
+      {
+
+        "server_address": "router.eu.thethings.network",
+
+        "serv_port_up": 1700,
+
+        "serv_port_down": 1700,
+
+        "serv_enabled": true
+
+      }
+
+    ],
+
+    "ref_latitude": 46.88203013,
+
+    "ref_longitude": 8.64402473,
+
+    "ref_altitude": 420,
+
+    "contact_email": "beatus.furrer@gmail.com",
+
+    "description": "alpenglow"
+
+  }
+
+}
