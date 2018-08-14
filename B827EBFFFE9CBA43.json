@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE9CBA43", 
+		"servers": [ 
+			{ 
+				"server_address": "asia-se.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 77.5946, 
+		"ref_longitude": 12.9716, 
+		"ref_altitude": 40, 
+		"contact_email": "ajaybharadwaj0506@gmail.com", 
+		"description": "My first gateway" 
+	} 
+} 
