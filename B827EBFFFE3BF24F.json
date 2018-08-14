@@ -1,0 +1,19 @@
+{
+  "gateway_conf":{
+    "gateway_ID": "B827EBFFFE3BF24F",
+    "servers": [
+    {
+      "server_address": "router.eu.thethings.network",
+      "serv_port_up": 1700,
+      "serv_port_down": 1700,
+      "serv_enabled": true
+    }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 38.143364, 
+    "ref_longitude": 21.434384,
+    "ref_altitude": 28,
+    "contact_email": "nmau@westsea.gr"
+    "description": "iMachines #1 iC880a"
+    }
+}
