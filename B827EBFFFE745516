@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE745516",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 34.225187 ,
+    "ref_longitude": 108.89819 ,
+    "ref_altitude": 450,
+    "contact_email": "wangjjdl@163.com",
+    "description": "TTN Gateway, City of xi'an, China"
+  }
+}
