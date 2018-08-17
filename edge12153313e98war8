@@ -1,0 +1,18 @@
+{
+"gateway_conf": {
+ "gateway_ID" : "edge12153313e98war8",
+ "servers" : [
+ {
+ "server_address" : "router.eu.thetings.network",
+ "serv_port_up" : 1700,
+ "serv_port_down" : 1700,
+ "serv_enabled": true
+   }
+ ],
+ "ref_latitude": 42.8750000,
+ "ref_longitude": 25.3339996,
+ "ref_altutude": 392,
+ "contact_emil" "nikolai@eniware.org",
+ "description": ""
+   }
+}   
