@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFED90956", 
+		"servers": [ 
+			{ 
+				"server_address": "router.as2.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": -6.2443223, 
+		"ref_longitude": 106.8245904, 
+		"ref_altitude": 40, 
+		"contact_email": "flyrobot.flyrobot@gmail.com", 
+		"description": "For test only" 
+	} 
+} 
