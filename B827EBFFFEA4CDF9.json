@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEA4CDF9",
+    "servers": [
+      {
+        "server_address": "thethings.meshed.com.au",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -41.22723286,
+    "ref_longitude": 174.83515247,
+    "ref_altitude": 195,
+    "contact_email": "jan@ttn.nz",
+    "description": "Newlands-01, Wellington"
+  }
+}
