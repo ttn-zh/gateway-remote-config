@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE8F1CF9",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 48.26283232,
+    "ref_longitude": 11.66817145,
+    "ref_altitude": 418,
+    "contact_email": "o.zeidan@tum.de",
+    "description": "Gateway at TUM Campus Garching"
+  }
+}
