@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEFD7D66",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.324117,
+    "ref_longitude":  8.786886,
+    "ref_altitude": 500,
+    "contact_email": "yazbek@gmail.com",
+    "description": "bxtr-Nomad GW"
+  }
+}
