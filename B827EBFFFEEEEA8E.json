@@ -3,16 +3,16 @@
     "gateway_ID": "B827EBFFFEEEEA8E",
     "servers": [
       {
-        "server_address": "asia-se.thethings.network",
-        "serv_port_up": 8080,
-        "serv_port_down": 8080,
+        "server_address": "thethings.meshed.com.au",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
         "serv_enabled": true
       }
     ],
     "ref_latitude": -6.34566824,
     "ref_longitude": 106.66147383,
     "ref_altitude": 40,
-    "contact_email": "gabrielalvino1998@yahoo.com",
-    "description": ""
+    "contact_email": "dooveraldana98@gmail.com",
+    "description": "Lora Gtw"
   }
 }
