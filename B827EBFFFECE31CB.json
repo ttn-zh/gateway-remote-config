@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFECE31CB",
+    "servers": [
+      {
+        "server_address": "router.us.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 40.7143528,
+    "ref_longitude": -74.0059731,
+    "ref_altitude": 9,
+    "contact_email": "maria.st@aluno.ifsc.edu.br",
+    "description": "TTN Gateway1 - IFSC:SJ"
+  }
+}
