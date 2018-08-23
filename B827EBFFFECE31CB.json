@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 40.7143528,
-    "ref_longitude": -74.0059731,
-    "ref_altitude": 9,
+    "ref_latitude": -27.6084529,
+    "ref_longitude": -48.6332264,
+    "ref_altitude": 48,
     "contact_email": "maria.st@aluno.ifsc.edu.br",
     "description": "TTN Gateway1 - IFSC:SJ"
   }
