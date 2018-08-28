@@ -1,0 +1,20 @@
+
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE154A0B",
+    "servers": [
+      {
+        "server_address": "thethings.meshed.com.au",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": -27.94483828,
+    "ref_longitude": 153.41016795,
+    "ref_altitude": 8,
+    "contact_email": "admin@attainconsult.com",
+    "description": "haztech testing gateway 1"
+  }
+}
