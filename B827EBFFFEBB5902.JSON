@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFEBB5902", 
+		"servers": [ 
+			{ 
+				"server_address": "router.us.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 37.112902, 
+		"ref_longitude":-113.504517, 
+		"ref_altitude": 40, 
+		"contact_email": "konkavarun@gmail.com", 
+		"description": "Gateway- Varun" 
+	} 
+} 
