@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFEBB5902", 
+		"servers": [ 
+			{ 
+				"server_address": "router.us.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": the lat of the rak 831 gateway, 
+		"ref_longitude": the long of the rak 831 gateway, 
+		"ref_altitude": 40, 
+		"contact_email": "konkavarun@gmail.com", 
+		"description": "gateway_varun" 
+	} 
+}
