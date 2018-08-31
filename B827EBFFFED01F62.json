@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFED01F62",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 42.8750000,
+    "ref_longitude": 25.3339996,
+    "ref_altitude": 392,
+    "contact_email": "nikolai@eniware.org",
+    "description": "Eniware"
+  }
+}
