@@ -1,0 +1,18 @@
+{
+"gateway_conf": {
+"gateway_ID": "B827EBFFFE3158C3",
+"servers": [
+{
+"server_address": "router.eu.thethings.network",
+"serv_port_up": 1700,
+"serv_port_down": 1700,
+"serv_enabled": true
+}
+],
+"ref_latitude": 44.483866,
+"ref_longitude": 26.072554,
+"ref_altitude": 105,
+"contact_email": "radu103@hotmail.com",
+"description": "d-shop Bucharest Gateway"
+}
+}
