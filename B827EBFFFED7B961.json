@@ -203,7 +203,7 @@
 			"server_address": "thethings.meshed.com.au",
 			"serv_port_up": 1700,
 			"serv_port_down": 1700,
-			"serv_enabled": true,
+			"serv_enabled": true
 
 		} ],
 		"ref_latitude": -32.9699516, 
