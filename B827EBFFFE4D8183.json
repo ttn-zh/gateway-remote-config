@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE4D8183",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.95077699,
+    "ref_longitude": 14.88254080,
+    "ref_altitude": 560,
+    "contact_email": "ma.fu@gmx.at",
+    "description": "Here a human readable description of it"
+  }
+}
