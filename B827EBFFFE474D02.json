@@ -1,0 +1,17 @@
+{
+	"gateway_conf": {
+	 	"gateway_ID": "B827EBFFFE474D02",
+		"servers": [ 
+			{ "server_address": "thethings.meshed.com.au",
+				"serv_port_up": 1700,
+				"serv_port_down": 1700,
+				"serv_enabled": true 
+			}
+			],
+			"ref_latitude": -39.03,
+			"ref_longitude": 174.04,
+			"ref_altitude": 580,
+			"contact_email": "john@christini.co.nz",
+			"description": "Local Private Gateway" 
+	}
+}
