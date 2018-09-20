@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "00029BFFFEA1A57A",
+    "gateway_ID": "12329BFFFEA1A57A",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 50.0822850,
+    "ref_latitude": 73.0822850,
     "ref_longitude": 14.4502592,
     "ref_altitude": 40,
-    "contact_email": "malina@vanco.cz",
-    "description": "TTN Prague VanCo.cz"
+    "contact_email": "alexmeie@ethz.ch",
+    "description": "Pseudo Node"
   }
 }
