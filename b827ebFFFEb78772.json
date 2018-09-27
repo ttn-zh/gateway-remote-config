@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "b827ebFFFEb78772",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+     "fake_gps": false,
+     "ref_latitude": 52.32452617,
+     "ref_longitude": 5.59829441,
+     "ref_altitude": 11,
+     "contact_email": "mhj.sjerps@gmail.com",
+     "description": "sandbox LRG-55 raspberry-gateway"
+  }
+}
