@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 0,
-    "ref_longitude": 0,
+    "ref_latitude": 36.77,
+    "ref_longitude": 10.17,
     "ref_altitude": 0,
     "contact_email": "ould.elhassen@gmail.com",
-    "description": "Here a human readable description of it"
+    "description": "My RAK Gateway"
   }
 }
