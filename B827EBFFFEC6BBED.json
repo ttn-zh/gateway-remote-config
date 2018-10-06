@@ -1,0 +1,11 @@
+{
+        "gateway_conf": {
+                "gateway_ID": "B827EBFFFEC6BBED",
+                "servers": [ { "server_address": "router.eu.thethings.network", "serv_port_up": 1700, "serv_port_down": 1700, "serv_enabled": true } ],
+                "ref_latitude": 52.521701,
+                "ref_longitude": 13.459267,
+                "ref_altitude": 0,
+                "contact_email": "heikki.tiittanen@gmail.com",
+                "description": "ttn-ic880a" 
+        }
+}
