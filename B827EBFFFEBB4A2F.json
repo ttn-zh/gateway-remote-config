@@ -1,0 +1,19 @@
+
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFEBB4A2F", 
+		"servers": [ 
+			{ 
+				"server_address": "router.eu.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 48.44864999,
+		"ref_longitude": 16.60770699, 
+		"ref_altitude": 177, 
+		"contact_email": "el17b034@technikum-wien.at", 
+		"description": "ttn FH Technikum Wien" 
+	} 
+}
