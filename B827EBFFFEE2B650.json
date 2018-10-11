@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEE2B650",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 21,00867175,
+    "ref_longitude": 105,76521652,
+    "ref_altitude": 4,
+    "contact_email": "tvha0907@gmail.com",
+    "description": "ha tran van LoRa GateWay"
+  }
+}
