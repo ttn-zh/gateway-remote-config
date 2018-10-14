@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB40B72",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 37.1197800,
+    "ref_longitude": 14.9388100,
+    "ref_altitude": 555,
+    "contact_email": "sconza@telereading.it",
+    "description": "Lora Gatewar TLR"
+  }
+}
