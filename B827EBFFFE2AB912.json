@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE705686",
+    "gateway_ID": "B827EBFFFE2AB912",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -13,6 +13,6 @@
     "ref_longitude": 5.3349823,
     "ref_altitude": 55,
     "contact_email": "steven.b@me.com",
-    "description": "TTN BE_3500_HASSELT_CENTRE"
+    "description": "TTN BE 3500 HASSELT CENTRUM"
   }
 }
