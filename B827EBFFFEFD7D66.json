@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE5B9E68",
+    "gateway_ID": "B827EBFFFEFD7D66",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 60.4836,
-    "ref_longitude": 15.4112,
-    "ref_altitude": 134,
-    "contact_email": "daniel.oster@altran.com",
-    "description": "Altran Borlänge"
+    "ref_latitude": 47.324117,
+    "ref_longitude":  8.786886,
+    "ref_altitude": 500,
+    "contact_email": "yazbek@gmail.com",
+    "description": "bxtr-Nomad GW"
   }
 }

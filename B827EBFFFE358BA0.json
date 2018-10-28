@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE358BA0", 
+		"servers": [ 
+			{ 
+				"server_address": "router.eu.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude":  38.842974, 
+		"ref_longitude":  -0.116990, 
+		"ref_altitude": 90, 
+		"contact_email": "info@rtkware.com", 
+		"description": "TTN Network Pego #2" 
+	} 
+} 

@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 45.25153828,
-    "ref_longitude": 19.80078435,
-    "ref_altitude": 5,
+    "ref_latitude": 45.25154442,
+    "ref_longitude": 19.80077362,
+    "ref_altitude": 85,
     "contact_email": "srdjan.stankovic@wolkabout.com",
-    "description": "WolkGateway"
+    "description": "WolkAbout TTN Gateway"
   }
 }

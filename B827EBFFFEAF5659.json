@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEAF5659",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+     "ref_latitude": 37.353908,
+     "ref_longitude": -6.042106,
+     "ref_altitude": 85,
+     "contact_email": "pablo_vilmac@hotmail.com",
+     "description": "lora-gw"
+  }
+}

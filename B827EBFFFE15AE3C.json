@@ -9,10 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "fake_gps": true,
-    "ref_latitude": 56.290172,
-    "ref_longitude": 38.524319,
-    "ref_altitude": 200,
+    "gps tty path": "/dev/ttyS0",   
+    "gps": true,
+    "fake_gps": false,
     "contact_email": "director@rosscont.ru",
     "description": "LOZ-341 LoRa GW Raspberry Pi 3 + RAK831"
   }

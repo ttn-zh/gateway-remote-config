@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE15958E",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 51.318379,
+    "ref_longitude": 9.493700,
+    "ref_altitude": 177,
+    "contact_email": "mikus@sad-net.de",
+    "description": "IMST iC880a LoRaWAN Lite Gateway - Germany, Hessen, Kassel"
+  }
+}

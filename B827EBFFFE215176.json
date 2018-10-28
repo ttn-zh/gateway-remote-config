@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE6E8CCA",
+    "gateway_ID": "B827EBFFFE215176",
     "servers": [
       {
         "server_address": "router.cn.thethings.network",
@@ -12,7 +12,7 @@
     "ref_latitude": 0,
     "ref_longitude": 0,
     "ref_altitude": 0,
-    "contact_email": "will_huang@goodwill.com.tw",
-    "description": "LoRa gateway test project"
+    "contact_email": "david.gl.pan@gmail.com",
+    "description": "lora gateway based on rpi3"
   }
 }

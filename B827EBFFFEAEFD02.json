@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEAEFD02",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 50.9215068,
+    "ref_longitude": 6.9163105,
+    "ref_altitude": 42,
+    "contact_email": "a4plora@web.de",
+    "description": "iC880A-SPI + Rpi 3"
+  }
+}
