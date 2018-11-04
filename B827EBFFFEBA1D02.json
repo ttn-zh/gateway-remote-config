@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEBA1D02",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 35.531813,
+    "ref_longitude": 24.070412,
+    "ref_altitude": 135,
+    "contact_email": "aggelos.anto@gmail.com",
+    "description": "LoRa for Technical University of Crete, provided by SenseLab!"
+  }
+}
