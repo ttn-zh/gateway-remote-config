@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE27D57E",
+    "servers": [
+      {
+        "server_address": "router.us-west.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 4.7110083,
+    "ref_longitude": -74.0466236,
+    "ref_altitude": 25,
+    "contact_email": "aburbano2013@gmail.com",
+    "description": "mtcolorago"
+  }
+}
