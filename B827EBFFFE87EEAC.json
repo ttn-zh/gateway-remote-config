@@ -1,0 +1,17 @@
+gateway_conf": {
+    "gateway_ID": "B827EBFFFE87EEAC",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 39.51919554,
+    "ref_longitude": -0.42374309,
+    "ref_altitude": 59,
+    "contact_email": "ortegaperez5@hotmail.com",
+    "description": "casas_verdes_ttn"
+  }
+
