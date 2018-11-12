@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE97807A",
+    "servers": [
+      {
+        "server_address": "router.us.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -34.92276589,
+    "ref_longitude": -56.15704700,
+    "ref_altitude": 34,
+    "contact_email": "amuracciole@gmail.com",
+    "description": "Gateway de AMuracciole"
+  }
+}
