@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE689A44",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 52.17902904,
+    "ref_longitude": 10.5588066,
+    "ref_altitude": 124,
+    "contact_email": "da.giffhorn@ostfalia.de",
+    "description": "Test-Gateway der Fak. I."
+  }
+}
