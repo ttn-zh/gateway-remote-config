@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "AA555A0000000101",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 37.12472701,
+    "ref_longitude": -3.60248578,
+    "ref_altitude": 0,
+    "contact_email": "janpeksolutions@gmail.com",
+    "description": ""
+  }
+}
