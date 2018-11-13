@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEE1A9D1",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 48.96885781,
+    "ref_longitude": 2.06970151,
+    "ref_altitude": 30,
+    "contact_email": "ariom.kirato@gmail.com",
+    "description": "First steps into the LoRa gateway world, non commercial use planned. RPI3 B+ with IC880a concentrator"
+  }
+}
