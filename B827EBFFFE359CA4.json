@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE359CA4",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 59.40,
+    "ref_longitude": 18.41,
+    "ref_altitude": 10,
+    "contact_email": "info@evothings.com",
+    "description": "Test gateway for location of cows"
+  }
+}
