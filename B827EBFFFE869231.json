@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE869231",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 60.015230,
+    "ref_longitude": 10.788690,
+    "ref_altitude": 240,
+    "contact_email": "yngvey@gmail.com",
+    "description": "A ic880a concentrator with Raspberry Pi B+ backhaul. Outside, bell tower"
+  }
+}
