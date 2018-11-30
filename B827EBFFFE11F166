@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "b827ebfffe11f166",
+    "servers": [
+      {
+        "server_address": "router.us.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 46.5436199,
+    "ref_longitude": -87.39537129999997,
+    "ref_altitude": 211,
+    "contact_email": "npotyok@nmu.edu",
+    "description": "Northern Michigan university grad project research"
+  }
+}
