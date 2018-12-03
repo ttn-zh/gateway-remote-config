@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB7FAEA",
+    "servers": [
+      {
+        "server_address!: "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_oirt_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude":
+    "ref_longitude":
+    "ref_altitud":
+    "contact_email": "guillermo.mantohs@gmail.com"
+    "description": "TTN CRUSPAG by LloderGroup"
+  }
+}
