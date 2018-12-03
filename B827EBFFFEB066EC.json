@@ -1,6 +1,9 @@
 {
 	"gateway_conf": {
 		"gateway_ID": "B827EBFFFEB066EC",
+		 /* Devices*/
+                "gps":true,
+		/* node server for poly packet server*/ 
 		"servers": [
 			{
 				"server_address": "router.as1.thethings.network",
@@ -9,10 +12,16 @@
 				"serv_enabled": true
 			}
 		],
+	         /* GPS configuration */
+                "gps_tty_path":"/dev/ttyS0",
+                "fake_gps":true 
 		"ref_latitude": 1.34535650,
 		"ref_longitude": 103.68069970,
 		"ref_altitude": 58,
+	        /*Contact and Description*/
 		"contact_email": "sanat.sarda@gmail.com",
-		"description": "fh-sg-ntu-831"
+		"description": "fh-sg-ntu-831"        
+                
+               
 	}
 }
