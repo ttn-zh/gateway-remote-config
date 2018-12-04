@@ -14,7 +14,7 @@
 		],
 	         /* GPS configuration */
                 "gps_tty_path":"/dev/ttyS0",
-                "fake_gps":true 
+                "fake_gps":true, 
 		"ref_latitude": 1.34535650,
 		"ref_longitude": 103.68069970,
 		"ref_altitude": 58,
