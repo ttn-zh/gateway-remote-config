@@ -10,7 +10,7 @@
 				"serv_enabled": true
 			}
 		],
-	        "gps_tty_path":"/dev/ttyS0",
+	        "gps_tty_path":"/dev/ttyAMA0",
                 "fake_gps":false, 
 		"ref_latitude": 1.34535650,
 		"ref_longitude": 103.68069970,
