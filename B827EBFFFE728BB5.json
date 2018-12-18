@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 51.362339530,
-    "ref_longitude": 4.844831740,
+    "ref_latitude": 51.36233953,
+    "ref_longitude": 4.84483174,
     "ref_altitude": 30,
     "contact_email": "info@excitron.be",
-    "description": "IOT gateway for discovering the things network"
+    "description": "IOT gateway for discovering the things network "
   }
 }
