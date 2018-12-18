@@ -3,7 +3,7 @@
     "gateway_ID": "B827EBFFFEA7DCE3",
     "servers": [
       {
-        "server_address": "ttn-router-brazil",
+        "server_address": "thethings.meshed.com.au",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
