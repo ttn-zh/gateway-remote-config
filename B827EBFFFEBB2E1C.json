@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEBB2E1C",     
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.35304450,
+    "ref_longitude": 9.31644942,
+    "ref_altitude": 881,
+    "contact_email": "lora@stadelmann.one",
+    "description": "stlgw01"
+  }
+}
