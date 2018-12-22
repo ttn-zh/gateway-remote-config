@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFEDBE90C", 
+		"servers": [ 
+			{ 
+				"server_address": "router.us.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 34.27834583, 
+		"ref_longitude": -77.87195831, 
+		"ref_altitude": 40, 
+		"contact_email": "peitzgreene@gmail.com", 
+		"description": "Kali Lora Node" 
+	} 
+} 
