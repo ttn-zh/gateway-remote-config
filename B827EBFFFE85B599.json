@@ -10,8 +10,8 @@
       }
     ],
     "gps": true,
-    "gps_tty_path": true,
+    "gps_tty_path": "/dev/ttyAMA0",
     "contact_email": "kenlchan@gmail.com",
-    "description": "RAK831 LoRa Gateway @ SIPTE:"
+    "description": "RAK831 LoRa Gateway @ Siptel:"
   }
 }
