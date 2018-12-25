@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE0B4126",
+    "servers": [
+      {
+        "server_address": "router.cn.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 40.3812961625,
+    "ref_longitude": 117.7126988975,
+    "ref_altitude": 200,
+    "contact_email": "makefile_c@126.com",
+    "description": "This is raspberry gateway"
+  }
+}
