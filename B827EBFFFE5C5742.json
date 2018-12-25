@@ -1,0 +1,18 @@
+{
+"gateway_conf": {
+    "gateway_ID": "B827EBFFFE5C5742",
+    "servers": [
+      {
+        "server_address": "router.asia-se.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 30.4418011306,
+    "ref_longitude": 114.4398800908,
+    "ref_altitude": 12,
+    "contact_email": "c.aldred@hull.ac.uk",
+    "description": "ttn experiment iC880A-SPI + Rpi B+"
+  }
+}
