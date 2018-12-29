@@ -1,0 +1,26 @@
+{
+	"gateway_conf": {
+		"gateway_ID": "B827EBFFFEE98C37",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      },
+      {
+        "server_address": "log.gatewaystats.org",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+		"gps": true,
+                "fake_gps": true,
+		"ref_latitude": 40.597980,
+		"ref_longitude": 22.967368,
+		"ref_altitude": 25,
+		"contact_email": "stavros@ubinet.gr",
+		"description": "TTN @ Thessaloniki TLab Gateway #1" 
+	}
+}
