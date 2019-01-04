@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEBB158C",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 38.01991300,
+    "ref_longitude": 32.51933700,
+    "ref_altitude": 7,
+    "contact_email": "vedat.ozlu@outlook.com",
+    "description": "the gateway from turkey"
+  }
+}
