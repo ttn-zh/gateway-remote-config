@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE0B103C",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 19.117190,
+    "ref_longitude": 72.887140,
+    "ref_altitude": 16
+    "contact_email": "ujjainwala.taher1322@gmail.com",
+    "description": "Faclon_TTN_Gateway"
+  }
+}
