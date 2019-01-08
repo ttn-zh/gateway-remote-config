@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "HERE_ENTER_YOUR_EUI",
+    "gateway_ID": "B827EBFFFE98507F",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 0,
-    "ref_longitude": 0,
-    "ref_altitude": 0,
-    "contact_email": "HERE_YOUR_EMAIL",
-    "description": "Here a human readable description of it"
+    "ref_latitude": 59.028403,
+    "ref_longitude": 6.056885,
+    "ref_altitude": 120,
+    "contact_email": "zjonesz@lyse.net",
+    "description": "Screen-Fix"
   }
 }
