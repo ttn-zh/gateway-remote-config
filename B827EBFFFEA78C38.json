@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEA78C38",
+    "servers": [
+      {
+        "server_address": "router.au.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": -33.9570889,
+    "ref_longitude": 22.494268299999998,
+    "ref_altitude": 10,
+    "contact_email": "19240589@sun.ac.za",
+    "description": "RPi 3 + iC880a-SPI"
+  }
+}
