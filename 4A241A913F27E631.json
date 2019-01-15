@@ -1,0 +1,18 @@
+{
+	  "gateway_conf": {
+	    "gateway_ID": "4A241A913F27E631",
+	    "servers": [
+	      {
+	        "server_address": "router.eu.thethings.network",
+	        "serv_port_up": 1700,
+	        "serv_port_down": 1700,
+	        "serv_enabled": true
+	      }
+	    ],
+	    "ref_latitude": 36,71573300,
+	    "ref_longitude": -4,49064800,
+	    "ref_altitude": 520,
+	    "contact_email": "juanbravo3@msn.com",
+	    "description": "ISA_LoRa_JB"
+	  }
+	}
