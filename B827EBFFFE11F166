@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "b827ebfffe11f166",
+    "gateway_ID": "B827EBFFFE11F166",
     "servers": [
       {
         "server_address": "router.us.thethings.network",
@@ -9,8 +9,8 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 0,
-    "ref_longitude": 0,
+    "ref_latitude": 46.55841,
+    "ref_longitude": -87.40526,
     "ref_altitude": 0,
     "contact_email": "npotyok@nmu.edu",
     "description": "no"
