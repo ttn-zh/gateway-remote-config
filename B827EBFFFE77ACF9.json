@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 0,
-    "ref_longitude": 0,
-    "ref_altitude": 0,
+    "ref_latitude": 51.88659415,
+    "ref_longitude": -8.53572869,
+    "ref_altitude": 0.5,
     "contact_email": "manuel.caballero@cit.ie",
     "description": "Nimbus Centre LoRaWAN test"
   }
