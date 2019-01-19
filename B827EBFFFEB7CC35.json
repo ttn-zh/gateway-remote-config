@@ -3,7 +3,7 @@
     "gateway_ID": "B827EBFFFEB7CC35",
     "servers": [
       {
-        "server_address": "thethings.meshed.com.au",
+        "server_address": "router.eu.thethings.network",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
@@ -11,7 +11,7 @@
     ],
     "ref_latitude": 8.48333, 
     "ref_longitude": 124.65,
-    "ref_altitude": 30,
+    "ref_altitude": 10,
     "contact_email": "carl.kbryant@gmail.com",
     "description": "USTP ECE THESIS"
   }
