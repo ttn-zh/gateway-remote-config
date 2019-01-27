@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "b827ebffff9b1c87",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 52.81067020,
+    "ref_longitude": -4.07751680,
+    "ref_altitude": 400,
+    "contact_email": "drjfritzy@gmail.com",
+    "description": "TTN Wales"
+  }
+}
