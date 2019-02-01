@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE49B783",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 52.45549000,
+    "ref_longitude": 0.29627000,
+    "ref_altitude": 11,
+    "contact_email": "simonblack1@hotmail.com",
+    "description": "ttn-simo101-ic880a"
+  }
+}
