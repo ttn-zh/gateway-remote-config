@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEC49866",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 55.93378052,
+    "ref_longitude": -3.23068289,
+    "ref_altitude": 11,
+    "contact_email": "borisneirv@gmail.com",
+    "description": "Pengu Gateway for Uni Project"
+  }
+}
