@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFEE84F93", 
+		"servers": [ 
+			{ 
+				"server_address": "router.asia-se.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 23.01440, 
+		"ref_longitude": 72.5036, 
+		"ref_altitude": 50, 
+		"contact_email": "partner@lumiumdesign.com", 
+		"description": "LUMIUM DESIGN GATEWAY" 
+	} 
+} 
