@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+ 		"gateway_ID": "B827EBFFFEF0FDCB",
+		"servers": [ 
+			{ 
+				"server_address": "router.eu.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 53.189109, 
+		"ref_longitude": 5.783459, 
+		"ref_altitude": 20, 
+		"contact_email": "vlieger.maarten@gmail.com", 
+		"description": "lora Gateway @Fiesland College" 
+	} 
+} 
