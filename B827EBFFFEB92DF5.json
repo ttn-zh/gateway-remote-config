@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB92DF5",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 50.05800000,
+    "ref_longitude": 8.16150000,
+    "ref_altitude": 5,
+    "contact_email": "firebuster-t@web.de",
+    "description": "IMST Gateway (iC880A)"
+  }
+}
