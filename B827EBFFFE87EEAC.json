@@ -1,4 +1,5 @@
-gateway_conf": {
+{
+  "gateway_conf": {
     "gateway_ID": "B827EBFFFE87EEAC",
     "servers": [
       {
@@ -14,4 +15,4 @@ gateway_conf": {
     "contact_email": "ortegaperez5@hotmail.com",
     "description": "casas_verdes_ttn"
   }
-
+}
