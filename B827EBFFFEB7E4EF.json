@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB7E4EF",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.291243,
+    "ref_longitude": 11.863361,
+    "ref_altitude": 40,
+    "contact_email": "roland.larch@gmail.com",
+    "description": "TTN Zillertal"
+  }
+}
