@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFEF51377", 
+		"servers": [ 
+			{ 
+				"server_address": "router.as2.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 18.822, 
+		"ref_longitude": 100.512, 
+		"ref_altitude": 4, 
+		"contact_email": "naruebet.phramrit@gmail.com", 
+		"description": "IEE Gateway" 
+	} 
+} 
