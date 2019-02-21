@@ -1,0 +1,18 @@
+{
+    "gateway_conf" : {
+         "gateway_ID" : "B827EBFFFF87123F",
+         "servers" : [
+              {
+                   "server_address" : "router.us.thethings.network",
+                   "serv_port_up" : 1700,
+                   "serv_port_down" : 1700,
+                   "serv_enabled" : true
+              }
+         ],
+         "ref_latitude" : -15.710399,
+         "ref_longitude" : -47.9102828,
+         "ref_altitude" : 0,
+         "contact_email" : "lucas.nascimento@ibti.org.br",
+         "description" : "IBTI Gateway"
+    }
+}
