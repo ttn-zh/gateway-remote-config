@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFED91AD6",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 51.479243,
+    "ref_longitude": 11.978714,
+    "ref_altitude": 98,
+    "contact_email": "mail@gocept.com",
+    "description": "Saltlabs_TTN_Gateway"
+  }
+}
