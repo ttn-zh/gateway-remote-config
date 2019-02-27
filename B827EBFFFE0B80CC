@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE0B80CC",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -6.26292129,
+    "ref_longitude": 106.79929280,
+    "ref_altitude": 410,
+    "contact_email": "anton@atilink.id",
+    "description": "ttn atilink.id, Jakarta, ID"
+  }
+}
