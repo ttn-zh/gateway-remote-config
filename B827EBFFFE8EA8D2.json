@@ -9,8 +9,8 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 0,
-    "ref_longitude": 0,
+    "ref_latitude": 46,271509
+    "ref_longitude": 15,156068
     "ref_altitude": 0,
     "contact_email": "bostjan.kolenc@gmail.com",
     "description": "Test Gateway"
