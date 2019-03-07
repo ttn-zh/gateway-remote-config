@@ -1,4 +1,4 @@
-{
+    {
   "gateway_conf": {
     "gateway_ID": "B827EBFFFF859D7B",
     "servers": [
@@ -12,4 +12,7 @@
     "ref_latitude": "-27.57104023",
     "ref_longitude": "-48.50832460",
     "ref_altitude": "56",
-    "contac
+    "contact_email": "tutuimf@gmail.com",
+    "description": "Gateway Byond - TTN"
+  }
+}
