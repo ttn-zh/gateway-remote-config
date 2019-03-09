@@ -9,8 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 55.6575497,
-    "ref_longitude": 12.5895863,
+    "gps":true,
+    "fake_gps":true,
+    "ref_latitude": 55.657550,
+    "ref_longitude": 12.589586,
     "ref_altitude": 20,
     "contact_email": "sebastian@itu.dk",
     "description": "IMST IC880a + RasPi @ https://pitlab.itu.dk currently in Norrebro"
