@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE820C3F",
+    "servers": [
+      {
+        "server_address": "eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 45,3193888,
+    "ref_longitude": 18,4183854,
+    "ref_altitude": 65,
+    "contact_email": "ebsw@ebsw.hr",
+    "description": "RAK831 gateway"
+  }
+}
