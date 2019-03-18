@@ -1,0 +1,24 @@
+{
+	"gateway_conf": {
+		"gateway_ID": "B827EBFFFE72652E",
+		"servers": [ 
+		{
+			"server_address": "router.us.thethings.network",
+			"serv_port_up": 1700,
+			"serv_port_down": 1700,
+			"serv_enabled": true
+		},
+		{
+			"server_address": "168.62.42.28",
+			"serv_port_up": 1700,
+			"serv_port_down": 1700,
+			"serv_enabled": true
+		}
+		],
+		"ref_latitude": 25.7922979,
+		"ref_longitude": -108.9855117,
+		"ref_altitude": 0,
+		"contact_email": "e-mail@outlook.com",
+		"description": "ttn-RHF0M301"
+	}
+}
