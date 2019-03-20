@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE399227",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.7862,
+    "ref_longitude": 9.7602,
+    "ref_altitude": 681,
+    "contact_email": "sebastian@mangelkramer.com",
+    "description": "TTN Vogt 1"
+  }
+}
