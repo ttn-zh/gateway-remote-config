@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFEF2FC22", 
+		"servers": [ 
+			{ 
+				"server_address": "router.us.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 37.696404, 
+		"ref_longitude": -122.062662, 
+		"ref_altitude": 68, 
+		"contact_email": "loragwadmin@fogninja.com",
+		"description": "SF East Bay LoRa GW"
+	} 
+} 
