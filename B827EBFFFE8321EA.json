@@ -11,7 +11,7 @@
     ],
     "ref_latitude": 55.78126540,
     "ref_longitude": 49.12886762,
-    "ref_altitude": 59
+    "ref_altitude": 59,
     "contact_email": "kuzmin_s_m@mirrico.com",
     "description": "Test LoRa Gateway Mirrico, LLC"
   }
