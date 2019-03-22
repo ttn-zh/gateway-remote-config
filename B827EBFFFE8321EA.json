@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE8321EA",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 55.78126540,
+    "ref_longitude": 49.12886762,
+    "ref_altitude": 59
+    "contact_email": "kuzmin_s_m@mirrico.com",
+    "description": "Test LoRa Gateway Mirrico, LLC"
+  }
+}
