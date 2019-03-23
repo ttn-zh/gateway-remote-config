@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE28DD95", 
+		"servers": [ 
+			{ 
+				"server_address": "router.us.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 38.89037665, 
+		"ref_longitude": -76.93739933, 
+		"ref_altitude": 40, 
+		"contact_email": "jeryl.cook@vanity-soft.com", 
+		"description": "2nd SimpleCity Gateway" 
+	} 
+} 

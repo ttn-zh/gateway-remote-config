@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE1D250D",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 37.36596754,
+    "ref_longitude": 127.10535464,
+    "ref_altitude": 414,
+    "contact_email": "uzziel.lee@cresprit.com",
+    "description": "cresprit lora gw"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEBC0108",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 54.900236, 
+    "ref_longitude": 23.961231,
+    "ref_altitude": 30,
+    "contact_email": "rokas.sutkus@singleton-labs.lt",
+    "description": "Lora gateway test setup"
+  }
+}

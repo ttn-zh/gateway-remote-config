@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFFC3D3C7",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -23.186082,
+    "ref_longitude": -50.655608,
+    "ref_altitude": 666,
+    "contact_email": "luccas.hcpiola@gmail.com",
+    "description": "Smart-Campus UTFPR"
+  }
+}

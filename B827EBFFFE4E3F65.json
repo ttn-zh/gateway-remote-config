@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE4E3F65",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 51.716173,
+    "ref_longitude": 0.499373,
+    "ref_altitude": 111,
+    "contact_email": "rob.furlong@mac.com",
+    "description": "South Chelmsford LoRA Gateway - Gt. Baddow"
+  }
+}

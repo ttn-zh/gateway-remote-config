@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE7505F4",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 48.415740,
+    "ref_longitude": 9.941917,
+    "ref_altitude": 590,
+    "contact_email": "michael.engelin@me.com",
+    "description": "TTN TEST Gateway"
+  }
+}

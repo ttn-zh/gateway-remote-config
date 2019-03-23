@@ -1,0 +1,19 @@
+
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE02D124",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 54.402645,
+    "ref_longitude": -5.895590,
+    "ref_altitude": 0,
+    "contact_email": "mjennings061@gmail.com",
+    "description": "ic880a-RasPi LoRaWAN Gateway"
+  }
+}

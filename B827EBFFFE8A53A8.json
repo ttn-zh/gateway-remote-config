@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE8A53A8", 
+		"servers": [ 
+			{ 
+				"server_address": "ttn.opennetworkinfrastructure.org", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 47.346072, 
+		"ref_longitude": 8.274806, 
+		"ref_altitude": 421, 
+		"contact_email": "pch.inf@gmail.com", 
+		"description": "Peter’s LoRa Gateway in Wohlen" 
+	} 
+}

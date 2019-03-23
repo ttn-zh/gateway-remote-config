@@ -1,0 +1,18 @@
+{
+    "gateway_conf" : {
+         "gateway_ID" : "B827EBFFFEB7FAEA",
+         "servers" : [
+              {
+                   "server_address" : "router.eu.thethings.network",
+                   "serv_port_up" : 1700,
+                   "serv_port_down" : 1700,
+                   "serv_enabled" : true
+              }
+         ],
+         "ref_latitude" : 39.56475409999999,
+         "ref_longitude" : -0.5306822000000011,
+         "ref_altitude" : 106,
+         "contact_email" : "guillermo.mantohs@gmail.com",
+         "description" : "Raspberry Pi LoRa Gateway by Mantenimiento Hídrico Sostenible S.L."
+    }
+}

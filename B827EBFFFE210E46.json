@@ -1,0 +1,17 @@
+{
+	"gateway_conf": {
+	 	"gateway_ID": "B827EBFFFE210E46",
+		"servers": [ 
+			{ "server_address": "router.eu.thethings.network",
+				"serv_port_up": 1700,
+				"serv_port_down": 1700,
+				"serv_enabled": true 
+			}
+			],
+			"ref_latitude": 60.1585040,
+			"ref_longitude": 24.6746620,
+			"ref_altitude": 30,
+			"contact_email": "pulkkpa@gmail.com",
+			"description": "LoRaWAN Gateway Korpisola" 
+	}
+}

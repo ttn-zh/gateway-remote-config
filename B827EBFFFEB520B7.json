@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB520B7",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+	  "fake_gps": true,
+    "ref_latitude": 50.6707,
+    "ref_longitude": 4.60919,
+    "ref_altitude": 125,
+    "contact_email": "robin.schoenmaeckers@student.uclouvain.be",
+    "description": "UCLouvain"
+  }
+}

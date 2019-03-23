@@ -1,0 +1,17 @@
+{
+	"gateway_conf": {
+	 	"gateway_ID": "B827EBFFFEE00265",
+		"servers": [
+			{ "server_address": "router.eu.thethings.network",
+				"serv_port_up": 1700,
+				"serv_port_down": 1700,
+				"serv_enabled": true
+			}
+			],
+			"ref_latitude": 49.005,
+			"ref_longitude": 12.099,
+			"ref_altitude": 358,
+			"contact_email": "thomas.schuesselbauer@web.de",
+			"description": "LoRaWAN Gateway in Regensburg.DE"
+	}
+}

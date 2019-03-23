@@ -1,0 +1,18 @@
+{
+    "gateway_conf": {
+        "gateway_ID": "B827EBFFFEA2C0AA",
+        "servers": [
+            {
+                "server_address": "router.eu.thethings.network",
+                "serv_port_up": 1700,
+                "serv_port_down": 1700,
+                "serv_enabled": true
+            }
+        ],
+        "ref_latitude": 51.23445034,
+        "ref_longitude": 4.56824661,
+        "ref_altitude": 0,
+        "contact_email": "info@fab-lab.tech",
+        "description": "ic880a gateway"
+    }
+}

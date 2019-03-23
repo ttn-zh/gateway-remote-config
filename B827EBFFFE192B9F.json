@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE192B9F",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 50.3956575,
+    "ref_longitude": 7.606584,
+    "ref_altitude": 68,
+    "contact_email": "b.willenborg@tum.de",
+    "description": "tumgis_gw3"
+  }
+}
