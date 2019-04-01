@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFECDB565",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": false,
+    "ref_latitude": 50.559727,
+    "ref_longitude": 4.694313,
+    "ref_altitude": 157,
+    "contact_email": "d.rosillon@cra.wallonie.be",
+    "description": "CRA-W Gembloux Gateway"
+  }
+}
