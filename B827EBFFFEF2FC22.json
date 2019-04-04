@@ -9,6 +9,8 @@
 				"serv_enabled": true 
 			} 
 		], 
+		"gps_tty_path": "/dev/rfcomm0",
+		"fake_gps": false,
 		"ref_latitude": 37.696404, 
 		"ref_longitude": -122.062662, 
 		"ref_altitude": 68, 
