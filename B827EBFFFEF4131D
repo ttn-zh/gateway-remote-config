@@ -1,0 +1,17 @@
+{
+	"gateway_conf": {
+	 	"gateway_ID": "B827EBFFFEF4131D",
+		"servers": [ 
+			{ "server_address": "router.eu.thethings.network",
+				"serv_port_up": 1700,
+				"serv_port_down": 1700,
+				"serv_enabled": true 
+			}
+			],
+			"ref_latitude": 47.3834856,
+			"ref_longitude": 11.7845482,
+			"ref_altitude": 580,
+			"contact_email": "thapa.redarmee9@gmail.com",
+			"description": "Gs LoRaWAN" 
+	}
+}
