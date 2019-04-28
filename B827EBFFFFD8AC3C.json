@@ -1,6 +1,6 @@
-    {
+{
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFF859D7B",
+    "gateway_ID": "B827EBFFFFD8AC3C",
     "servers": [
       {
         "server_address": "router.us.thethings.network",
@@ -13,6 +13,6 @@
     "ref_longitude": -48.9445893,
     "ref_altitude": 15,
     "contact_email": "tutuimf@gmail.com",
-    "description": "byond-gtw-lora-02"
+    "description": "byond-gwt-lora-01"
   }
 }

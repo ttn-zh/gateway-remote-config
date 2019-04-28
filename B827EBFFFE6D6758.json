@@ -10,10 +10,10 @@
       }
     ],
     "fake_gps": true,	
-    "ref_latitude": 47.4288,
-    "ref_longitude": 8.5412,
-    "ref_altitude": 440,
-    "contact_email": "ursm@gmx.net",
-    "description": "zh-seebach-2"
+    "ref_latitude": 47.387673,
+    "ref_longitude": 8.654560,
+    "ref_altitude": 451,
+    "contact_email": "thomas.hedrich@kelag.ch",
+    "description": "ZH_Schwerzenbach_KELAG"
   }
 }

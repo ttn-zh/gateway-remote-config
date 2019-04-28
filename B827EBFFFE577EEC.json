@@ -1,0 +1,24 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE577EEC",
+    "servers": [
+      {
+        "server_address": "router.us.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      },
+      {
+        "server_address": "log.gatewaystats.org", 
+        "serv_port_up": 1700, 
+        "serv_port_down": 1700, 
+        "serv_enabled": true
+      }
+    ],
+     "ref_latitude": 22.335896,
+     "ref_longitude": 114.175737,
+     "ref_altitude": 30,
+     "contact_email": "javierlau@hkpc.org",
+     "description": "LoRaWAN Test @ HKPC"
+  }
+}

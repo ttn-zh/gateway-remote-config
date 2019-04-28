@@ -1,6 +1,6 @@
-    {
+{
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFF859D7B",
+    "gateway_ID": "B827EBFFFF46EC6D",
     "servers": [
       {
         "server_address": "router.us.thethings.network",
@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": -15.0758491,
-    "ref_longitude": -48.9445893,
-    "ref_altitude": 15,
+    "ref_latitude": -27.571021,
+    "ref_longitude": -48.508433,
+    "ref_altitude": 17,
     "contact_email": "tutuimf@gmail.com",
-    "description": "byond-gtw-lora-02"
+    "description": "Gateway 2 IFSC:SJ"
   }
 }
