@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEFB0A2B",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 50.92204163,
+    "ref_longitude": 6.98755429,
+    "ref_altitude": 50,
+    "contact_email": "dannewitz@posteo.de",
+    "description": "TTN Koeln Poll"
+  }
+}
