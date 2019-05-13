@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE8C469F",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 46.173244,
+    "ref_longitude": 6.183577,
+    "ref_altitude": 428,
+    "contact_email": "lchoulak@st-sa.ch",
+    "description": "TTN ST-SA Veyrier"
+  }
+}
