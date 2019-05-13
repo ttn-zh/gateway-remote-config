@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE6C919A",
+    "servers": [
+      {
+        "server_address": "router.cn.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 44.227127,
+    "ref_longitude": 4.009553,
+    "ref_altitude": 216,
+    "contact_email": "contact@greendev.fr",
+    "description": "Green ntw 30"
+  }
+}
