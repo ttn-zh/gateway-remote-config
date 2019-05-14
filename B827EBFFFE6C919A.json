@@ -3,7 +3,7 @@
     "gateway_ID": "B827EBFFFE6C919A",
     "servers": [
       {
-        "server_address": "router.cn.thethings.network",
+        "server_address": "router.eu.thethings.network",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
@@ -14,6 +14,6 @@
     "ref_longitude": 4.009553,
     "ref_altitude": 216,
     "contact_email": "contact@greendev.fr",
-    "description": "Green ntw 30"
+    "description": "GreenNtw30 at Branoux Les Taillades, France"
   }
 }
