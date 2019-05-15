@@ -2,7 +2,7 @@
 	"gateway_conf": {
 	 	"gateway_ID": "B827EBFFFE2087B0",
 		"servers": [ 
-			{ "server_address": "router.eu.thethings.network",
+			{ "server_address": "localhost",
 				"serv_port_up": 1700,
 				"serv_port_down": 1700,
 				"serv_enabled": true 
@@ -12,6 +12,6 @@
 			"ref_longitude": 13.7236323,
 			"ref_altitude": 580,
 			"contact_email": "lokesh.tsys@gmail.com",
-			"description": "Lora wan demo/test gateway" 
+			"description": "Lora wan local gateway test" 
 	}
 }
