@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "b827ebffff7b64bd",     
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -26.1279533,
+    "ref_longitude": 28.0348607,
+    "ref_altitude": 1478,
+    "contact_email": "rbusschau@gmail.com",
+    "description": "EPS IMST Lite RPi Gateway"
+  }
+}
