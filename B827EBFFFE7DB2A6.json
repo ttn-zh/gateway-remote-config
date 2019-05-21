@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE7DB2A6", 
+		"servers": [ 
+			{ 
+				"server_address": "router.us.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 41.772032, 
+		"ref_longitude": -72.887353, 
+		"ref_altitude": 200, 
+		"contact_email": "rjapenga@mtiemail.com", 
+		"description": "A test gateway to get familiar with LoRa and TTN Rev A" 
+	} 
+} 
