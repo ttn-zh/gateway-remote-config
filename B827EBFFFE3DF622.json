@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE3DF622",     
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 49.20858869,
+    "ref_longitude": 16,62897747,
+    "ref_altitude": 203,
+    "contact_email": "pavel.kutilek@arkon.co.uk",
+    "description": "Arkon first LORA Gateway"
+  }
+}
