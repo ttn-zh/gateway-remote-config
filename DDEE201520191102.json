@@ -1,0 +1,18 @@
+{
+    "gateway_conf": {
+      "gateway_ID": "DDEE201520191102",
+      "servers": [
+        {
+          "server_address": "router.as1.thethings.network",
+          "serv_port_up": 1700,
+          "serv_port_down": 1700,
+          "serv_enabled": true
+        }
+      ],
+      "ref_latitude": 10.77184734,
+      "ref_longitude": 106.65850484,
+      "ref_altitude": 40,
+      "contact_email": "1512256@hcmut.edu.vn",
+      "description": "TTN BKU"
+    }
+  }
