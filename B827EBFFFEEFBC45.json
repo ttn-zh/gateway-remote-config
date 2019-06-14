@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEEFBC45",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 53.84348605,
+    "ref_longitude": 10.70019557,
+    "ref_altitude": 10,
+    "contact_email": "svenhermesdorf@7samurai.de",
+    "description": "LoRaGateway"
+  }
+}
