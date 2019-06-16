@@ -1,0 +1,19 @@
+
+{
+  "gateway_conf": {
+    "gateway_ID": "elbunker-gateway",
+    "servers": [
+      {
+        "server_address": "router.us-west.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -12.10457927,
+    "ref_longitude": -76.96067973,
+    "ref_altitude": 40,
+    "contact_email": "emfs2000@gmail.com",
+    "description": "TTN Lima PERU"
+  }
+}
