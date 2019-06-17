@@ -1,7 +1,7 @@
 
 {
   "gateway_conf": {
-    "gateway_ID": "elbunker-gateway",
+    "gateway_ID": "B827EBFFFE0D13B4",
     "servers": [
       {
         "server_address": "router.us-west.thethings.network",
