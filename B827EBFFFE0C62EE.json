@@ -15,9 +15,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 53.42602123,
-    "ref_longitude": 10.02248211,
-    "ref_altitude": 50,
+    "ref_latitude": 50.773903,
+    "ref_longitude": 7.688358,
+    "ref_altitude": 200,
     "contact_email": "v.wismach@me.com",
     "description": "langemapp"
   }
