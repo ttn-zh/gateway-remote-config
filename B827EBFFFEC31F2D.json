@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE399227",
+    "gateway_ID": "B827EBFFFEC31F2D",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -9,10 +9,11 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 47.77889959,
-    "ref_longitude": 9.77043445,
-    "ref_altitude": 681,
-    "contact_email": "sebastian@mangelkramer.com",
-    "description": "TTN Vogt 1"
+    "ref_latitude": 5.5,
+    "ref_longitude":5.2,
+    "ref_altitude": 40,
+    "contact_email": "isaacbalogun@yahoo.com",
+    "description": "IOTstuff"
   }
 }
+
