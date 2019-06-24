@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE16A755",
+    "servers": [
+      {
+        "server_address": "thethings.meshed.com.au",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 2.2922608,
+    "ref_longitude": 101.772194,
+    "ref_altitude": 30,
+    "contact_email": "wirelessukm@gmail.com",
+    "description": "mlagateway"
+  }
+}
