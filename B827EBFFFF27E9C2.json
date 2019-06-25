@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFF27E9C2",
+    "servers": [
+      {
+        "server_address": "router.us.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -27.59388046,
+    "ref_longitude": -48.54218783,
+    "ref_altitude": 17,
+    "contact_email": "valdir.noll@gmail.com",
+    "description": "Gateway LORA-TTN no NERSD"
+  }
+}
