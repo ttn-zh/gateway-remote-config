@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE20B616",
+    "servers": [
+      {
+        "server_address": "ttn-router-eu",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 50.79638394,
+    "ref_longitude": 10.29118612,
+    "ref_altitude": 200,
+    "contact_email": "Patrick.Knott@knotti.de",
+    "description": "TTN Immelborn Patrick Knott"
+  }
+}
