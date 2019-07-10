@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "ED10DE01EF20FE02",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 22.330239,
+    "ref_longitude": 87.323653,
+    "ref_altitude": 124,
+    "contact_email": "namansachin@gmail.com",
+    "description": "LoRa Gateway at Kharagpur"
+  }
+}
