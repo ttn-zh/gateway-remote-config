@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEC84F46",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 46.982712,
+    "ref_longitude": 8.411195,
+    "ref_altitude": 532,
+    "contact_email": "odermatt_fabian@hotmail.com",
+    "description": "Allmendstrasse: IC880A, RPi3"
+  }
+}
