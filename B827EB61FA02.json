@@ -3,7 +3,7 @@
     "gateway_ID": "B827EB61FA02",
     "servers": [
       {
-        "server_address": "ttn-router-brazil",
+        "server_address": "brazil.thethings.network",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
