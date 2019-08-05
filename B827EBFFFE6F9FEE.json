@@ -2,10 +2,10 @@
         "gateway_conf": {
                 "gateway_ID": "B827EBFFFE6F9FEE",
                 "servers": [ { "server_address": "router.eu.thethings.network", "serv_port_up": 1700, "serv_port_down": 1700, "serv_enabled": true } ],
-                "ref_latitude": 44.227125,
-                "ref_longitude": 4.009558,
-                "ref_altitude": 333,
+                "ref_latitude": 44.816924,
+                "ref_longitude": 6.482773,
+                "ref_altitude": 1817,
                 "contact_email": "contact@greendev.fr",
-                "description": "Greengw on Branoux Les Taillades (France)"
+                "description": "Greengw at Puy Saint Vincent (05290 France)"
         }
 }
