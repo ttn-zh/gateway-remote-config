@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB894E9",
+    "servers": [
+      {
+        "server_address": "us-west.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 14.15131540,
+    "ref_longitude": -88.03545165,
+    "ref_altitude": 40,
+    "contact_email": "m3retes@gmail.com",
+    "description": "Pruebas Honduras"
+  }
+}
