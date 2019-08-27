@@ -198,6 +198,7 @@
 		"server_address": "192.168.1.11",
 		"serv_port_up": 1700,
 		"serv_port_down": 1700,
+        "gateway_ID": "B827EBFFFE51DCF4",
 		"servers": [ {
 			"server_address": "192.168.1.11",
 			"serv_port_up": 1700,
