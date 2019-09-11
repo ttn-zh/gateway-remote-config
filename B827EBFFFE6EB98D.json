@@ -1,0 +1,18 @@
+{
+	"gateway_conf": {
+		"gateway_ID": "B827EBFFFE6EB98D",
+		"servers": [
+			{
+				"server_address": "router.eu.thethings.network",
+				"serv_port_up": 1700,
+				"serv_port_down": 1700,
+				"serv_enabled": true
+			}
+		],
+		"ref_latitude": 48.433333,
+		"ref_longitude": 15.916666,
+		"ref_altitude": 224,
+		"contact_email": "phillipoberndorfer@gmail.com",
+		"description": "Test-Gateway, Smart Sensor Management, HTL Hollabrunn"
+	}
+}
