@@ -1,9 +1,9 @@
 {
   "gateway_conf": {
-    "gateway_ID": "eui-bcbcbcbcbcbcbcbc",
+    "gateway_ID": "B827EBFFFE03284C",
     "servers": [
       {
-        "server_address": "router.eu.thethings.network",
+        "server_address": "ttn.opennetworkinfrastructure.org",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
