@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE29BF7B",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.6122819,
+    "ref_longitude": 8.8668779,
+    "ref_altitude": 498,
+    "contact_email": "nik@truninger.net",
+    "description": "IC880A, RPi3"
+  }
+}
