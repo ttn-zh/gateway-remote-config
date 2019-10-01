@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": ,
-    "ref_longitude": ,
-    "ref_altitude": ,
+    "ref_latitude": 44.632200,
+    "ref_longitude": 7.478294,
+    "ref_altitude": 450,
     "contact_email": "networkers@isiline.net",
     "description": "TTN @ EBP"
   }
