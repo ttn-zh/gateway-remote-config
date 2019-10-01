@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEFCF84A",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 12,
+    "ref_longitude": 80,
+    "ref_altitude": 6,
+    "contact_email": "samdani.sms@gmail.com",
+    "description": "IITM LoRa"
+  }
+}
