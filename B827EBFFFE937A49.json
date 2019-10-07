@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE937A49", 
+		"servers": [ 
+			{ 
+				"server_address": "asia-se.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 14.58405100, 
+		"ref_longitude": 121.06293400, 
+		"ref_altitude": 40, 
+		"contact_email": "joshua.malabanan@iainnovations.ph", 
+		"description": "IA Innovations" 
+	} 
+} 
