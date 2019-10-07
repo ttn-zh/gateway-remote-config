@@ -1,6 +1,6 @@
 { 
 	"gateway_conf": { 
-		"gateway_ID": "B827EBFFFE937A49", 
+		"gateway_ID": "eui-b827ebfffe937a49", 
 		"servers": [ 
 			{ 
 				"server_address": "asia-se.thethings.network", 
