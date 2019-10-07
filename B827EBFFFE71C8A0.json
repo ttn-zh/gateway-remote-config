@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE71C8A0",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 33.88020000,
+    "ref_longitude": 10.09126000,
+    "ref_altitude": 10,
+    "contact_email": "wafa.sahli93@gmail.com",
+    "description": "TTN testing gateway"
+  }
+}
