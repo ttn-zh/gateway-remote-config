@@ -3,7 +3,7 @@
 		"gateway_ID": "B827EBFFFEF94ED9", 
 		"servers": [ 
 			{ 
-				"server_address": "the router to which you   want to connect to", 
+				"server_address": "asia-se.thethings.network", 
 				"serv_port_up": 1700, 
 				"serv_port_down": 1700, 
 				"serv_enabled": true 
