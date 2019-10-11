@@ -1,0 +1,18 @@
+{ 
+  "gateway_conf": { 
+    "gateway_ID": "B827EBFFFE9EFDBA", 
+    "servers": [ 
+      { 
+        "server_address": "router.eu.thethings.network", 
+        "serv_port_up": 1700, 
+        "serv_port_down": 1700, 
+        "serv_enabled": true 
+      } 
+    ], 
+    "ref_latitude": 49.29, 
+    "ref_longitude": 1.00157, 
+    "ref_altitude": 12, 
+    "contact_email": "alain.mouflet@univ-rouen.fr", 
+    "description": "IUT-MSA-MPh" 
+  } 
+}
