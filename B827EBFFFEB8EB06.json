@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB8EB06",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 48.1491634,
+    "ref_longitude": 16.2811079,
+    "ref_altitude": 239,
+    "contact_email": "robert.martin@clubcomputer.at",
+    "description": "TTNVIE23"
+  }
+}

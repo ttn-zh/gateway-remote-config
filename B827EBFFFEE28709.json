@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEE28709",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 46.760571,
+    "ref_longitude": 14.283450,
+    "ref_altitude": 780,
+    "contact_email": "ingo.pir@gmail.com",
+    "description": "DCW_Gateway"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEFFE5A4",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 39.08358769,
+    "ref_longitude": 16.37012876,
+    "ref_altitude": 850,
+    "contact_email": "mail@boot.it",
+    "description": "TTN Senzalice Soveria mannelli"
+  }
+}

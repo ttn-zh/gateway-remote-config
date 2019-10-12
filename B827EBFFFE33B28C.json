@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE33B28C", 
+		"servers": [ 
+			{ 
+				"server_address": "router.us.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 29.73887831, 
+		"ref_longitude": -95.77447196, 
+		"ref_altitude": 40, 
+		"contact_email": "islandmarmot@gmail.com", 
+		"description": "Development TTN Gateway in Katy,TXn" 
+	} 
+} 
