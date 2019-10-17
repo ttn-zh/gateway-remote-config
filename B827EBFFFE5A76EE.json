@@ -1,0 +1,18 @@
+{
+   "conf_gateway":
+     "ID_gateway":  "B827EBFFFE5A76EE" ,
+     "server": [
+      {
+         "server_address":  " router.eu.thethings.network",
+         "serv_port_up": 1700,
+         "serv_port_down": 1700,
+         "serv_enabled": true
+      }
+    ],
+     "ref_latitude": 46.327886, 
+     "ref_longitude": 10.866406,
+     "ref_altitude": 729,
+     "contact_email":  " fabiobrt@hotmail.it",
+     "descrizione":  "TTN Gateway" 
+  }
+}
