@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "dca632fffe43df3e",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 52,45090793,
+    "ref_longitude": 4,80435770,
+    "ref_altitude": 10,
+    "contact_email": "erikhamersma@gmail.com",
+    "description": "Lora Gateway Zaanstad"
+  }
+}
