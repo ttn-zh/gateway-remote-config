@@ -1,0 +1,18 @@
+{
+    "gateway_conf" : {
+         "gateway_ID" : "B827EBFFFEBF64C9",
+         "servers" : [
+              {
+                   "server_address" : "router.eu.thethings.network",
+                   "serv_port_up"   : 1700,
+                   "serv_port_down" : 1700,
+                   "serv_enabled"   : true
+              }
+         ],
+         "ref_latitude"  : 51.23281200,
+         "ref_longitude" : 4.40990400,
+         "ref_altitude"  : 20,
+         "contact_email" : "s097298@ap.be",
+         "description"   : "Lora gateway  for fa-2 (farm-automation 2)"
+    }
+}
