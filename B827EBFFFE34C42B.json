@@ -1,8 +1,7 @@
 {                                                                                                                              
         "gateway_conf": {                                                                                                      
                 "gateway_ID": "B827EBFFFE34C42B",                                                                              
-                "servers": [ { "server_address": "router.eu.thethings.network", "serv_port_up": 1700, "serv_port_down": 1700, "
-serv_enabled": true } ],                                                                                                       
+                "servers": [ { "server_address": "router.eu.thethings.network", "serv_port_up": 1700, "serv_port_down": 1700, "serv_enabled": true } ],                                                                                                       
                 "ref_latitude": 55.04636001,                                                                                   
                 "ref_longitude": 9.79758000,                                                                                   
                 "ref_altitude": 20,                                                                                            
