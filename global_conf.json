@@ -1,0 +1,18 @@
+{
+    "gateway_conf" : {
+         "gateway_ID" : "B827EBFFFEEBE474",
+         "servers" : [
+              {
+                   "server_address" : "us-west.thethings.network",
+                   "serv_port_up" : 1700,
+                   "serv_port_down" : 1700,
+                   "serv_enabled" : true
+              }
+         ],
+         "ref_latitude" : 23.899321,
+         "ref_longitude" : 121.544432,
+         "ref_altitude" : 40,
+         "contact_email" : "dclab@csie.ndhu.edu.tw",
+         "description" : "DclabLORA Test"
+    }
+}
