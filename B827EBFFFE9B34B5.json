@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE9B34B5",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 51.77893423,
+    "ref_longitude": 8.82440335,
+    "ref_altitude": 145,
+    "contact_email": "konrad.dirkes@web.de",
+    "description": "Konni's 8 chanel gateway"
+  }
+}
