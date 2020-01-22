@@ -9,7 +9,7 @@
         "serv_enabled": true
       },
       {
-        "server_address": "130.255.185.100",
+        "server_address": "78.155.23.33",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
