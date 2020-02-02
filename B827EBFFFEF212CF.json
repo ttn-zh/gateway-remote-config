@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEF212CF",
+    "servers": [
+      {
+        "server_address": "router.cn.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 21.145536,
+    "ref_longitude": 79.074898,
+    "ref_altitude": 541,
+    "contact_email": "saurav.gajbhiye24@gmail.com",
+    "description": "TTN Lora Gateway"
+  }
+}
