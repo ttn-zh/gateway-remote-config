@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "DCA632FFFE495B09",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 52.67859114,
+    "ref_longitude": -8.56719894,
+    "ref_altitude": 1,
+    "contact_email": "16163575@studentmail.ul.ie",
+    "description": "FYP"
+  }
+}
