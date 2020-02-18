@@ -1,0 +1,19 @@
+{
+    "gateway_conf" : {
+         "gateway_ID" : "B827EBFFFE31A6CE",
+         "servers" : [
+              {
+                   "server_address" : "router.eu.thethings.network",
+                   "serv_port_up" : 1700,
+                   "serv_port_down" : 1700,
+                   "serv_enabled" : true
+              }
+         ],
+         "ref_latitude" : 39.374216,
+         "ref_longitude" : 22.952905,
+         "ref_altitude" : 10,
+         "contact_email" : "gkatzaras.janis@gmail.com",
+         "description" : "Zeyxis_Gatewai_1"
+    }
+
+}
