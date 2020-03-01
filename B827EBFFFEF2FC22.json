@@ -9,10 +9,10 @@
 				"serv_enabled": true 
 			} 
 		], 
-		"ref_latitude": 37.696404, 
-		"ref_longitude": -122.062662, 
-		"ref_altitude": 68, 
+		"ref_latitude": 45.46488657, 
+		"ref_longitude": -122.68906495, 
+		"ref_altitude": 163, 
 		"contact_email": "loragwadmin@fogninja.com",
-		"description": "SF East Bay LoRa GW"
+		"description": "SW Portland LoRa GW"
 	} 
 } 
