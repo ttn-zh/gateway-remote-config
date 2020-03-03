@@ -1,0 +1,18 @@
+{
+   "gateway_conf": {
+     "gateway_ID": "B827EBFFFE53568C",
+     "servers": [
+       {
+         "server_address": "router.eu.thethings.network",
+         "serv_port_up": 1700,
+         "serv_port_down": 1700,
+         "serv_enabled": true
+       }
+     ],
+     "ref_latitude": 49.46863711,
+     "ref_longitude": 7.06718427,
+     "ref_altitude": 270,
+     "contact_email": "info@kern-saar.de",
+     "description": "kerns_ttn_gateway"
+   }
+ }

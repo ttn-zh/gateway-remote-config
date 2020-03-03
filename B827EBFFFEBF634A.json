@@ -1,0 +1,18 @@
+{
+    "gateway_conf": {
+      "gateway_ID": "B827EBFFFEBF634A",
+      "servers": [
+        {
+          "server_address": "router.eu.thethings.network",
+          "serv_port_up": 1700,
+          "serv_port_down": 1700,
+          "serv_enabled": true
+        }
+      ],
+      "ref_latitude": 25.31234487,
+      "ref_longitude": 55.49102164,
+      "ref_altitude": 0,
+      "contact_email": "Shavaizknz98@gmail.com",
+      "description": "LoRaWAN gateway for Smart Campus Mobility System at the American University of Sharjah"
+    }
+  }

@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE0F1F5B",
+    "servers": [
+      {
+        "server_address": "router.cn.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 22.940614,
+    "ref_longitude": 113.895919,
+    "ref_altitude": 40,
+    "contact_email": "945681232@qq.com",
+    "description": "TTN Test"
+  }
+}

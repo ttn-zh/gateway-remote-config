@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEDEBF8D",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 59.83482906,
+    "ref_longitude": 6.82023032,
+    "ref_altitude": 440,
+    "contact_email": "terje@tekloftet.no",
+    "description": "ic880A experimental gw"
+  }
+}

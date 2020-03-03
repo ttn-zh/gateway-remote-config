@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "D8A01DFFFF6907AC",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 53.55634608,
+    "ref_longitude": 9.88528150,
+    "ref_altitude": 40,
+    "contact_email": "LoraWan@felmayer.de",
+    "description": "TTN Hamburg"
+  }
+}

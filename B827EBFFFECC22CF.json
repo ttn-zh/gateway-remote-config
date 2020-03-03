@@ -1,0 +1,17 @@
+{
+	"gateway_conf": {
+	 	"gateway_ID": "B827EBFFFECC22CF",
+		"servers": [
+			{ "server_address": "router.eu.thethings.network",
+				"serv_port_up": 1700,
+				"serv_port_down": 1700,
+				"serv_enabled": true
+			}
+			],
+			"ref_latitude": 47.281090,
+			"ref_longitude": 9.670258,
+			"ref_altitude": 675,
+			"contact_email": "phcsys@gmail.com",
+			"description": "on the sky" 
+	}
+}

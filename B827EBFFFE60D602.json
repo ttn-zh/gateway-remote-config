@@ -1,0 +1,18 @@
+{
+  "gateway_conf" : {
+    "gateway_ID" : "B827EBFFFE60D602" ,
+    "servers" : [
+      {
+        "server_address" : "router.eu.thethings.network",
+        "serv_port_up" : 1700,
+        "serv_port_down" : 1700,
+        "serv_enabled" : true
+      }
+    ],
+    "ref_latitude" : 3.47206680,
+    "ref_longitude" : -76.50234750,
+    "ref_altitude" : 1,
+    "contact_email" : "jhakobo8@gmail.com",
+    "description" : "Preventivo LoRa Gateway"
+  }
+}
