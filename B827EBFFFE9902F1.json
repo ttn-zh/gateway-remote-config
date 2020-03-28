@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 50.0822850,
-    "ref_longitude": 14.4502592,
-    "ref_altitude": 40,
-    "contact_email": "nomail@nomail.no",
+    "ref_latitude": 47.429,
+    "ref_longitude": 9.482,
+    "ref_altitude": 981,
+    "contact_email": "dodoooh@xonatec.net",
     "description": "LoRehetobel Wan"
   }
 }
