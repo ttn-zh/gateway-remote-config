@@ -1,1 +1,17 @@
-
+{
+	"gateway_conf": {
+	 	"gateway_ID": "B827EBFFFE00E326",
+		"servers": [ 
+			{ "server_address": "router.eu.thethings.network",
+				"serv_port_up": 1700,
+				"serv_port_down": 1700,
+				"serv_enabled": true 
+			}
+			],
+			"ref_latitude": 51.209347,
+			"ref_longitude": 3.224699,
+			"ref_altitude": 15,
+			"contact_email": "michiel.vandewiele@student.odisee.be",
+			"description": "Temporary gateway Bruges Belgium" 
+	}
+}
