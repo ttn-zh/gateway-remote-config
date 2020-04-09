@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE7B46B0",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 44.411366,
+    "ref_longitude": 8.891263,
+    "ref_altitude": 7,
+    "contact_email": "lorenzo.malaspina.genova@gmail.com",
+    "description": "project for the university of Genoa"
+  }
+}
