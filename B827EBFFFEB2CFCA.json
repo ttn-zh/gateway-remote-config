@@ -6,7 +6,12 @@
       "serv_port_up": 1700,
       "serv_port_down": 1700,
       "serv_enabled": true 
-      }
+	  },
+	  { "server_address": "192.168.1.170",
+		"serv_port_up": 5005,
+		"serv_port_down": 5005,
+		"serv_enabled": true 
+		}
     ],
 		"ref_latitude": 46.70171,
 		"ref_longitude": 7.65403,

@@ -1,0 +1,19 @@
+{
+    "gateway_conf" : {
+         "gateway_ID" : "B827EBFFFE72E7EE",
+         "servers" : [
+              {
+                   "server_address" : "router.eu.thethings.network",
+                   "serv_port_up" : 1700,
+                   "serv_port_down" : 1700,
+                   "serv_enabled" : true
+              }
+         ],
+         "ref_latitude" : 37.898865,
+         "ref_longitude" : -4.719642,
+         "ref_altitude" : 125,
+         "contact_email" : "jfmohedano@inda.es",
+         "description" : "inda_gateway_test"
+    }
+    
+}

@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 47.77889959,
-    "ref_longitude": 9.77043445,
+    "ref_latitude": 48.19615529,
+    "ref_longitude": 16.35177128,
     "ref_altitude": 681,
     "contact_email": "sebastian@mangelkramer.com",
-    "description": "TTN Vogt 1"
+    "description": "VIE-SM1"
   }
 }

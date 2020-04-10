@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFEF4194B", 
+		"servers": [ 
+			{ 
+				"server_address": "router.eu.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 45.75, 
+		"ref_longitude": 4.2333, 
+		"ref_altitude": 40, 
+		"contact_email": "jm.berhault@cartelectronic.fr", 
+		"description": "TTN France" 
+	} 
+}

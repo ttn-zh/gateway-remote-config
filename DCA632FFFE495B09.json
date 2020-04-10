@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE2B652D",
+    "gateway_ID": "DCA632FFFE495B09",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -9,11 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 9.84862383,
-    "ref_longitude": 78.34395142,
-    "ref_altitude": 98,
-    "contact_email": "psyece20@gmail.com",
-    "description": "PSY College Gateway"
+    "ref_latitude": 52.67859114,
+    "ref_longitude": -8.56719894,
+    "ref_altitude": 1,
+    "contact_email": "16163575@studentmail.ul.ie",
+    "description": "FYP"
   }
 }
-

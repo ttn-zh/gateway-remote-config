@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE2B652D",
+    "gateway_ID": "B827EBFFFE0651D1",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -9,11 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 9.84862383,
-    "ref_longitude": 78.34395142,
-    "ref_altitude": 98,
-    "contact_email": "psyece20@gmail.com",
-    "description": "PSY College Gateway"
+    "ref_latitude": 51.3662169,
+    "ref_longitude": -0.1979937,
+    "ref_altitude": 40,
+    "contact_email": "reddy.horcrux@gmail.com",
+    "description": "VL Gateway"
   }
 }
-

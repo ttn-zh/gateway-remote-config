@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE130DC8",
+    "gateway_ID": "B827EBFFFEC9E39C",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 36.720257,
-    "ref_longitude": -4.297454,
-    "ref_altitude": 240,
-    "contact_email": "angelafr_94@hotmail.com",
-    "description": "Gateway_JanpekS"
+    "ref_latitude": 25.1972018,
+    "ref_longitude": 55.2721824,
+    "ref_altitude": 14,
+    "contact_email": "r.bohara@digital-worx.de",
+    "description": "TTN Pi+IC880A"
   }
 }

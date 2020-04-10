@@ -1,0 +1,16 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEF87811",
+    "servers": [{
+      "server_address": "router.eu.thethings.network",
+      "serv_port_up": 1700,
+      "serv_port_down": 1700,
+      "serv_enabled": true
+    }],
+    "ref_latitude": 52.68486359,
+    "ref_longitude": -2.41936063,
+    "ref_altitude": 137,
+    "contact_email": "simon@simonemms.com",
+    "description": "Telford TTN Gateway"
+  }
+}
