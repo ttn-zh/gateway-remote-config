@@ -15,10 +15,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 47.19536500,
-    "ref_longitude": 8.72441538,
-    "ref_altitude": 500,
+    "ref_latitude": 47.39,
+    "ref_longitude": 8.418,
+    "ref_altitude": 400,
     "contact_email": "asbjorn.riedel@gmail.com",
-    "description": "Single Channel Wollerau"
+    "description": "Single Channel Urdorf (2)"
   }
 }
