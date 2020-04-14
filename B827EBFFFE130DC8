@@ -1,0 +1,17 @@
+{
+	"gateway_conf": {
+	 	"gateway_ID": "B827EBFFFE130DC8",
+		"servers": [ 
+			{ "server_address": "router.eu.thethings.network",
+				"serv_port_up": 1700,
+				"serv_port_down": 1700,
+				"serv_enabled": true 
+			}
+			],
+			"ref_latitude": 36.720240,
+			"ref_longitude": -4.297486,
+			"ref_altitude": 180,
+			"contact_email": "juanbravo3@msn.com",
+			"description": "Gateway_Rufo" 
+	}
+}
