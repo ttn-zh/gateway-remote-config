@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEFA85BE",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 43.9630556,
+    "ref_longitude": 4.92069,
+    "ref_altitude": 72,
+    "contact_email": "constantin.fite@gmail.com",
+    "description": "TTN Fite"
+  }
+}
