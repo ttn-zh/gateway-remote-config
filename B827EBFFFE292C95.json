@@ -16,9 +16,9 @@
       }
     ],
     "fake_gps": true,
-    "ref_latitude": 45.1545,
-    "ref_longitude": 5.8423,
-    "ref_altitude": 624,
+    "ref_latitude": 45.208,
+    "ref_longitude": 5.782,
+    "ref_altitude": 220,
     "contact_email": "contact@hidnseek.fr",
     "description": "ttn-hidnseek4"
   }
