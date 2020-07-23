@@ -1,0 +1,21 @@
+{
+  "gateway_conf": 
+  {
+    "gateway_ID": "B827EBFFFE6ACE21",
+    "servers": 
+    [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 52.50964859,
+    "ref_longitude": 13.62720013,
+    "ref_altitude": 10,
+    "contact_email": "lora-ttn@igel-tv.de",
+    "description": "ttn-SH-Werbig"
+  }
+}
