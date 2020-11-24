@@ -1,19 +1,18 @@
 {
-"gateway_conf": {
-"gateway_ID": "B827EBFFFEC32C2F",
-"servers": [
-{
-"server_address": "router.eu.thethings.network",
-"serv_port_up": 1700,
-"serv_port_down": 1700,
-"serv_enabled": true
-}
-],
-"fake_gps": true,
-"ref_latitude": 47.720197,
-"ref_longitude": 13.078901,
-"ref_altitude": 440,
-"contact_email": "jganitzer.itsb-b2018@fh-salzburg.ac.at",
-"description": "bachelor thesis: LoRaWan"
-}
+  "gateway_conf": {
+  "gateway_ID": "B827EBFFFEC32C2F",
+  "servers": [
+    {
+      "server_address": "router.eu.thethings.network",
+      "serv_port_up": 1700,
+      "serv_port_down": 1700,
+      "serv_enabled": true
+    }
+  ],
+  "ref_latitude": 47.720197,
+  "ref_longitude": 13.078901,
+  "ref_altitude": 440,
+  "contact_email": "jganitzer.itsb-b2018@fh-salzburg.ac.at",
+  "description": "bachelor thesis: LoRaWan"
+  }
 }
