@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE156364", 
+		"servers": [ 
+			{ 
+				"server_address": "router.eu.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 47.52516310, 
+		"ref_longitude": 8.98427436, 
+		"ref_altitude": 493, 
+		"contact_email": "info@inno.energy", 
+		"description": "Sunnewies Weingarten" 
+	} 
+}
