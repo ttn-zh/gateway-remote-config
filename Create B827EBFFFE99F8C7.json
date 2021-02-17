@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE99F8C7",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 36.709431,
+    "ref_longitude": -4.4423924,
+    "ref_altitude": 22,
+    "contact_email": "bruj.mariusz@gmail.com",
+    "description": "Malaga La Union"
+  }
+}
