@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB07D84",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 53.13576184,
+    "ref_longitude": 23.17861749,
+    "ref_altitude": 152,
+    "contact_email": "sq4nyy@gmail.com",
+    "description": "sq4nyy"
+  }
+}
