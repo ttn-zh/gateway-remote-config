@@ -1,0 +1,15 @@
+{
+        "gateway_conf": {
+                "gateway_ID": "dca632b3fd5e",
+                "servers": [
+                        { "server_address": "eu1.cloud.thethings.network", "serv_port_up": 1700, "serv_port_down": 1700, "serv_enabled": true },
+                        { "server_address": "router.eu.thethings.network", "serv_port_up": 1700, "serv_port_down": 1700, "serv_enabled": true },
+                        { "server_address": "192.168.1.50", "serv_port_up": 1688, "serv_type": "gwtraf", "serv_port_down": 1689, "serv_enabled": true }
+                        ],
+                "ref_latitude": 52.205312,
+                "ref_longitude": 4.858720,
+                "ref_altitude": 6,
+                "contact_email": "milan@vdswaluw.nl",
+                "description": "TTN Mijdrecht"
+        }
+}
