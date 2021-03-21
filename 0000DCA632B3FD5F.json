@@ -1,6 +1,6 @@
 {
         "gateway_conf": {
-                "gateway_ID": "dca632b3fd5e",
+                "gateway_ID": " 0000DCA632B3FD5",
                 "servers": [
                         { "server_address": "eu1.cloud.thethings.network", "serv_port_up": 1700, "serv_port_down": 1700, "serv_enabled": true },
                         { "server_address": "router.eu.thethings.network", "serv_port_up": 1700, "serv_port_down": 1700, "serv_enabled": true },
