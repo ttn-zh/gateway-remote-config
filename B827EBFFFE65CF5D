@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE65CF5D ",
+    "gateway_ID": "B827EBFFFE65CF5D",
     "servers": [
       {
         "server_address": "192.168.43.114",
