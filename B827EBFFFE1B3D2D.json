@@ -9,8 +9,8 @@
 				"serv_enabled": true 
 			} 
 		], 
-		"ref_latitude": the lat of the rak 831 gateway, 
-		"ref_longitude": the long of the rak 831 gateway, 
+		"ref_latitude": 40.99110723, 
+		"ref_longitude": 28.72771965, 
 		"ref_altitude": 40, 
 		"contact_email": "hishamalassedy@gmail.com", 
 		"description": "LoRa RAK831 Gateway" 
