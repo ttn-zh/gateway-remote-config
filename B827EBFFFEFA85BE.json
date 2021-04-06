@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 43.9630556,
-    "ref_longitude": 4.92069,
-    "ref_altitude": 72,
+    "ref_latitude": 43.604130,
+    "ref_longitude": 3.882270,
+    "ref_altitude": 34,
     "contact_email": "constantin.fite@gmail.com",
     "description": "TTN Fite"
   }
