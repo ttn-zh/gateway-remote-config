@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE1B3D2D", 
+		"servers": [ 
+			{ 
+				"server_address": "router.eu.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 40.98905154, 
+		"ref_longitude": 28.72521566, 
+		"ref_altitude": 90, 
+		"contact_email": "hishamalassedy@gmail.com", 
+		"description": "LoRa RAK831 Gateway" 
+	} 
+} 
