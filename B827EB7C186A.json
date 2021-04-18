@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EB7C186A",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 51.43638343,
+    "ref_longitude": 6.52980380,
+    "ref_altitude": 30,
+    "contact_email": "2hwz0x39ptk7lcj8iofvq5er@saschahenke.de",
+    "description": "Code for Niederrhein Neukirchen-Vluyn"
+  }
+}
