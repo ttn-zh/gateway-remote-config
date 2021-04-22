@@ -1,1 +1,20 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE140769",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
 
+    "fake_gps": true,
+    "ref_latitude": 38.47932877,
+    "ref_longitude": 42.16477585,
+    "ref_altitude": 7,
+    "contact_email": "alitlf27@gmail.com",
+    "description": "Lorawan measurement Ali"
+  }
+}
