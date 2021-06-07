@@ -1,0 +1,19 @@
+{
+    "gateway_conf": {
+      "gateway_ID": "B827EBFFFE121AA3",
+      "servers": [
+        {
+          "server_address": "eu1.cloud.thethings.network",
+          "serv_port_up": 1700,
+          "serv_port_down": 1700,
+          "serv_enabled": true
+        }
+      ],
+      "fake_gps": false,
+      "ref_latitude": 52.6031943,
+      "ref_longitude": 13.421698,
+      "ref_altitude": 47,
+      "contact_email": "hm.signer@gmail.com",
+      "description": "outdoor-gateway-buchholz"
+    }
+  }
