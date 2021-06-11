@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE456B6B",
+    "servers": [
+      {
+        "server_address": "eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 7.41911089,
+    "ref_longitude": 3.99639982,
+    "ref_altitude": 205,
+    "contact_email": "oyinlolaoluwatobi@gmail.com",
+    "description": "internetoftobi"
+  }
+}
