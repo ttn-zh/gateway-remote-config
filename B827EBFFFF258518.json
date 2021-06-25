@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFF258518",
+    "servers": [
+      {
+        "server_address": "router.us.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -27.609391,
+    "ref_longitude": -48.633223,
+    "ref_altitude": 56.9,
+    "contact_email": "arliones@gmail.com",
+    "description": "Test gateway device for applications development."
+  }
+}
