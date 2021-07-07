@@ -1,0 +1,19 @@
+
+{
+  "gateway_conf": {
+    "gateway_ID": "DCA632FFFEB8FFB6",
+    "servers": [
+      {
+        "server_address": "eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 44.880149,
+    "ref_longitude": 10.166959,
+    "ref_altitude": 45,
+    "contact_email": "umbertoart7@gmail.com",
+    "description": "Secondo gateway ttn"
+  }
+}
