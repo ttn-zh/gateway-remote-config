@@ -1,0 +1,26 @@
+  
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEF9A421",
+    "servers": [
+      {
+        "server_address": "eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      },
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+      
+    ],
+    "ref_latitude": 53.946441908339985,
+    "ref_longitude": -1.0593371741560988,
+    "ref_altitude": 14,
+    "contact_email": "alexvinu2001@gmail.com",
+    "description": "MSc project at University of York"
+  }
+}
