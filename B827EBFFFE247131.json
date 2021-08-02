@@ -1,0 +1,17 @@
+{
+	"gateway_conf": {
+	 	"gateway_ID": "B827EBFFFE247131",
+		"servers": [ 
+			{ "server_address": "router.eu.thethings.network",
+				"serv_port_up": 1700,
+				"serv_port_down": 1700,
+				"serv_enabled": true 
+			}
+			],
+			"ref_latitude": 8.488868,
+			"ref_longitude": 76.949755,
+			"ref_altitude": 100,
+			"contact_email": "dhanish@elementzonline.com",
+			"description": "Elementz Engineers Guild Pvt Ltd - Lora Gateway" 
+	}
+}

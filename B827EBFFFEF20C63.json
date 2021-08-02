@@ -1,0 +1,19 @@
+  
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEF20C63",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 50.55528808,
+    "ref_longitude": 4.68012411,
+    "ref_altitude": 150,
+    "contact_email": "Laurent@rivage-42.be",
+    "description": "TTN Gembloux - BE"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB296DC",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 55.28219097,
+    "ref_longitude": 37.93628259,
+    "ref_altitude": 5,
+    "contact_email": "sveer.sveer@gmail.com",
+    "description": "Lora Debug Gateway"
+  }
+}

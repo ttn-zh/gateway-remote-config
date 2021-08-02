@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE0300E5",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 45.0506354,
+    "ref_longitude": 9.6858536,
+    "ref_altitude": 74,
+    "contact_email": "gmm.maker@gmail.com",
+    "description": "YUNIverse LoRa gateway Piacenza Città"
+  }
+}

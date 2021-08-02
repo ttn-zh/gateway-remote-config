@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE895FBF",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 52.51272843,
+    "ref_longitude": 9.43565750,
+    "ref_altitude": 40,
+    "contact_email": "henrik.volkmann@gmx.net",
+    "description": "Terasse am Moor"
+  }
+}

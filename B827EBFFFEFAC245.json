@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEFAC245",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 49.66087510,
+    "ref_longitude": 18.57172781,
+    "ref_altitude": 395,
+    "contact_email": "prscreamer@hotmail.com",
+    "description": "ttn-gw-smilovice-2"
+  }
+}

@@ -1,0 +1,18 @@
+    {
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFF859D7B",
+    "servers": [
+      {
+        "server_address": "router.us.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -15.0758491,
+    "ref_longitude": -48.9445893,
+    "ref_altitude": 15,
+    "contact_email": "tutuimf@gmail.com",
+    "description": "byond-gtw-lora-02"
+  }
+}

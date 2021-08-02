@@ -1,0 +1,20 @@
+{
+/* Put there parameters that are different for each gateway (eg. pointing one gateway to a test server while the others stay in production) */
+/* Settings defined in global_conf will be overwritten by those in local_conf */
+    "gateway_conf": {
+        "gateway_ID": "B827EBFFFE6678A4", /* you must pick a unique 64b number for each gateway (represented by an hex string) */
+	"servers":[
+	{
+		"server_address":"router.us.thethings.network",
+		"serv_port_up":1700,
+		"serv_port_down":1700,
+        	"serv_enabled": true
+      	}
+    ],
+    "ref_latitude": 32.0101301,
+    "ref_longitude": 110.715248,
+    "ref_altitude": 986,
+    "contact_email": "jjulicher@mac.com",
+    "description": "My LoRa Gateway"
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEA7DCE3",
+    "servers": [
+      {
+        "server_address": "thethings.meshed.com.au",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -29.1700215,
+    "ref_longitude": -51.219989,
+    "ref_altitude": 730,
+    "contact_email": "vortyce@hotmail.com",
+    "description": "Vortyce Lora Pilot"
+  }
+}

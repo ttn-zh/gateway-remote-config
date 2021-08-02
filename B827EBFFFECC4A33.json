@@ -1,0 +1,18 @@
+{
+    "gateway_conf": {
+      "gateway_ID": "B827EBFFFECC4A33",
+      "servers": [
+        {
+          "server_address": "router.eu.thethings.network",
+          "serv_port_up": 1700,
+          "serv_port_down": 1700,
+          "serv_enabled": true
+        }
+      ],
+      "ref_latitude": 8.20778,
+      "ref_longitude":  124.24426,
+      "ref_altitude": 25,
+      "contact_email": "nambatac80@gmail.com",
+      "description": "RAK2245 Raspberry Pi Gateway"
+    }
+}

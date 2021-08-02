@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEA30675",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 52.578237,
+    "ref_longitude": 9.436371,
+    "ref_altitude": 54,
+    "contact_email": "kersten@beyond-agentur.com",
+    "description": "TTN @ Corveyer Ring Hagen"
+  }
+}

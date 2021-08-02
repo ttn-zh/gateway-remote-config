@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEAC61F8",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 6.443260,
+    "ref_longitude": 3.438140,
+    "ref_altitude": 0,
+    "contact_email": "bahij@mansours.org",
+    "description": "ic880a-gateway Lagos IoTech project"
+  }
+}

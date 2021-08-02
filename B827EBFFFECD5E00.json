@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFECD5E00",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1701,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 17.448882,
+    "ref_longitude": 78.391955,
+    "ref_altitude": 40,
+    "contact_email": "mayurharge@gmail.com",
+    "description": "TTN DIY"
+  }
+}

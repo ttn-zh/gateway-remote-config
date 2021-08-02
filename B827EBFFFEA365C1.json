@@ -1,0 +1,17 @@
+{
+ "gateway_conf": {
+   "gateway_ID": "B827EBFFFEA365C1",
+    "servers": [
+    {
+      "server_address": "router.eu.thethings.network",
+      "serv_port_up": 1700,
+      "serv_port_down": 1700,
+      "serv_enabeld": true
+    }
+   ],
+    "ref_latitude": 45.8177453,
+    "ref_longitude": 12.024082,
+    "contact_email": "info@securityservicetreviso.it",
+    "description": "Atmosphera 01"
+  }
+}

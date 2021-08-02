@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE06D635",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 53.836721,
+    "ref_longitude": -1.767187,
+    "ref_altitude": 73,
+    "contact_email": "info@chriskempster.me.uk",
+    "description": "ck-ttn-shipley"
+  }
+}

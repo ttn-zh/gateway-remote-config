@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 51.513316,
-    "ref_longitude": 5.280476,
+    "ref_latitude": 51.496707,
+    "ref_longitude": 5.311865,
     "ref_altitude": 16,
     "contact_email": "koen@vancuijck.nl",
-    "description": "TTN Gateway RPi 2 with IMST iC880A-SPI located at Oirschot"
+    "description": "TTN Gateway RPi 2 with IMST iC880A-SPI located at Oirschot near A58"
   }
 }

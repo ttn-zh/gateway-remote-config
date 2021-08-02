@@ -10,8 +10,8 @@
 
           /* Enter VALID GPS coordinates below before enabling fake GPS */
                 "fake_gps": true,
-                "ref_latitude": 47.42942566,
-                "ref_longitude": 8.54080045,
+                "ref_latitude": 47.52620958,
+                "ref_longitude": 8.53795187,
                 "ref_altitude": 448,
                 "contact_email": "ursm@gmx.net",
                 "description": "zh-seebach",

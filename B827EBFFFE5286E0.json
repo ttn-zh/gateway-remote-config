@@ -9,8 +9,8 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": ,
-    "ref_longitude": ,
+    "ref_latitude": 0,
+    "ref_longitude": 0,
     "ref_altitude": 280,
     "contact_email": "ttn-arlesheim@gmail.com",
     "description": "ad hoc gateway John Dickinson"

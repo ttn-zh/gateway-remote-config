@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEF86A34",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 36.70924248,
+    "ref_longitude": 10.49125980,
+    "ref_altitude": 11,
+    "contact_email": "hadhemiray@gmail.com",
+    "description": "TTN"
+  }
+}

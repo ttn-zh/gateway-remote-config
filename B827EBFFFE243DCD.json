@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE243DCD",
+    "servers": [
+      {
+        "server_address": "ttn.opennetworkinfrastructure.org",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.4445430,
+    "ref_longitude": 8.6728690,
+    "ref_altitude": 545,
+    "contact_email": "rdu@rdt.ch",
+    "description": "TTN Lindau RDT"
+  }
+}

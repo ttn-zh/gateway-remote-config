@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE3D53F7",
+    "servers": [
+      {
+        "server_address": "router.cn.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 118.21,
+    "ref_longitude": 29.11,
+    "ref_altitude": 15.9,
+    "contact_email": "435984369@qq.com",
+    "description": "test"
+  }
+}

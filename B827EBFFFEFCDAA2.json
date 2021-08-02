@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEFCDAA2",
+	
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 52.21912410,
+    "ref_longitude": 4.42092605,
+    "ref_altitude": 10,
+    "contact_email": "cristina.romero.calvo@gmail.com",
+    "description": "TTN TEC-ESG Gateway #1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEDC6BD5",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 54.9790794,
+    "ref_longitude": -1.6165614,
+    "ref_altitude": 62,
+    "contact_email": "g.morritt@ncl.ac.uk",
+    "description": "Freitag Lab Gateway"
+  }
+}

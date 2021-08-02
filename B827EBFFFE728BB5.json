@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE728BB5",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 51.36233953,
+    "ref_longitude": 4.84483174,
+    "ref_altitude": 30,
+    "contact_email": "info@excitron.be",
+    "description": "IOT gateway for discovering the things network "
+  }
+}

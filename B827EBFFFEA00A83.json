@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 47.4047687,
-    "ref_longitude": 8.4944458,
-    "ref_altitude": 483,
+    "ref_latitude": 47.566716,
+    "ref_longitude": 7.644394,
+    "ref_altitude": 290,
     "contact_email": "funlab@bluewin.ch",
-    "description": "funlab.ch Gateway @ Zurich"
+    "description": "funlab.ch Gateway @ Riehen"
   }
 }
