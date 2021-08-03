@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEC82BA9",
+    "servers": [
+      {
+        "server_address": "eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.22508597084767,
+    "ref_longitude": 8.833774924278261,
+    "ref_altitude": 415,
+    "contact_email": "danilo@coredump.ch",
+    "description": "Coredump 02 (Hackerspace)"
+  }
+}
