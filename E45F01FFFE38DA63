@@ -9,8 +9,8 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 44,
-    "ref_longitude": 10,
+    "ref_latitude": 44.88016822106006,
+    "ref_longitude": 10.16696491987029,
     "ref_altitude": 45,
     "contact_email": "umbertoart7@gmail.com",
     "description": "terzo gateway ttn"
