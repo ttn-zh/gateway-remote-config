@@ -3,7 +3,7 @@
     "gateway_ID": "B827EBFFFE5CD31C",
     "servers": [
       {
-        "server_address": "router.eu.thethings.network",
+        "server_address": "eu1.cloud.thethings.network",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
@@ -11,7 +11,7 @@
     ],
     "ref_latitude": 59.30691050,
     "ref_longitude": 18.20615165,
-    "ref_altitude": 17,
+    "ref_altitude": 28,
     "contact_email": "roman.knellwolf@gmail.com",
     "description": "rokn-lab"
   }
