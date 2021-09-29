@@ -3,7 +3,7 @@
     "gateway_ID": "B827EBFFFE4AD528",
     "servers": [
       {
-        "server_address": "router.eu.thethings.network",
+        "server_address": "eu1.cloud.thethings.network",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
@@ -13,6 +13,6 @@
      "ref_longitude": -6.769638,
      "ref_altitude": 674,
      "contact_email": "barbosa1980@gmail.com",
-     "description": "symbio"
+     "description": "Gateway_Rak831"
   }
 }
