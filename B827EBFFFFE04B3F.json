@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFFE04B3F",
+    "servers": [
+      {
+        "server_address": "nam1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -26.305,
+    "ref_longitude": -48.846111111111,
+    "ref_altitude": 8,
+    "contact_email": "vickurschner@hotmail.com",
+    "description": "gateway for metereologic station, LISHA/UFSC-Joinville"
+  }
+}
