@@ -3,7 +3,7 @@
     "gateway_ID": "B827EBFFFEA394C1",
     "servers": [
       {
-        "server_address": "router.au.thethings.network",
+        "server_address": "au1.cloud.thethings.network",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
