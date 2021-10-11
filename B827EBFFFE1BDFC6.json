@@ -3,7 +3,7 @@
     "gateway_ID": "B827EBFFFE1BDFC6",
     "servers": [
       {
-        "server_address": "router.eu.thethings.network",
+        "server_address": "eu1.cloud.thethings.network",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
@@ -13,6 +13,6 @@
     "ref_longitude": 9.383296,
     "ref_altitude": 55,
     "contact_email": "lora-gateway@andreaslink.de",
-    "description": "TTN LoRa-Gateway by AndreasLink.de"
+    "description": "TTN/TTS LoRa Gateway by AndreasLink.de"
   }
 }
