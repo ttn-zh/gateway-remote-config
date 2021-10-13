@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE3752E0",
+    "servers": [
+      { 
+        "server_address": "router.eu.thethings.network", 
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 34.8377316,
+    "ref_longitude": 10.7573357,
+    "ref_altitude": 20,
+    "contact_email": "gapps@redcad.org",
+    "description": "Gateway 1 @ ReDCAD"
+  }
+}
