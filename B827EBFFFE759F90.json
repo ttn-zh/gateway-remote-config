@@ -3,7 +3,7 @@
     "gateway_ID": "B827EBFFFE759F90",
     "servers": [
       {
-        "server_address": "router.eu.thethings.network",
+        "server_address": "eu1.cloud.thethings.network",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
@@ -12,7 +12,7 @@
     "ref_latitude": 47.4746458,
     "ref_longitude": 7.7651012,
     "ref_altitude": 350,
-    "contact_email": "andreas.spiess@arumba.com",
+    "contact_email": "sensorsiot@gmail.com",
     "description": "TTN @ Lausen"
   }
 }

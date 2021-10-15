@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE64D01C",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 49.49959000,
+    "ref_longitude": 18.93174000,
+    "ref_altitude": 626,
+    "contact_email": "mikula.mich@gmail.com",
+    "description": "TTN UNIZA"
+  }
+}

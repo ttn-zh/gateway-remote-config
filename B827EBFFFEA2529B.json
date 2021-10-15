@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEA2529B",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 50.78281021,
+    "ref_longitude": 4.95137736,
+    "ref_altitude": 54,
+    "contact_email": "johan_laermans@hotmail.com",
+    "description": "3_io-things.eu"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFED574C9",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+
+    "fake_gps": true,
+    "ref_latitude": 53.3083029,
+    "ref_longitude": -6.20396609,
+    "ref_altitude": 12,
+    "contact_email": "ikoonman@gmail.com",
+    "description": "Personal projects"
+  }
+}

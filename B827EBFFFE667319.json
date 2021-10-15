@@ -3,16 +3,16 @@
     "gateway_ID": "B827EBFFFE667319",
     "servers": [
       {
-        "server_address": "router.eu.thethings.network",
+        "server_address": "eu1.cloud.thethings.network",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 50.1048,
-    "ref_longitude": 71.2645,
-    "ref_altitude": 358,
+    "ref_latitude": 51.0938,
+    "ref_longitude": 71.3986,
+    "ref_altitude": 0,
     "contact_email": "transcription@rambler.ru",
-    "description": "pcf agro project lora gateway"
+    "description": "nuris-gateway"
   }
 }

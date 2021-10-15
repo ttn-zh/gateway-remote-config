@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE9FAE60",
+    "servers": [
+      {
+        "server_address": "eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 52.38733480253317,
+    "ref_longitude": -1.5580144646585546,
+    "ref_altitude": 85,
+    "contact_email": "matthew.milne@zimmerpeacock.com",
+    "description": "Custom Built Gateway by MM of Zimmer & Peacock"
+  }
+}

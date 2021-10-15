@@ -1,0 +1,20 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE5BB33A",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+
+    "fake_gps": true,
+    "ref_latitude": 59.22932,
+    "ref_longitude": 6.07965,
+    "ref_altitude": 25,
+    "contact_email": "post@hauge-gartneri.no",
+    "description": "Hauge Gartneri IoT Network"
+  }
+}

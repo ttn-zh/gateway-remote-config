@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFEC090B5",
+    "gateway_ID": "B827EBFFFEF86A34",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 49.70329726,
-    "ref_longitude": 9.27571117,
+    "ref_latitude": 36.70924248,
+    "ref_longitude": 10.49125980,
     "ref_altitude": 11,
-    "contact_email": "simbl@live.de",
-    "description": "The Things Raspberry Pi Gateway"
+    "contact_email": "hadhemiray@gmail.com",
+    "description": "TTN"
   }
 }
