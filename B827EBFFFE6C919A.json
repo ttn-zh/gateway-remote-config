@@ -3,7 +3,6 @@
     "gateway_ID": "B827EBFFFE6C919A",
     "servers": [
       {
-        "gateway_ID": "B827EBFFFE6C919A",
         "server_address": "eu1.cloud.thethings.network",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
