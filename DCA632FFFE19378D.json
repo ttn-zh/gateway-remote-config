@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "DCA632FFFE19378D",
+    "servers": [
+      {
+        "server_address": "nam1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 34.3647,
+    "ref_longitude": -89.5384,
+    "ref_altitude": 40,
+    "contact_email": "rhoover@go.olemiss.edu",
+    "description": "Senior Design Project Group 2"
+  }
+}
