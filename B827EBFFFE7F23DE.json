@@ -1,0 +1,19 @@
+
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE7F23DE",
+    "servers": [
+      {
+        "server_address": "eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 51.107068,
+    "ref_longitude": -1.783590,
+    "ref_altitude": 88,
+    "contact_email": "zackleftwich@gmail.com",
+    "description": "Big shtinky gateway"
+  }
+}
