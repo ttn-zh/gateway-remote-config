@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFF510532",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 40.92439125741136,
+    "ref_longitude": -8.56445018509253,
+    "ref_altitude": 139,
+    "contact_email": "joanasteixeira@ua.pt",
+    "description": "ic880a Rpi"
+  }
+}
