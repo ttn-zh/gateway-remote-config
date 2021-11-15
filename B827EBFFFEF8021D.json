@@ -3,7 +3,7 @@
     "gateway_ID": "B827EBFFFEF8021D",
     "servers": [
       {
-        "server_address": "router.eu.thethings.network",
+        "server_address": "eu1.cloud.thethings.network",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
@@ -13,6 +13,6 @@
     "ref_longitude": 5.311865,
     "ref_altitude": 16,
     "contact_email": "koen@vancuijck.nl",
-    "description": "TTN Gateway RPi 2 with IMST iC880A-SPI located at Oirschot near A58"
+    "description": "TTN GW V3 RPi2 and iC880A-SPI at Oirschot near A58"
   }
 }
