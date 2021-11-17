@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE082F1B",
+    "servers": [
+      {
+        "server_address": "eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 51.926132,
+    "ref_longitude": 8.38588,
+    "ref_altitude": 75,
+    "contact_email": "e.nungesser@hymmen.com",
+    "description": "TTN Germany Hymmen"
+  }
+}
