@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEEE814F",
+    "servers": [
+      {
+        "server_address": "eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 40.58394282,
+    "ref_longitude": 22.95161408,
+    "ref_altitude": 20,
+    "contact_email": "nmav@imachines.gr",
+    "description": "gkastom07"
+  }
+}
