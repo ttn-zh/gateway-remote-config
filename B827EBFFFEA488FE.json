@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEA488FE",
+    "servers": [
+      {
+        "server_address": "eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 49.34,
+    "ref_longitude": 8.15,
+    "ref_altitude": 135,
+    "contact_email": "nklein2102@gmail.com",
+    "description": "RAK7246-DRKNW"
+  }
+}
