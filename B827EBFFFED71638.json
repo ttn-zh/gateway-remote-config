@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFED71638",
+    "servers": [
+      {
+        "server_address": "eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.37070508418078,
+    "ref_longitude": 8.87075185775757,
+    "ref_altitude": 650,
+    "contact_email": "p@ppq.ch",
+    "description": "ttn-bauma"
+  }
+}
