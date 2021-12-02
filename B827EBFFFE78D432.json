@@ -3,7 +3,7 @@
     "gateway_ID": "B827EBFFFE78D432",
     "servers": [
       {
-        "server_address": "router.eu.thethings.network",
+        "server_address": "eu1.cloud.thethings.network",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
@@ -13,6 +13,6 @@
     "ref_longitude": 11.637085,
     "ref_altitude": 650,
     "contact_email": "walter@zebeg.com",
-    "description": "vahrnsloragw"
+    "description": "v3-eggbagvalley2"
   }
 }
