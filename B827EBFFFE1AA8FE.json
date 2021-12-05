@@ -1,0 +1,21 @@
+{
+  "gateway_conf": 
+  {
+    "gateway_ID": "B827EBFFFE1AA8FE",
+    "servers": 
+    [
+      {
+        "server_address": "eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 52.57720894,
+    "ref_longitude": -1.17463371,
+    "ref_altitude": 76,
+    "contact_email": "mnotgninnep@gmail.com",
+    "description": "TTN-UK-Leicesetershire-Whetstone"
+  }
+}
