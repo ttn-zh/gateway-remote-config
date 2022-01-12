@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEE0AC74",
+    "servers": [
+      {
+        "server_address": "eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.1511,
+    "ref_longitude": 15.44778,
+    "ref_altitude": 700,
+    "contact_email": "peru77@gmx.at",
+    "description": "Hohenberg Chicken Gateway"
+  }
+}
