@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B69C85FFFEE31D44",
+    "servers": [
+      {
+        "server_address": "eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 56.8091254,
+    "ref_longitude": 24.6070218,
+    "ref_altitude": 20,
+    "contact_email": "edijsg12@gmail.com",
+    "description": "RR"
+  }
+}
