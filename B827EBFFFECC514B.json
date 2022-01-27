@@ -1,0 +1,18 @@
+{
+    "gateway_conf" : {
+         "gateway_ID" : "B827EBFFFECC514B",
+         "servers" : [
+              {
+                   "server_address" : "router.us.thethings.network",
+                   "serv_port_up" : 1700,
+                   "serv_port_down" : 1700,
+                   "serv_enabled" : true
+              }
+         ],
+         "ref_latitude" : -4.03031,
+         "ref_longitude" : -79.19948,
+         "ref_altitude" : 2060,
+         "contact_email" : "iotstoreec@gmail.com",
+         "description" : "Gateway UNL"
+    }
+}
