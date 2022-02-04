@@ -3,9 +3,9 @@
     "gateway_ID": "B827EBFFFE082F1B",
     "servers": [
       {
-        "server_address": "eu1.cloud.thethings.network",
+        "server_address": "localhost",
         "serv_port_up": 1700,
-        "serv_port_down": 1700,
+        "serv_port_down": 1701,
         "serv_enabled": true
       }
     ],
