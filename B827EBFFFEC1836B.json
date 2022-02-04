@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFEC1836B", 
+		"servers": [ 
+			{ 
+				"server_address": "eu1.cloud.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 48.888907, 
+		"ref_longitude": 9.133500, 
+		"ref_altitude": 295, 
+		"contact_email": "loragateway@andreasbucher.de", 
+		"description": "RaspberryPI Zero W with RAK 831" 
+	} 
+}
