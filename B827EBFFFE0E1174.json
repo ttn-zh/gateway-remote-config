@@ -1,0 +1,19 @@
+
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE0E1174",
+    "servers": [
+      {
+        "server_address": "eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 36.881722587899624,
+    "ref_longitude": 10.190194539524512,
+    "ref_altitude": 12,
+    "contact_email": "amir.rouatbi@supcom.tn",
+    "description": "RaspberryPI 3 with RHF0M301"
+  }
+}
