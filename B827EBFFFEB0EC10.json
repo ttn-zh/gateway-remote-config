@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB0EC10",
+    "servers": [
+      {
+        "server_address": "eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 51.557240,
+    "ref_longitude": 4.516630,
+    "ref_altitude": 10,
+    "contact_email": "timovansark@live.nl",
+    "description": "timboooh"
+  }
+}
