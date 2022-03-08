@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "4A64F3FFFE8BBC35",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 13.9097774,
+    "ref_longitude": 100.5479179,
+    "ref_altitude": 20,
+    "contact_email": "chanita@eloc8.com",
+    "description": "TTN eLOC8 office"
+  }
+}
