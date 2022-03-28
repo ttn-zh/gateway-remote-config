@@ -1,0 +1,18 @@
+{
+   "gateway_conf":{
+      "gateway_ID":"B827EBFFFE64D01C",
+      "servers":[
+         {
+            "server_address":"eu1.cloud.thethings.network",
+            "serv_port_up":1700,
+            "serv_port_down":1700,
+            "serv_enabled":true
+         }
+      ],
+      "ref_latitude":48.374249,
+      "ref_longitude":17.581978,
+      "ref_altitude":144,
+      "contact_email":"rampak@stud.uniza.sk",
+      "description":"TTN UNIZA"
+   }
+}
