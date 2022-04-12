@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE0C5FD4",
+    "servers": [
+      {
+        "server_address": "eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 48.913739248485044,
+    "ref_longitude": 2.3904302716255192,
+    "ref_altitude": 0,
+    "contact_email": "bdahmoul@gmail.com",
+    "description": "TTN Ruche"
+  }
+}
