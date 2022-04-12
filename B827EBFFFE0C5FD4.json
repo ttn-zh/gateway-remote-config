@@ -9,8 +9,8 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 48,913739248485044,
-    "ref_longitude": 2,3904302716255192,
+    "ref_latitude": 48.913739248485044,
+    "ref_longitude": 2.3904302716255192,
     "ref_altitude": 0,
     "contact_email": "bdahmoul@gmail.com",
     "description": "TTN Ruche"
