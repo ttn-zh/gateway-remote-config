@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE16FC4A", 
+		"servers": [ 
+			{ 
+				"server_address": "nam1.cloud.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 27.48642, 
+		"ref_longitude": -109.94083, 
+		"ref_altitude": 40, 
+		"contact_email": "alvarohqr@gmail.com", 
+		"description": "Air Quality & Weather Monitoring System" 
+	} 
+} 
