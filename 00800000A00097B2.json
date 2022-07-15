@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "DCA632FFFE495521",
+    "gateway_ID": "00800000A00097B2",
     "servers": [
       {
         "server_address":"eu1.cloud.thethings.network",
@@ -11,8 +11,8 @@
     ],
     "ref_latitude": 41.9628686,
     "ref_longitude": 2.8298635,
-    "ref_altitude": 50,
-    "contact_email": "ricardcasas@yahoo.es",
-    "description": "Proves UdG"
+    "ref_altitude": 20,
+    "contact_email": "loraexit@udg.edu",
+    "description": "eXiT UdG"
   }
 }
