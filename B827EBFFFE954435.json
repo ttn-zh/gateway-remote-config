@@ -1,0 +1,18 @@
+{
+    "gateway_conf": {
+      "gateway_ID": "B827EBFFFE954435",
+      "servers": [
+        {
+          "server_address": "router.eu.thethings.network",
+          "serv_port_up": 1700,
+          "serv_port_down": 1700,
+          "serv_enabled": true
+        }
+      ],
+      "ref_latitude": 50.479596029432415, 
+      "ref_longitude": 5.711699772244844,
+      "ref_altitude": 145,
+      "contact_email": "on3dex@protonmail.com",
+      "description": "IC880a"
+    }
+}
