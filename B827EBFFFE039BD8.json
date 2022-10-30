@@ -1,0 +1,18 @@
+{
+ "gateway_conf": {
+   "gateway_ID": "eui-b827ebfffe039bd8",
+   "servers": [
+     {
+      "server_address": "eu1.cloud.thethings.network",
+      "serv_port_up": 1700,
+      "serv_port_down": 1700,
+      "serv_enabled": true
+     }
+   ],
+   "ref_latitude": 50,988743009167784,
+   "ref_longitude": 11,067151739819591,
+   "ref_altitude": 230,
+   "contact_email": "fpf2000@gmx.de",
+   "description": "ttn-Ringelberg"
+  }
+}
