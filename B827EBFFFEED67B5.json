@@ -1,0 +1,20 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEED67B5",
+    "servers": [
+      {
+        "server_address": "eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+
+    "fake_gps": true,
+    "ref_latitude": 35.531859,
+    "ref_longitude": 24.070407,
+    "ref_altitude": 136,
+    "contact_email": "aggelos.anto@gmail.com",
+    "description": "IoT gateway provided by SenseLab, Technical University of Crete."
+  }
+}
