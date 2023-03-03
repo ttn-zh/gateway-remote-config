@@ -1,0 +1,19 @@
+
+{
+  "gateway_conf": {
+    "gateway_ID": "eui-b827ebfffeeb442",
+    "servers": [
+      {
+        "server_address":"eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 35.084251,
+    "ref_longitude": -106.649239,
+    "ref_altitude": 20,
+    "contact_email": "alexsho@gmail.com",
+    "description": "raspi_test"
+  }
+}
