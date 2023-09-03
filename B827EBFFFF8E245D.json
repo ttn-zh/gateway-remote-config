@@ -1,0 +1,18 @@
+{
+    "gateway_conf": {
+      "gateway_ID": "B827EBFFFF8E245D",
+      "servers": [
+        {
+          "server_address": "au1.cloud.thethings.network",
+          "serv_port_up": 1700,
+          "serv_port_down": 1700,
+          "serv_enabled": true
+        }
+      ],
+      "ref_latitude": "-31.30897899615211",
+      "ref_longitude": "-54.11360138275625",
+      "ref_altitude": "0",
+      "contact_email": "diegonf25@gmail.com",
+      "description": "RHF0M301"
+    }
+  }
