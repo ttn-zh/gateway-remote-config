@@ -1,6 +1,6 @@
 {
     "gateway_conf": {
-      "gateway_ID": "B827EBFF8E245D",
+      "gateway_ID": "B827EBFFFF8E245D",
       "servers": [
         {
           "server_address": "au1.cloud.thethings.network",
