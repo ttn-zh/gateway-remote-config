@@ -1,0 +1,18 @@
+{
+        "gateway_conf": {
+                "gateway_ID": "B827EBFFFE961BE6",
+                "servers": [
+                 {
+                  "server_address": "lumia.nam1.cloud.thethings.industries",
+                  "serv_port_up": 1700,
+                  "serv_port_down": 1700,
+                  "serv_enabled": true
+                 }
+                ],
+                "ref_latitude": 19.420166337961575,
+                "ref_longitude": -99.2253663727456,
+                "ref_altitude": 40,
+                "contact_email": "armando.aperez.gk@gmail.com",
+                "description": "gkm-gateway"
+        }
+}
