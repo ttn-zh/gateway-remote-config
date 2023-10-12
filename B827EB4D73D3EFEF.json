@@ -1,0 +1,19 @@
+{
+    "gateway_config": {
+        "gateway_ID": "B827EB4D73D3EFEF",
+        "servers":[
+            {
+                "server_address": "router.eu.thethings.network",
+                "serv_port_up": 1700,
+                "serv_port_down": 1700,
+                "serv_enabled": true
+            }
+        ],
+        "fake_gps": true,
+        "ref_latitude": 35.75856052504779,
+        "ref_longitude": 51.405946619360975,
+        "ref_altitude": 900,
+        "contact_email": "a.e.fathabadi@gmail.com",
+        "description": "bfh thesis: iC880A-spi + Rpi2"
+    }
+}
