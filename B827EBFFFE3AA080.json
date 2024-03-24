@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE3AA080",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 44.5471008,
+    "ref_longitude": 6.4873101,
+    "ref_altitude": 800,
+    "contact_email": "lamaisonintelligente05@gmail.com",
+    "description": "TTN Embrun lmi05"
+  }
+}
