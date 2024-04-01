@@ -4,8 +4,8 @@
     "servers": [
       {
         "server_address": "eu1.cloud.thethings.network",
-        "serv_port_up": 1700,
-        "serv_port_down": 1700,
+        "serv_port_up": 1680,
+        "serv_port_down": 1680,
         "serv_enabled": true
       }
     ],
