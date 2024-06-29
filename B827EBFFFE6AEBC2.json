@@ -171,19 +171,15 @@
     }
   },
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE6AEBC2",
-    "server_address": "eu1.cloud.thethings.network",
-    "serv_port_up": 1700,
-    "serv_port_down": 1700,
+    "gateway_ID": "B827EBFFFE3FBE97",
     "servers": [
       {
-        "gateway_ID": "B827EBFFFE6AEBC2",
         "server_address": "eu1.cloud.thethings.network",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
       }
-    ]
+    ],
 	"fake_gps": true,
 	"ref_latitude": -25.66871,
 	"ref_longitude": 28.08734,
