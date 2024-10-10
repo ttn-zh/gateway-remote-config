@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "DCA632FFFE0C1A8A",
+    "servers": [
+      {
+        "server_address":"eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 62.436970,
+    "ref_longitude": 22.187285,
+    "ref_altitude": 80,
+    "contact_email": "lasse.kanko@gmail.com",
+    "description": "TTN-gateway-Kjoki"
+  }
+}
