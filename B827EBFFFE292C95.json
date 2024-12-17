@@ -3,7 +3,7 @@
     "gateway_ID": "B827EBFFFE292C95",
     "servers": [
       {
-        "server_address": "router.eu.thethings.network",
+        "server_address": "eu1.cloud.thethings.network",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
@@ -16,10 +16,10 @@
       }
     ],
     "fake_gps": true,
-    "ref_latitude": 45.208,
-    "ref_longitude": 5.782,
+    "ref_latitude": 45.191,
+    "ref_longitude": 5.7135,
     "ref_altitude": 220,
-    "contact_email": "contact@hidnseek.fr",
-    "description": "ttn-hidnseek4"
+    "contact_email": "stephane.driussi@zero-carbon-emission.fr",
+    "description": "Zero Carbon Emission Office Gateway"
   }
 }
