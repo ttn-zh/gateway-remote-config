@@ -3,7 +3,7 @@
     "gateway_ID": "B827EBFFFE54BAB4",
     "servers": [
       {
-        "server_address": "ttn.opennetworkinfrastructure.org",
+        "server_address": "router.eu.thethings.network",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
@@ -13,7 +13,7 @@
     "ref_latitude": 46.854606,
     "ref_longitude": 7.036160,
     "ref_altitude": 535,
-    "contact_email": "t@jaeggiweb.ch",
+    "contact_email": "thomas@jaeggiweb.ch",
     "description": "Thomas Jaeggi Oleyres VD Schweiz"
   }
 }
